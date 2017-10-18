@@ -19,6 +19,9 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1508321748722">
         <mark key="'" line="36" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/channelResourceTab.xhtml" timestamp="1508338718597">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" timestamp="1508318396772">
         <mark key="'" line="32" column="93" />
         <mark key="[" line="0" column="0" />
@@ -162,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
       <jump line="147" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
       <jump line="150" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
       <jump line="155" column="91" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
@@ -262,6 +264,7 @@
       <jump line="53" column="5" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" />
       <jump line="311" column="67" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" />
       <jump line="112" column="109" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/channelResourceTab.xhtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,7 +277,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>location</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIkNhdGVnb3JpZcOrbiIsIHNlbGVuaXVtQ2FsbFRlbXBsYXRlLmZpbmRFbGVtZW50KEJ5LnhwYXRoKCIvL3NwYW5bQGlkPSd2aWRlb0NhdGVnb3JpZXNMYWJlbCddIikpLmdldFRleHQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJBY3RpZSwgRHJhbWEsIE1pc2RhYWQiLCBzZWxlbml1bUNhbGxUZW1wbGF0ZS5maW5kRWxlbWVudChCeS54cGF0aCgiLy9zcGFuW0BpZD0ndmlkZW9DYXRlZ29yaWVzJ10iKSkuZ2V0VGV4dCgpKTsK</text>
@@ -311,9 +314,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>location</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>location</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -321,8 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setgenr</entry>
-        <entry>testrand</entry>
         <entry>step</entry>
         <entry>stage</entry>
         <entry>detail</entry>
@@ -341,6 +342,8 @@
         <entry>setdisp</entry>
         <entry>displayp</entry>
         <entry>create</entry>
+        <entry>ipt</entry>
+        <entry>location</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
