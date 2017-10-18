@@ -3,11 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/ResourceResult.java" timestamp="1508321878487">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="78" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" timestamp="1507895906622">
         <mark key="'" line="35" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" timestamp="1508322593713">
+        <mark key="'" line="28" column="24" />
+        <mark key="[" line="1047" column="33" />
+        <mark key="]" line="1047" column="34" />
+        <mark key="." line="1047" column="34" />
+        <mark key="^" line="1047" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UpgradeClientOS.java" timestamp="1507707708395">
         <mark key="'" line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1508321748722">
+        <mark key="'" line="36" column="13" />
       </file>
       <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" timestamp="1508318396772">
         <mark key="'" line="32" column="93" />
@@ -57,11 +71,23 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1508320795143">
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="234" column="51" />
+        <mark key="." line="233" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/event/model/function/EventProcessingService.java" timestamp="1507813535394">
         <mark key="'" line="1124" column="56" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/service/autoupdate/AutoUpdateOverviewBean.java" timestamp="1507713284093">
         <mark key="'" line="47" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1508322567863">
+        <mark key="'" line="697" column="33" />
+        <mark key="[" line="1050" column="0" />
+        <mark key="]" line="1051" column="35" />
+        <mark key="^" line="1051" column="33" />
+        <mark key="." line="1051" column="33" />
       </file>
       <file name="/ClientHW.java" timestamp="1508233077106">
         <mark key="'" line="359" column="57" />
@@ -69,7 +95,21 @@
       <file name="/HTML File.txt.ft" timestamp="1508310458641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508318882836">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1508322540281">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1056" column="31" />
+        <mark key="]" line="1056" column="34" />
+        <mark key="." line="1056" column="34" />
+        <mark key="^" line="1056" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508323000021">
+        <mark key="'" line="125" column="45" />
+        <mark key="[" line="446" column="43" />
+        <mark key="]" line="446" column="42" />
+        <mark key="^" line="446" column="42" />
+        <mark key="." line="446" column="42" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508321158512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508160616523">
@@ -87,10 +127,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/informationcenter/TestInformationCenter.java" timestamp="1507886402344">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="175" column="74" />
-        <mark key="." line="152" column="89" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" timestamp="1508322123770">
+        <mark key="'" line="89" column="34" />
+        <mark key="[" line="104" column="9" />
+        <mark key="]" line="105" column="28" />
+        <mark key="." line="105" column="28" />
+        <mark key="^" line="105" column="28" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
         <mark key="[" line="49" column="40" />
@@ -135,7 +177,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1508232933957">
+      <file name="/fragment.java" timestamp="1508321148763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" timestamp="1507899278142">
@@ -146,32 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/SynchronizeLdapUsers.java" />
-      <jump line="127" column="11" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/SynchronizeLdapUsers.java" />
-      <jump line="35" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/SynchronizeLdapUsers.java" />
-      <jump line="35" column="40" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" />
-      <jump line="16" column="59" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/service/autoupdate/autoUpdateOverviewTab.xhtml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" />
-      <jump line="662" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" />
-      <jump line="671" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" />
-      <jump line="1816" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" />
-      <jump line="18" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/service/autoupdate/UpdatableMediumView.java" />
-      <jump line="23" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/service/autoupdate/AutoUpdateView.java" />
-      <jump line="29" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/RemoteOperationsServiceImpl.java" />
-      <jump line="22" column="65" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
-      <jump line="48" column="81" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/peripheralInterfaces.xhtml" />
-      <jump line="19" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
-      <jump line="38" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
-      <jump line="73" column="52" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
-      <jump line="92" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
-      <jump line="94" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
-      <jump line="95" column="32" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
-      <jump line="117" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
-      <jump line="133" column="45" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
-      <jump line="167" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
-      <jump line="185" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
       <jump line="187" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
       <jump line="188" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
       <jump line="194" column="48" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" />
@@ -246,6 +262,32 @@
       <jump line="45" column="290" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
       <jump line="23" column="186" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
       <jump line="32" column="93" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
+      <jump line="24" column="22" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="31" column="63" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="37" column="71" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="40" column="75" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="46" column="68" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="48" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="125" column="45" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="36" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
+      <jump line="60" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" />
+      <jump line="16" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" />
+      <jump line="29" column="39" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" />
+      <jump line="13" column="7" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" />
+      <jump line="89" column="34" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" />
+      <jump line="1816" column="14" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="1852" column="111" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="686" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="1050" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="1548" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="1549" column="32" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="1550" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="1551" column="40" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="1552" column="46" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="1692" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="697" column="33" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" />
+      <jump line="28" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -255,67 +297,56 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>stage</text>
+        <text>videoreso</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVjaygiY2xpZW50SFciLCBuZXcgU3RyaW5nW10geyByZHBTdG9yYWdlLCBlYm9TdG9yYWdlLCBwYXJhbGxlbCB9LCB0cnVlKTsKICAgICAgICBjaGVjaygiY2xpZW50SFciLCBuZXcgU3RyaW5nW10geyB1c2IsIHNlcmlhbCwgYXVkaW8sIHNtYXJ0Y2FyZCB9LCBmYWxzZSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVuZGVyZWQ9IiN7dmlkZW9Qb3J0YWxCZWFuLmRldGFpbFZpZGVvLnJlc291cmNlLnZpZGVvQ2xhc3NpZmljYXRpb25zLnNpemUgPT0gMX0iIC8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2ci5nZXRWaWRlb0NsYXNzaWZpY2F0aW9ucygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vVGhlIGdsb2JhbCBzY3JpcHQgc2NvcGUKZGVmIGN0eCA9IGNvbnRleHQoc2NvcGU6IHNjcmlwdFNjb3BlKCkpCmNvbnRyaWJ1dG9yKGN0eCkgewptZXRob2QobmFtZTogJ2J1aWxkJywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW2pvYjonamF2YS5sYW5nLlN0cmluZyddLCBkb2M6ICdCdWlsZCBhIGpvYicpCm1ldGhvZChuYW1lOiAnYnVpbGQnLCB0eXBlOiAnT2JqZWN0JywgbmFtZWRQYXJhbXM6IFtwYXJhbWV0ZXIobmFtZTogJ2pvYicsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAncGFyYW1ldGVycycsIHR5cGU6ICdNYXAnKSwgcGFyYW1ldGVyKG5hbWU6ICdwcm9wYWdhdGUnLCB0eXBlOiAnYm9vbGVhbicpLCBwYXJhbWV0ZXIobmFtZTogJ3F1aWV0UGVyaW9kJywgdHlwZTogJ2phdmEubGFuZy5JbnRlZ2VyJyksIHBhcmFtZXRlcihuYW1lOiAnd2FpdCcsIHR5cGU6ICdib29sZWFuJyksIF0sIGRvYzogJ0J1aWxkIGEgam9iJykKbWV0aG9kKG5hbWU6ICdlY2hvJywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW21lc3NhZ2U6J2phdmEubGFuZy5TdHJpbmcnXSwgZG9jOiAnUHJpbnQgTWVzc2FnZScpCm1ldGhvZChuYW1lOiAnZXJyb3InLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbbWVzc2FnZTonamF2YS5sYW5nLlN0cmluZyddLCBkb2M6ICdFcnJvciBzaWduYWwnKQptZXRob2QobmFtZTogJ2lucHV0JywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW21lc3NhZ2U6J2phdmEubGFuZy5TdHJpbmcnXSwgZG9jOiAnV2FpdCBmb3IgaW50ZXJhY3RpdmUgaW5wdXQnKQptZXRob2QobmFtZTogJ2lucHV0JywgdHlwZTogJ09iamVjdCcsIG5hbWVkUGFyYW1zOiBbcGFyYW1ldGVyKG5hbWU6ICdtZXNzYWdlJywgdHlwZTogJ2phdmEubGFuZy5TdHJpbmcnKSwgcGFyYW1ldGVyKG5hbWU6ICdpZCcsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAnb2snLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBwYXJhbWV0ZXIobmFtZTogJ3BhcmFtZXRlcnMnLCB0eXBlOiAnTWFwJyksIHBhcmFtZXRlcihuYW1lOiAnc3VibWl0dGVyJywgdHlwZTogJ2phdmEubGFuZy5TdHJpbmcnKSwgXSwgZG9jOiAnV2FpdCBmb3IgaW50ZXJhY3RpdmUgaW5wdXQnKQptZXRob2QobmFtZTogJ2lzVW5peCcsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFs6XSwgZG9jOiAnQ2hlY2tzIGlmIHJ1bm5pbmcgb24gYSBVbml4LWxpa2Ugbm9kZScpCm1ldGhvZChuYW1lOiAnbGlicmFyeVJlc291cmNlJywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW3Jlc291cmNlOidqYXZhLmxhbmcuU3RyaW5nJ10sIGRvYzogJ0xvYWQgYSByZXNvdXJjZSBmaWxlIGZyb20gYSBzaGFyZWQgbGlicmFyeScpCm1ldGhvZChuYW1lOiAnbWFpbCcsIHR5cGU6ICdPYmplY3QnLCBuYW1lZFBhcmFtczogW3BhcmFtZXRlcihuYW1lOiAnc3ViamVjdCcsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAnYm9keScsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAnYmNjJywgdHlwZTogJ2phdmEubGFuZy5TdHJpbmcnKSwgcGFyYW1ldGVyKG5hbWU6ICdjYycsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAnY2hhcnNldCcsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAnZnJvbScsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAnbWltZVR5cGUnLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBwYXJhbWV0ZXIobmFtZTogJ3JlcGx5VG8nLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBwYXJhbWV0ZXIobmFtZTogJ3RvJywgdHlwZTogJ2phdmEubGFuZy5TdHJpbmcnKSwgXSwgZG9jOiAnTWFpbCcpCm1ldGhvZChuYW1lOiAnbm9kZScsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtsYWJlbDpqYXZhLmxhbmcuU3RyaW5nLCBib2R5OidDbG9zdXJlJ10sIGRvYzogJ0FsbG9jYXRlIG5vZGUnKQptZXRob2QobmFtZTogJ3Byb3BlcnRpZXMnLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbcHJvcGVydGllczonTWFwJ10sIGRvYzogJ1NldCBqb2IgcHJvcGVydGllcycpCm1ldGhvZChuYW1lOiAncmVhZFRydXN0ZWQnLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbcGF0aDonamF2YS5sYW5nLlN0cmluZyddLCBkb2M6ICdSZWFkIHRydXN0ZWQgZmlsZSBmcm9tIFNDTScpCm1ldGhvZChuYW1lOiAncmV0cnknLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbY291bnQ6aW50LCBib2R5OidDbG9zdXJlJ10sIGRvYzogJ1JldHJ5IHRoZSBib2R5IHVwIHRvIE4gdGltZXMnKQptZXRob2QobmFtZTogJ3NsZWVwJywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW3RpbWU6J2ludCddLCBkb2M6ICdTbGVlcCcpCm1ldGhvZChuYW1lOiAnc2xlZXAnLCB0eXBlOiAnT2JqZWN0JywgbmFtZWRQYXJhbXM6IFtwYXJhbWV0ZXIobmFtZTogJ3RpbWUnLCB0eXBlOiAnaW50JyksIHBhcmFtZXRlcihuYW1lOiAndW5pdCcsIHR5cGU6ICdqYXZhLnV0aWwuY29uY3VycmVudC5UaW1lVW5pdCcpLCBdLCBkb2M6ICdTbGVlcCcpCm1ldGhvZChuYW1lOiAnc3NoYWdlbnQnLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbY3JlZGVudGlhbHM6TWFwLCBib2R5OidDbG9zdXJlJ10sIGRvYzogJ1NTSCBBZ2VudCcpCm1ldGhvZChuYW1lOiAnc3NoYWdlbnQnLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbYm9keTpDbG9zdXJlXSwgbmFtZWRQYXJhbXM6IFtwYXJhbWV0ZXIobmFtZTogJ2NyZWRlbnRpYWxzJywgdHlwZTogJ01hcCcpLCBwYXJhbWV0ZXIobmFtZTogJ2lnbm9yZU1pc3NpbmcnLCB0eXBlOiAnYm9vbGVhbicpLCBdLCBkb2M6ICdTU0ggQWdlbnQnKQptZXRob2QobmFtZTogJ3N0YWdlJywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW25hbWU6amF2YS5sYW5nLlN0cmluZywgYm9keTonQ2xvc3VyZSddLCBkb2M6ICdTdGFnZScpCm1ldGhvZChuYW1lOiAnc3RhZ2UnLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbYm9keTpDbG9zdXJlXSwgbmFtZWRQYXJhbXM6IFtwYXJhbWV0ZXIobmFtZTogJ25hbWUnLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBwYXJhbWV0ZXIobmFtZTogJ2NvbmN1cnJlbmN5JywgdHlwZTogJ2phdmEubGFuZy5JbnRlZ2VyJyksIF0sIGRvYzogJ1N0YWdlJykKbWV0aG9kKG5hbWU6ICd0aW1lb3V0JywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW3RpbWU6aW50LCBib2R5OidDbG9zdXJlJ10sIGRvYzogJ0VuZm9yY2UgdGltZSBsaW1pdCcpCm1ldGhvZChuYW1lOiAndGltZW91dCcsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtib2R5OkNsb3N1cmVdLCBuYW1lZFBhcmFtczogW3BhcmFtZXRlcihuYW1lOiAndGltZScsIHR5cGU6ICdpbnQnKSwgcGFyYW1ldGVyKG5hbWU6ICd1bml0JywgdHlwZTogJ2phdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0JyksIF0sIGRvYzogJ0VuZm9yY2UgdGltZSBsaW1pdCcpCm1ldGhvZChuYW1lOiAndG9vbCcsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtuYW1lOidqYXZhLmxhbmcuU3RyaW5nJ10sIGRvYzogJ1VzZSBhIHRvb2wgZnJvbSBhIHByZWRlZmluZWQgVG9vbCBJbnN0YWxsYXRpb24nKQptZXRob2QobmFtZTogJ3Rvb2wnLCB0eXBlOiAnT2JqZWN0JywgbmFtZWRQYXJhbXM6IFtwYXJhbWV0ZXIobmFtZTogJ25hbWUnLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBwYXJhbWV0ZXIobmFtZTogJ3R5cGUnLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBdLCBkb2M6ICdVc2UgYSB0b29sIGZyb20gYSBwcmVkZWZpbmVkIFRvb2wgSW5zdGFsbGF0aW9uJykKbWV0aG9kKG5hbWU6ICd3YWl0VW50aWwnLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbYm9keTonQ2xvc3VyZSddLCBkb2M6ICdXYWl0IGZvciBjb25kaXRpb24nKQptZXRob2QobmFtZTogJ3dpdGhFbnYnLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbb3ZlcnJpZGVzOk1hcCwgYm9keTonQ2xvc3VyZSddLCBkb2M6ICdTZXQgZW52aXJvbm1lbnQgdmFyaWFibGVzJykKbWV0aG9kKG5hbWU6ICd3cycsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtkaXI6amF2YS5sYW5nLlN0cmluZywgYm9keTonQ2xvc3VyZSddLCBkb2M6ICdBbGxvY2F0ZSB3b3Jrc3BhY2UnKQptZXRob2QobmFtZTogJ2NhdGNoRXJyb3InLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbYm9keTonQ2xvc3VyZSddLCBkb2M6ICdBZHZhbmNlZC9EZXByZWNhdGVkIENhdGNoIGVycm9yIGFuZCBzZXQgYnVpbGQgcmVzdWx0JykKcHJvcGVydHkobmFtZTogJ2VudicsIHR5cGU6ICdvcmcuamVua2luc2NpLnBsdWdpbnMud29ya2Zsb3cuY3BzLkVudkFjdGlvbkltcGwuQmluZGVyJykKcHJvcGVydHkobmFtZTogJ2N1cnJlbnRCdWlsZCcsIHR5cGU6ICdvcmcuamVua2luc2NpLnBsdWdpbnMud29ya2Zsb3cuY3BzLlJ1bldyYXBwZXJCaW5kZXInKQpwcm9wZXJ0eShuYW1lOiAnc2NtJywgdHlwZTogJ29yZy5qZW5raW5zY2kucGx1Z2lucy53b3JrZmxvdy5tdWx0aWJyYW5jaC5TQ01WYXInKQp9Ci8vU3RlcHMgdGhhdCByZXF1aXJlIGEgbm9kZSBjb250ZXh0CmRlZiBub2RlQ3R4ID0gY29udGV4dChzY29wZTogY2xvc3VyZVNjb3BlKCkpCmNvbnRyaWJ1dG9yKG5vZGVDdHgpIHsKICAgIGRlZiBjYWxsID0gZW5jbG9zaW5nQ2FsbCgnbm9kZScpCiAgICBpZiAoY2FsbCkgewptZXRob2QobmFtZTogJ2JhdCcsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtzY3JpcHQ6J2phdmEubGFuZy5TdHJpbmcnXSwgZG9jOiAnV2luZG93cyBCYXRjaCBTY3JpcHQnKQptZXRob2QobmFtZTogJ2JhdCcsIHR5cGU6ICdPYmplY3QnLCBuYW1lZFBhcmFtczogW3BhcmFtZXRlcihuYW1lOiAnc2NyaXB0JywgdHlwZTogJ2phdmEubGFuZy5TdHJpbmcnKSwgcGFyYW1ldGVyKG5hbWU6ICdlbmNvZGluZycsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAncmV0dXJuU3RhdHVzJywgdHlwZTogJ2Jvb2xlYW4nKSwgcGFyYW1ldGVyKG5hbWU6ICdyZXR1cm5TdGRvdXQnLCB0eXBlOiAnYm9vbGVhbicpLCBdLCBkb2M6ICdXaW5kb3dzIEJhdGNoIFNjcmlwdCcpCm1ldGhvZChuYW1lOiAnY2hlY2tvdXQnLCB0eXBlOiAnT2JqZWN0JywgcGFyYW1zOiBbc2NtOidNYXAnXSwgZG9jOiAnR2VuZXJhbCBTQ00nKQptZXRob2QobmFtZTogJ2NoZWNrb3V0JywgdHlwZTogJ09iamVjdCcsIG5hbWVkUGFyYW1zOiBbcGFyYW1ldGVyKG5hbWU6ICdzY20nLCB0eXBlOiAnTWFwJyksIHBhcmFtZXRlcihuYW1lOiAnY2hhbmdlbG9nJywgdHlwZTogJ2Jvb2xlYW4nKSwgcGFyYW1ldGVyKG5hbWU6ICdwb2xsJywgdHlwZTogJ2Jvb2xlYW4nKSwgXSwgZG9jOiAnR2VuZXJhbCBTQ00nKQptZXRob2QobmFtZTogJ2RlbGV0ZURpcicsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFs6XSwgZG9jOiAnUmVjdXJzaXZlbHkgZGVsZXRlIHRoZSBjdXJyZW50IGRpcmVjdG9yeSBmcm9tIHRoZSB3b3Jrc3BhY2UnKQptZXRob2QobmFtZTogJ2RpcicsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtwYXRoOmphdmEubGFuZy5TdHJpbmcsIGJvZHk6J0Nsb3N1cmUnXSwgZG9jOiAnQ2hhbmdlIGN1cnJlbnQgZGlyZWN0b3J5JykKbWV0aG9kKG5hbWU6ICdmaWxlRXhpc3RzJywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW2ZpbGU6J2phdmEubGFuZy5TdHJpbmcnXSwgZG9jOiAnVmVyaWZ5IGlmIGZpbGUgZXhpc3RzIGluIHdvcmtzcGFjZScpCm1ldGhvZChuYW1lOiAnZ2l0JywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW3VybDonamF2YS5sYW5nLlN0cmluZyddLCBkb2M6ICdHaXQnKQptZXRob2QobmFtZTogJ2dpdCcsIHR5cGU6ICdPYmplY3QnLCBuYW1lZFBhcmFtczogW3BhcmFtZXRlcihuYW1lOiAndXJsJywgdHlwZTogJ2phdmEubGFuZy5TdHJpbmcnKSwgcGFyYW1ldGVyKG5hbWU6ICdicmFuY2gnLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBwYXJhbWV0ZXIobmFtZTogJ2NoYW5nZWxvZycsIHR5cGU6ICdib29sZWFuJyksIHBhcmFtZXRlcihuYW1lOiAnY3JlZGVudGlhbHNJZCcsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAncG9sbCcsIHR5cGU6ICdib29sZWFuJyksIF0sIGRvYzogJ0dpdCcpCm1ldGhvZChuYW1lOiAnbG9hZCcsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtwYXRoOidqYXZhLmxhbmcuU3RyaW5nJ10sIGRvYzogJ0V2YWx1YXRlIGEgR3Jvb3Z5IHNvdXJjZSBmaWxlIGludG8gdGhlIFBpcGVsaW5lIHNjcmlwdCcpCm1ldGhvZChuYW1lOiAncHdkJywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogWzpdLCBkb2M6ICdEZXRlcm1pbmUgY3VycmVudCBkaXJlY3RvcnknKQptZXRob2QobmFtZTogJ3B3ZCcsIHR5cGU6ICdPYmplY3QnLCBuYW1lZFBhcmFtczogW3BhcmFtZXRlcihuYW1lOiAndG1wJywgdHlwZTogJ2Jvb2xlYW4nKSwgXSwgZG9jOiAnRGV0ZXJtaW5lIGN1cnJlbnQgZGlyZWN0b3J5JykKbWV0aG9kKG5hbWU6ICdyZWFkRmlsZScsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtmaWxlOidqYXZhLmxhbmcuU3RyaW5nJ10sIGRvYzogJ1JlYWQgZmlsZSBmcm9tIHdvcmtzcGFjZScpCm1ldGhvZChuYW1lOiAncmVhZEZpbGUnLCB0eXBlOiAnT2JqZWN0JywgbmFtZWRQYXJhbXM6IFtwYXJhbWV0ZXIobmFtZTogJ2ZpbGUnLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBwYXJhbWV0ZXIobmFtZTogJ2VuY29kaW5nJywgdHlwZTogJ2phdmEubGFuZy5TdHJpbmcnKSwgXSwgZG9jOiAnUmVhZCBmaWxlIGZyb20gd29ya3NwYWNlJykKbWV0aG9kKG5hbWU6ICdzaCcsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtzY3JpcHQ6J2phdmEubGFuZy5TdHJpbmcnXSwgZG9jOiAnU2hlbGwgU2NyaXB0JykKbWV0aG9kKG5hbWU6ICdzaCcsIHR5cGU6ICdPYmplY3QnLCBuYW1lZFBhcmFtczogW3BhcmFtZXRlcihuYW1lOiAnc2NyaXB0JywgdHlwZTogJ2phdmEubGFuZy5TdHJpbmcnKSwgcGFyYW1ldGVyKG5hbWU6ICdlbmNvZGluZycsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAncmV0dXJuU3RhdHVzJywgdHlwZTogJ2Jvb2xlYW4nKSwgcGFyYW1ldGVyKG5hbWU6ICdyZXR1cm5TdGRvdXQnLCB0eXBlOiAnYm9vbGVhbicpLCBdLCBkb2M6ICdTaGVsbCBTY3JpcHQnKQptZXRob2QobmFtZTogJ3N0YXNoJywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW25hbWU6J2phdmEubGFuZy5TdHJpbmcnXSwgZG9jOiAnU3Rhc2ggc29tZSBmaWxlcyB0byBiZSB1c2VkIGxhdGVyIGluIHRoZSBidWlsZCcpCm1ldGhvZChuYW1lOiAnc3Rhc2gnLCB0eXBlOiAnT2JqZWN0JywgbmFtZWRQYXJhbXM6IFtwYXJhbWV0ZXIobmFtZTogJ25hbWUnLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBwYXJhbWV0ZXIobmFtZTogJ2V4Y2x1ZGVzJywgdHlwZTogJ2phdmEubGFuZy5TdHJpbmcnKSwgcGFyYW1ldGVyKG5hbWU6ICdpbmNsdWRlcycsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAndXNlRGVmYXVsdEV4Y2x1ZGVzJywgdHlwZTogJ2Jvb2xlYW4nKSwgXSwgZG9jOiAnU3Rhc2ggc29tZSBmaWxlcyB0byBiZSB1c2VkIGxhdGVyIGluIHRoZSBidWlsZCcpCm1ldGhvZChuYW1lOiAnc3RlcCcsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtkZWxlZ2F0ZTonTWFwJ10sIGRvYzogJ0dlbmVyYWwgQnVpbGQgU3RlcCcpCm1ldGhvZChuYW1lOiAndW5zdGFzaCcsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtuYW1lOidqYXZhLmxhbmcuU3RyaW5nJ10sIGRvYzogJ1Jlc3RvcmUgZmlsZXMgcHJldmlvdXNseSBzdGFzaGVkJykKbWV0aG9kKG5hbWU6ICd3cmFwJywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogW2RlbGVnYXRlOk1hcCwgYm9keTonQ2xvc3VyZSddLCBkb2M6ICdHZW5lcmFsIEJ1aWxkIFdyYXBwZXInKQptZXRob2QobmFtZTogJ3dyaXRlRmlsZScsIHR5cGU6ICdPYmplY3QnLCBuYW1lZFBhcmFtczogW3BhcmFtZXRlcihuYW1lOiAnZmlsZScsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAndGV4dCcsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAnZW5jb2RpbmcnLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBdLCBkb2M6ICdXcml0ZSBmaWxlIHRvIHdvcmtzcGFjZScpCm1ldGhvZChuYW1lOiAnYXJjaGl2ZScsIHR5cGU6ICdPYmplY3QnLCBwYXJhbXM6IFtpbmNsdWRlczonamF2YS5sYW5nLlN0cmluZyddLCBkb2M6ICdBZHZhbmNlZC9EZXByZWNhdGVkIEFyY2hpdmUgYXJ0aWZhY3RzJykKbWV0aG9kKG5hbWU6ICdhcmNoaXZlJywgdHlwZTogJ09iamVjdCcsIG5hbWVkUGFyYW1zOiBbcGFyYW1ldGVyKG5hbWU6ICdpbmNsdWRlcycsIHR5cGU6ICdqYXZhLmxhbmcuU3RyaW5nJyksIHBhcmFtZXRlcihuYW1lOiAnZXhjbHVkZXMnLCB0eXBlOiAnamF2YS5sYW5nLlN0cmluZycpLCBdLCBkb2M6ICdBcmNoaXZlIGFydGlmYWN0cycpCm1ldGhvZChuYW1lOiAndW5hcmNoaXZlJywgdHlwZTogJ09iamVjdCcsIHBhcmFtczogWzpdLCBkb2M6ICdBZHZhbmNlZC9EZXByZWNhdGVkIENvcHkgYXJjaGl2ZWQgYXJ0aWZhY3RzIGludG8gdGhlIHdvcmtzcGFjZScpCm1ldGhvZChuYW1lOiAndW5hcmNoaXZlJywgdHlwZTogJ09iamVjdCcsIG5hbWVkUGFyYW1zOiBbcGFyYW1ldGVyKG5hbWU6ICdtYXBwaW5nJywgdHlwZTogJ01hcCcpLCBdLCBkb2M6ICdDb3B5IGFyY2hpdmVkIGFydGlmYWN0cyBpbnRvIHRoZSB3b3Jrc3BhY2UnKQogICAgfQp9CgovLyBFcnJvcnMgb246Ci8vIGNsYXNzIG9yZy5qZW5raW5zY2kucGx1Z2lucy53b3JrZmxvdy5jcHMuc3RlcHMuUGFyYWxsZWxTdGVwOiBUaGVyZSdzIG5vIEBEYXRhQm91bmRDb25zdHJ1Y3RvciBvbiBhbnkgY29uc3RydWN0b3Igb2YgY2xhc3Mgb3JnLmplbmtpbnNjaS5wbHVnaW5zLndvcmtmbG93LmNwcy5zdGVwcy5QYXJhbGxlbFN0ZXAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBWaWRlb1Jlc291cmNlIHZyID0gKFZpZGVvUmVzb3VyY2UpIGdldFJlc291cmNlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZXAoZGQpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENsaWVudE9TTGFiZWw+IGxhYmVscyA9IGNsaWVudEhXLmdldENsaWVudE9TTGFiZWxzKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN0ZXAoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBvcGVuUGVyaXBoZXJhbFNldHRpbmdzKCkgewogICAgICAgIG9wZW5UYWIoTUVOVV9DT05GSUdVUkFUSU9OLCBTVUJNRU5VX0dFTkVSQUxfU0VUVElOR1MpOwogICAgICAgIHdhaXRpbmdBY3Rpb25zLndhaXRUaWxsUGFnZUlzRnVsbHlMb2FkZWQoKTsKCiAgICAgICAgZGV0YWlsVXRpbHMucGVyZm9ybUFjdGlvbihTVUJNRU5VX1BFUklQSEVSQUxfSU5URVJGQUNFUyk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGFzc2VydFBlcmlwaGVyYWxzKEJvb2xlYW4gcmRwU3RvcmFnZSwgQm9vbGVhbiBlYm9TdG9yYWdlLCBCb29sZWFuIHBhcmFsbGVsLCBCb29sZWFuIHVzYiwgQm9vbGVhbiBzZXJpYWwsIEJvb2xlYW4gYXVkaW8sIEJvb2xlYW4gc21hcnRjYXJkKSB7CiAgICAgICAgamVmQ29tcG9uZW50QWN0aW9ucy5hc3NlcnRWYWx1ZU9mSW5wdXRDaGVja2JveCgicGVyaXBoZXJhbFJkcFN0b3JhZ2UiLCByZHBTdG9yYWdlKTsKICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZJbnB1dENoZWNrYm94KCJwZXJpcGhlcmFsRWJvU3RvcmFnZSIsIGVib1N0b3JhZ2UpOwogICAgICAgIGplZkNvbXBvbmVudEFjdGlvbnMuYXNzZXJ0VmFsdWVPZklucHV0Q2hlY2tib3goInBlcmlwaGVyYWxQYXJhbGxlbCIsIHBhcmFsbGVsKTsKICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZJbnB1dENoZWNrYm94KCJwZXJpcGhlcmFsVVNCIiwgdXNiKTsKICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZJbnB1dENoZWNrYm94KCJwZXJpcGhlcmFsU2VyaWFsIiwgc2VyaWFsKTsKICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZJbnB1dENoZWNrYm94KCJwZXJpcGhlcmFsQXVkaW8iLCBhdWRpbyk7CiAgICAgICAgamVmQ29tcG9uZW50QWN0aW9ucy5hc3NlcnRWYWx1ZU9mSW5wdXRDaGVja2JveCgicGVyaXBoZXJhbFNtYXJ0Y2FyZCIsIHNtYXJ0Y2FyZCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>stage</last-search>
+      <last-search>videoreso</last-search>
       <last-offset />
-      <last-pattern>stage</last-pattern>
+      <last-pattern>videoreso</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>createdetai</entry>
-        <entry encoding="base64">XDxhZGRDbGllbnRIV1w+</entry>
-        <entry encoding="base64">XDxsZGFwVXNlclNlcnZpY2VcPg==</entry>
-        <entry>actions</entry>
-        <entry>autoupdate</entry>
-        <entry>name</entry>
-        <entry>perip</entry>
-        <entry encoding="base64">XDx1c2VyUmVnaXN0cmllc1w+</entry>
-        <entry encoding="base64">XDxjb3JyZWN0TGRhcFVzZXJcPg==</entry>
-        <entry>create</entry>
-        <entry>clientoslabel</entry>
         <entry>deactivate</entry>
         <entry>test</entry>
         <entry>jmeter</entry>
@@ -325,14 +356,25 @@
         <entry>testrand</entry>
         <entry>step</entry>
         <entry>stage</entry>
+        <entry>detail</entry>
+        <entry>detailvide</entry>
+        <entry>cat</entry>
+        <entry encoding="base64">XDxnZXRWaWRlb0NsYXNzaWZpY2F0aW9uc1w+</entry>
+        <entry>class</entry>
+        <entry>video</entry>
+        <entry>movie</entry>
+        <entry>categorie</entry>
+        <entry>videoresource</entry>
+        <entry>videoresour</entry>
+        <entry>videoreso</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
         <entry>%s;user;client</entry>
         <entry>action FindUsages</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -350,7 +392,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -367,6 +409,48 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
