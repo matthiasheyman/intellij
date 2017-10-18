@@ -50,6 +50,9 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="118" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" timestamp="1508330357006">
+        <mark key="'" line="112" column="109" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/PeripheralInterfaceClient.java" timestamp="1507810804152">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="24" column="49" />
@@ -81,7 +84,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508327612950">
         <mark key="'" line="125" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508327535557">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/RemoteResourceServiceImpl.java" timestamp="1508330756819">
+        <mark key="'" line="42" column="13" />
+        <mark key="[" line="42" column="13" />
+        <mark key="." line="42" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508330431395">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508160616523">
@@ -95,6 +103,9 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
+        <mark key="'" line="53" column="5" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
@@ -140,7 +151,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1508328999271">
+      <file name="/fragment.java" timestamp="1508330771476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" timestamp="1507899278142">
@@ -151,10 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/user/userTab.xhtml" />
-      <jump line="61" column="26" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/informationcenter/TestScreenLayout.java" />
-      <jump line="129" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
-      <jump line="132" column="53" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
       <jump line="133" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
       <jump line="147" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
       <jump line="150" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
@@ -251,6 +258,10 @@
       <jump line="118" column="59" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/device/informationcenter/screenLayoutTab.xhtml" />
       <jump line="122" column="59" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/device/informationcenter/screenLayoutTab.xhtml" />
       <jump line="29" column="32" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" />
+      <jump line="42" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/RemoteResourceServiceImpl.java" />
+      <jump line="53" column="5" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" />
+      <jump line="311" column="67" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" />
+      <jump line="112" column="109" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -263,7 +274,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZW50QXJlYUlkXD4=</text>
+        <text>create</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIkNhdGVnb3JpZcOrbiIsIHNlbGVuaXVtQ2FsbFRlbXBsYXRlLmZpbmRFbGVtZW50KEJ5LnhwYXRoKCIvL3NwYW5bQGlkPSd2aWRlb0NhdGVnb3JpZXNMYWJlbCddIikpLmdldFRleHQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJBY3RpZSwgRHJhbWEsIE1pc2RhYWQiLCBzZWxlbml1bUNhbGxUZW1wbGF0ZS5maW5kRWxlbWVudChCeS54cGF0aCgiLy9zcGFuW0BpZD0ndmlkZW9DYXRlZ29yaWVzJ10iKSkuZ2V0VGV4dCgpKTsK</text>
@@ -300,9 +311,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250ZW50QXJlYUlkXD4=</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZW50QXJlYUlkXD4=</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -310,10 +321,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
-        <entry>jmeter</entry>
-        <entry>jtl</entry>
-        <entry>jmx</entry>
         <entry>setgenr</entry>
         <entry>testrand</entry>
         <entry>step</entry>
@@ -330,13 +337,17 @@
         <entry>videoresour</entry>
         <entry>videoreso</entry>
         <entry encoding="base64">XDxjb250ZW50QXJlYUlkXD4=</entry>
+        <entry>createRemote</entry>
+        <entry>setdisp</entry>
+        <entry>displayp</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
         <entry>%s;user;client</entry>
-        <entry>action FindUsages</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
