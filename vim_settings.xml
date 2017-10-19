@@ -81,15 +81,18 @@
       <file name="/HTML File.txt.ft" timestamp="1508310458641">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
+        <mark key="'" line="1867" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1508322540281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508403868651">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508405229062">
         <mark key="'" line="443" column="72" />
-        <mark key="[" line="373" column="163" />
-        <mark key="]" line="373" column="164" />
-        <mark key="." line="373" column="164" />
-        <mark key="^" line="373" column="141" />
+        <mark key="[" line="377" column="141" />
+        <mark key="]" line="377" column="166" />
+        <mark key="." line="377" column="166" />
+        <mark key="^" line="377" column="166" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/RemoteResourceServiceImpl.java" timestamp="1508330756819">
         <mark key="'" line="42" column="13" />
@@ -180,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="87" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
       <jump line="64" column="61" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
       <jump line="102" column="70" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
       <jump line="115" column="24" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
@@ -280,6 +282,7 @@
       <jump line="638" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="387" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="633" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1867" column="4" filename="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -289,49 +292,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>videoresour</text>
+        <text>style</text>
       </register>
       <register name="0" type="4">
         <text>!Ebo@dmiN.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQloZWlnaHQ6IDI1LjYyNXJlbTsK</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl3aWR0aDogODEuMjVyZW07Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl3aWR0aDogJHZpZGVvRGV0YWlsV2lkdGg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJPGVib2NsaWVudDpoaXN0b3J5QmFyIGlkPSJ2aWRlb1BvcnRhbEhpc3RvcnlCYXIiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZPdXRwdXRUZXh0KCJ2ZGllb0NhdGVnb3JpZXMiLCAiQWN0aWUsIERyYW1hLCBNaXNkYWFkIik7Cg==</text>
+        <text encoding="base64">CQloZWlnaHQ6IDI1LjYyNXJlbTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZPdXRwdXRUZXh0KCJ2aWRlb0NhdGVnb3JpZXNMYWJlbCIsICJDYXRlZ29yaWXDq24iKTsK</text>
+        <text encoding="base64">CQl3aWR0aDogODEuMjVyZW07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZPdXRwdXRUZXh0KCk7Cg==</text>
+        <text encoding="base64">CQl3aWR0aDogJHZpZGVvRGV0YWlsV2lkdGg7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>videoresour</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>videoresour</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -339,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRWaWRlb0NsYXNzaWZpY2F0aW9uc1w+</entry>
         <entry>class</entry>
         <entry>video</entry>
         <entry>movie</entry>
@@ -359,14 +361,15 @@
         <entry>videodetail</entry>
         <entry>videoresou</entry>
         <entry>videoresour</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
         <entry>%s;user;client</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
