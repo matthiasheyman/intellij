@@ -62,8 +62,8 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1508328946158">
-        <mark key="'" line="29" column="32" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1508401470119">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/event/model/function/EventProcessingService.java" timestamp="1507813535394">
         <mark key="'" line="1124" column="56" />
@@ -84,15 +84,19 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1508322540281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508327612950">
-        <mark key="'" line="125" column="45" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508402624262">
+        <mark key="'" line="443" column="72" />
+        <mark key="[" line="373" column="141" />
+        <mark key="]" line="373" column="142" />
+        <mark key="." line="373" column="142" />
+        <mark key="^" line="373" column="142" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/RemoteResourceServiceImpl.java" timestamp="1508330756819">
         <mark key="'" line="42" column="13" />
         <mark key="[" line="42" column="13" />
         <mark key="." line="42" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508330431395">
+      <file name="/Dummy.txt" timestamp="1508401649196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508160616523">
@@ -109,6 +113,13 @@
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508403167663">
+        <mark key="'" line="634" column="16" />
+        <mark key="[" line="388" column="15" />
+        <mark key="]" line="388" column="15" />
+        <mark key="." line="388" column="15" />
+        <mark key="^" line="388" column="15" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
@@ -169,16 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
-      <jump line="150" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
-      <jump line="155" column="91" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
-      <jump line="35" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
-      <jump line="68" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
-      <jump line="111" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" />
-      <jump line="230" column="59" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" />
-      <jump line="210" column="15" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" />
-      <jump line="46" column="75" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
-      <jump line="47" column="46" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
       <jump line="55" column="87" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
       <jump line="64" column="61" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
       <jump line="102" column="70" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" />
@@ -269,6 +270,16 @@
       <jump line="311" column="67" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" />
       <jump line="112" column="109" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/channelResourceTab.xhtml" />
+      <jump line="198" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" />
+      <jump line="445" column="72" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="439" column="34" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="626" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="442" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="388" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="638" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="387" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="633" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -278,68 +289,62 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
-        <text>location</text>
+        <text>videoresour</text>
       </register>
       <register name="0" type="4">
         <text>!Ebo@dmiN.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQloZWlnaHQ6IDI1LjYyNXJlbTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZPdXRwdXRUZXh0KCJ2ZGllb0NhdGVnb3JpZXMiLCAiQWN0aWUsIERyYW1hLCBNaXNkYWFkIik7Cg==</text>
+        <text encoding="base64">CQl3aWR0aDogODEuMjVyZW07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZPdXRwdXRUZXh0KCJ2aWRlb0NhdGVnb3JpZXNMYWJlbCIsICJDYXRlZ29yaWXDq24iKTsK</text>
+        <text encoding="base64">CQl3aWR0aDogJHZpZGVvRGV0YWlsV2lkdGg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZPdXRwdXRUZXh0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoOjxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSIiIGlkPSIiPgo=</text>
+        <text encoding="base64">CQkJPGVib2NsaWVudDpoaXN0b3J5QmFyIGlkPSJ2aWRlb1BvcnRhbEhpc3RvcnlCYXIiIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQk8YzppZiB0ZXN0PSIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbW92aWVUaXRsZSA9ICIzIERheXMgdG8gS2lsbCI7CiAgICAgICAgZ2V0TW92aWVMb2NhdG9yKG1vdmllVGl0bGUpOwogICAgICAgIGFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZPdXRwdXRUZXh0KCJ2ZGllb0NhdGVnb3JpZXMiLCAiQWN0aWUsIERyYW1hLCBNaXNkYWFkIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ci5nZXRWaWRlb0NsYXNzaWZpY2F0aW9ucygpCg==</text>
+        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZPdXRwdXRUZXh0KCJ2aWRlb0NhdGVnb3JpZXNMYWJlbCIsICJDYXRlZ29yaWXDq24iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZPdXRwdXRUZXh0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
-      <last-search>location</last-search>
+      <last-search>videoresour</last-search>
       <last-offset />
-      <last-pattern>location</last-pattern>
+      <last-pattern>videoresour</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>step</entry>
-        <entry>stage</entry>
-        <entry>detail</entry>
-        <entry>detailvide</entry>
-        <entry>cat</entry>
         <entry encoding="base64">XDxnZXRWaWRlb0NsYXNzaWZpY2F0aW9uc1w+</entry>
         <entry>class</entry>
         <entry>video</entry>
         <entry>movie</entry>
         <entry>categorie</entry>
         <entry>videoresource</entry>
-        <entry>videoresour</entry>
         <entry>videoreso</entry>
         <entry encoding="base64">XDxjb250ZW50QXJlYUlkXD4=</entry>
         <entry>createRemote</entry>
@@ -348,14 +353,20 @@
         <entry>create</entry>
         <entry>ipt</entry>
         <entry>location</entry>
+        <entry>videolist</entry>
+        <entry>videodet</entry>
+        <entry>videoresources</entry>
+        <entry>videodetail</entry>
+        <entry>videoresou</entry>
+        <entry>videoresour</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
         <entry>%s;user;client</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
