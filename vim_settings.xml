@@ -84,12 +84,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1508322540281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508402624262">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508403868651">
         <mark key="'" line="443" column="72" />
-        <mark key="[" line="373" column="141" />
-        <mark key="]" line="373" column="142" />
-        <mark key="." line="373" column="142" />
-        <mark key="^" line="373" column="142" />
+        <mark key="[" line="373" column="163" />
+        <mark key="]" line="373" column="164" />
+        <mark key="." line="373" column="164" />
+        <mark key="^" line="373" column="141" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/RemoteResourceServiceImpl.java" timestamp="1508330756819">
         <mark key="'" line="42" column="13" />
@@ -289,7 +289,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>videoresour</text>
