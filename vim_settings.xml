@@ -118,6 +118,10 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/insert/ldap.sql" timestamp="1508398397803">
+        <mark key="[" line="1" column="71" />
+        <mark key="]" line="1" column="80" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
         <mark key="[" line="49" column="40" />
         <mark key="]" line="49" column="40" />
@@ -279,8 +283,8 @@
       <register name="/" type="4">
         <text>location</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIkNhdGVnb3JpZcOrbiIsIHNlbGVuaXVtQ2FsbFRlbXBsYXRlLmZpbmRFbGVtZW50KEJ5LnhwYXRoKCIvL3NwYW5bQGlkPSd2aWRlb0NhdGVnb3JpZXNMYWJlbCddIikpLmdldFRleHQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJBY3RpZSwgRHJhbWEsIE1pc2RhYWQiLCBzZWxlbml1bUNhbGxUZW1wbGF0ZS5maW5kRWxlbWVudChCeS54cGF0aCgiLy9zcGFuW0BpZD0ndmlkZW9DYXRlZ29yaWVzJ10iKSkuZ2V0VGV4dCgpKTsK</text>
+      <register name="0" type="4">
+        <text>!Ebo@dmiN.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -320,7 +324,7 @@
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
