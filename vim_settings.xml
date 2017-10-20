@@ -92,13 +92,13 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508424948679">
-        <mark key="r" line="395" column="55" />
-        <mark key="'" line="443" column="72" />
-        <mark key="[" line="373" column="163" />
-        <mark key="k" line="554" column="115" />
-        <mark key="]" line="373" column="164" />
-        <mark key="." line="373" column="164" />
-        <mark key="^" line="373" column="141" />
+        <mark key="r" line="397" column="55" />
+        <mark key="'" line="445" column="72" />
+        <mark key="[" line="312" column="163" />
+        <mark key="k" line="556" column="115" />
+        <mark key="]" line="312" column="164" />
+        <mark key="." line="312" column="164" />
+        <mark key="^" line="312" column="141" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/RemoteResourceServiceImpl.java" timestamp="1508330756819">
         <mark key="'" line="42" column="13" />
@@ -122,13 +122,6 @@
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508425103580">
-        <mark key="'" line="629" column="0" />
-        <mark key="[" line="388" column="17" />
-        <mark key="]" line="388" column="17" />
-        <mark key="." line="388" column="17" />
-        <mark key="^" line="388" column="17" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
@@ -330,7 +323,7 @@
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
