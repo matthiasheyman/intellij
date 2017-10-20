@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1508510210821">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1508510999316">
         <mark key="'" line="0" column="1" />
-        <mark key="[" line="451" column="0" />
-        <mark key="]" line="451" column="0" />
-        <mark key="." line="451" column="0" />
-        <mark key="^" line="465" column="16" />
+        <mark key="[" line="469" column="14" />
+        <mark key="]" line="470" column="21" />
+        <mark key="." line="470" column="21" />
+        <mark key="^" line="470" column="21" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" timestamp="1507895906622">
         <mark key="'" line="35" column="40" />
@@ -105,15 +105,15 @@
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508510272867">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508510858077">
         <mark key="p" line="607" column="4" />
         <mark key="'" line="544" column="57" />
         <mark key="k" line="567" column="115" />
-        <mark key="[" line="561" column="75" />
+        <mark key="[" line="551" column="0" />
         <mark key="l" line="314" column="130" />
-        <mark key="]" line="561" column="84" />
-        <mark key="." line="561" column="84" />
-        <mark key="^" line="561" column="84" />
+        <mark key="]" line="551" column="0" />
+        <mark key="." line="551" column="0" />
+        <mark key="^" line="550" column="55" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/RemoteResourceServiceImpl.java" timestamp="1508330756819">
         <mark key="'" line="42" column="13" />
@@ -304,7 +304,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>more</text>
@@ -313,31 +313,31 @@
         <text>videoDetailContainer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKmJvcmRlcjogMXB4IGJsYWNrIGRvdHRlZDsqLwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDpwYW5lbEdyb3VwIGlkPSJ2aWRlb0NvbnRhaW5lciIgY2xhc3M9InR3ZWx2ZSBjb2x1bW5zIj4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2g6cGFuZWxHcm91cD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvKmJvcmRlcjogMXB4IGJsYWNrIGRvdHRlZDsqLwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDpwYW5lbEdyb3VwIGlkPSJ2aWRlb0NvbnRhaW5lciIgY2xhc3M9InR3ZWx2ZSBjb2x1bW5zIj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2g6cGFuZWxHcm91cD4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWk6ZnJhZ21lbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1aTpmcmFnbWVudD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGplZjpyZWZyZXNoQ29tcG9uZW50cyBuYW1lPSJyZWZyZXNoVmlkZW9EZXRhaWxDb250YWluZXIiIGNvbXBvbmVudElkcz0idmlkZW9EZXRhaWxQYW5lbCB2aWRlb0RldGFpbENvbnRhaW5lciBvcmRlckZvcm0iLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
