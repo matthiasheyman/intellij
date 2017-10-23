@@ -66,14 +66,17 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" timestamp="1508330357006">
         <mark key="'" line="112" column="109" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" timestamp="1508764576629">
+        <mark key="'" line="63" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/PeripheralInterfaceClient.java" timestamp="1507810804152">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="24" column="49" />
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1508754392908">
-        <mark key="'" line="195" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1508763508873">
+        <mark key="'" line="207" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
         <mark key="'" line="256" column="2" />
@@ -102,25 +105,20 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1508322540281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" timestamp="1508762756834">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" timestamp="1508764644174">
+        <mark key="'" line="375" column="16" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508762526152">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508764285284">
         <mark key="p" line="600" column="4" />
         <mark key="'" line="479" column="66" />
         <mark key="k" line="560" column="115" />
-        <mark key="[" line="236" column="29" />
+        <mark key="[" line="15" column="0" />
         <mark key="l" line="314" column="130" />
-        <mark key="]" line="236" column="41" />
-        <mark key="." line="236" column="41" />
-        <mark key="^" line="236" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/RemoteResourceServiceImpl.java" timestamp="1508330756819">
-        <mark key="'" line="42" column="13" />
-        <mark key="[" line="42" column="13" />
-        <mark key="." line="42" column="16" />
+        <mark key="]" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+        <mark key="^" line="13" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1508762597410">
         <mark key="[" line="0" column="0" />
@@ -140,10 +138,10 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508762825476">
-        <mark key="'" line="863" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508764689251">
+        <mark key="'" line="865" column="12" />
         <mark key="[" line="384" column="0" />
-        <mark key="]" line="385" column="31" />
+        <mark key="]" line="385" column="30" />
         <mark key="^" line="385" column="5" />
         <mark key="." line="384" column="0" />
       </file>
@@ -176,6 +174,12 @@
         <mark key="." line="643" column="0" />
         <mark key="^" line="641" column="65" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/ebovision/css/style.scss" timestamp="1508764568482">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -198,53 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1114" column="40" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1115" column="29" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1116" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1117" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1383" column="48" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1384" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1388" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1391" column="42" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1396" column="84" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="97" column="317" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
-      <jump line="96" column="27" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
-      <jump line="1397" column="90" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="378" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="20" column="65" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="245" column="39" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="224" column="60" filename="/videoPortal.xhtml" />
-      <jump line="24" column="16" filename="/videoPortal.xhtml" />
-      <jump line="228" column="59" filename="/videoPortal.xhtml" />
-      <jump line="252" column="24" filename="/videoPortal.xhtml" />
-      <jump line="283" column="143" filename="/videoPortal.xhtml" />
-      <jump line="286" column="69" filename="/videoPortal.xhtml" />
-      <jump line="313" column="62" filename="/videoPortal.xhtml" />
-      <jump line="519" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="142" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="145" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="156" column="25" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="157" column="40" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="158" column="49" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="163" column="62" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="212" column="32" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="226" column="25" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="228" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="229" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="232" column="41" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="247" column="61" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="277" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="1942" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="293" column="76" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="337" column="84" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="338" column="112" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="451" column="40" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="471" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="476" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="479" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="853" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="857" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1300" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="1423" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="1424" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="1429" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
@@ -287,10 +244,7 @@
       <jump line="2445" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="2450" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
-      <jump line="66" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
       <jump line="2455" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="67" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
       <jump line="385" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="386" column="25" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="477" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
@@ -298,6 +252,56 @@
       <jump line="664" column="33" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="832" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="863" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="207" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" />
+      <jump line="15" column="25" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="64" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="65" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="171" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="175" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="178" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/ebovision/css/style.scss" />
+      <jump line="2" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/ebovision/css/style.scss" />
+      <jump line="289" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="2" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="9" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="62" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="63" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" />
+      <jump line="36" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="398" column="14" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="2" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="9" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="66" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="67" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="68" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="69" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="178" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="182" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="185" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="214" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="310" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="340" column="5" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="341" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="375" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="395" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="479" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="480" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="507" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="542" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="613" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="666" column="33" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="667" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="719" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="721" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="725" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="747" column="46" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="748" column="49" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="751" column="32" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="757" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="833" column="10" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="834" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="836" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="844" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="865" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -307,49 +311,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidXR0b25HcmV5XD4=</text>
+        <text>button</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JGJ1dHRvbkZvbnRDb2xvciA6ICMzRTNFM0U7Cg==</text>
+      <register name="0" type="4">
+        <text>CCCCCC</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJJGJ1dHRvbkdyZXkgOiAjQ0NDQ0NDOwoJCQkkYnV0dG9uRm9udENvbG9yIDogIzNFM0UzRTsK</text>
+        <text encoding="base64">CQkJCSRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSRidXR0b25HcmV5IDogI0NDQ0NDQzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWJhY2tncm91bmQ6ICRidXR0b25HcmV5OwoJCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCQljb2xvcjogJGJ1dHRvbkZvbnRDb2xvcjsKCQkJCWZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">CQkJYnV0dG9uewoJCQliYWNrZ3JvdW5kOiAkYnV0dG9uR3JleTsKCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCWNvbG9yOiAkYnV0dG9uRm9udENvbG9yOwoJCQlmb250LXdlaWdodDogYm9sZDsKCQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJYnV0dG9uIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWJhY2tncm91bmQ6ICRidXR0b25HcmV5OwoJCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCQljb2xvcjogJGJ1dHRvbkZvbnRDb2xvcjsKCQkJCWZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">CQk8c2NyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJJGJ1dHRvbkdyZXkgOiAjQ0NDQ0NDOwoJCQkkYnV0dG9uRm9udENvbG9yIDogIzNFM0UzRTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8qIE1pc2MK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qaHIgeyovCiAgLyptYXJnaW4tdG9wOiAzcmVtOyovCiAgLyptYXJnaW4tYm90dG9tOiAzLjVyZW07Ki8KICAvKmJvcmRlci13aWR0aDogMDsqLwogIC8qYm9yZGVyLXRvcDogMXB4IHNvbGlkICNFMUUxRTE7IH0qLwoK</text>
+        <text encoding="base64">CQkJCWJhY2tncm91bmQ6ICRidXR0b25HcmV5OwoJCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCQljb2xvcjogJGJ1dHRvbkZvbnRDb2xvcjsKCQkJCWZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidXR0b25HcmV5XD4=</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidXR0b25HcmV5XD4=</last-pattern>
+      <last-pattern>button</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -372,11 +376,11 @@
         <entry>remove</entry>
         <entry>ckground</entry>
         <entry>searchmovies</entry>
-        <entry>button</entry>
         <entry>moviefo</entry>
         <entry>searchmov</entry>
         <entry>buttonfontcol</entry>
         <entry encoding="base64">XDxidXR0b25HcmV5XD4=</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
