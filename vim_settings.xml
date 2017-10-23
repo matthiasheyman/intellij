@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1508510999316">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1508751649099">
         <mark key="'" line="0" column="1" />
-        <mark key="[" line="469" column="14" />
-        <mark key="]" line="470" column="21" />
-        <mark key="." line="470" column="21" />
-        <mark key="^" line="470" column="21" />
+        <mark key="x" line="205" column="8" />
+        <mark key="[" line="213" column="13" />
+        <mark key="]" line="214" column="26" />
+        <mark key="^" line="214" column="26" />
+        <mark key="." line="214" column="26" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" timestamp="1507895906622">
         <mark key="'" line="35" column="40" />
@@ -19,8 +20,8 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UpgradeClientOS.java" timestamp="1507707708395">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1508509130184">
-        <mark key="'" line="271" column="66" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1508750970338">
+        <mark key="'" line="889" column="75" />
         <mark key="[" line="985" column="5" />
         <mark key="]" line="988" column="31" />
         <mark key="^" line="988" column="31" />
@@ -105,22 +106,22 @@
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508748802846">
-        <mark key="p" line="607" column="4" />
-        <mark key="'" line="555" column="125" />
-        <mark key="k" line="567" column="115" />
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508751822560">
+        <mark key="p" line="608" column="4" />
+        <mark key="'" line="565" column="109" />
+        <mark key="k" line="568" column="115" />
+        <mark key="[" line="24" column="18" />
         <mark key="l" line="314" column="130" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="24" column="53" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/RemoteResourceServiceImpl.java" timestamp="1508330756819">
         <mark key="'" line="42" column="13" />
         <mark key="[" line="42" column="13" />
         <mark key="." line="42" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508747954373">
+      <file name="/Dummy.txt" timestamp="1508750585323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508160616523">
@@ -152,6 +153,13 @@
         <mark key="[" line="1" column="71" />
         <mark key="]" line="1" column="80" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" timestamp="1508751004815">
+        <mark key="'" line="15" column="13" />
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="63" column="31" />
+        <mark key="^" line="63" column="31" />
+        <mark key="." line="63" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
         <mark key="[" line="49" column="40" />
         <mark key="]" line="49" column="40" />
@@ -179,8 +187,8 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/videoPortal.xhtml" timestamp="1508747880999">
-        <mark key="'" line="32" column="48" />
+      <file name="/videoPortal.xhtml" timestamp="1508750196575">
+        <mark key="'" line="324" column="178" />
         <mark key="[" line="312" column="0" />
         <mark key="]" line="312" column="51" />
       </file>
@@ -195,15 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="161" column="25" filename="/videoPortal.xhtml" />
-      <jump line="465" column="63" filename="/videoPortal.xhtml" />
-      <jump line="411" column="61" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="539" column="45" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="56" column="56" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="571" column="40" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="0" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="393" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="413" column="72" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="542" column="56" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="416" column="72" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
@@ -288,13 +287,22 @@
       <jump line="583" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="81" column="41" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="31" column="61" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="555" column="125" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="374" column="30" filename="/videoPortal.xhtml" />
+      <jump line="303" column="67" filename="/videoPortal.xhtml" />
+      <jump line="324" column="178" filename="/videoPortal.xhtml" />
+      <jump line="21" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="559" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="76" column="59" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="433" column="96" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="434" column="64" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="436" column="104" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="437" column="104" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="439" column="110" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="555" column="125" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="565" column="109" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="975" column="32" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
+      <jump line="889" column="75" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -304,49 +312,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>$('.videoResourcesList')[0].parentElement</text>
+        <text>element</text>
       </register>
       <register name="/" type="4">
-        <text>prime</text>
+        <text>newin</text>
       </register>
-      <register name="0" type="4">
-        <text>videoResourcesList</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0b3A6MHB4OwogIGxlZnQ6MHB4OwogIHdpZHRoOjUwJTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJtb3JlbW92aWVzbG9hZGVkIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
+        <text encoding="base64">Ci8qIE1pc2MK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qaHIgeyovCiAgLyptYXJnaW4tdG9wOiAzcmVtOyovCiAgLyptYXJnaW4tYm90dG9tOiAzLjVyZW07Ki8KICAvKmJvcmRlci13aWR0aDogMDsqLwogIC8qYm9yZGVyLXRvcDogMXB4IHNvbGlkICNFMUUxRTE7IH0qLwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCS8vd2lkdGg6IDE2MHB4Owo=</text>
+        <text encoding="base64">Ci8qIEJhc2UgU3R5bGVzCuKAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAkyAqLwovKiBOT1RFCmh0bWwgaXMgc2V0IHRvIDYyLjUlIHNvIHRoYXQgYWxsIHRoZSBSRU0gbWVhc3VyZW1lbnRzIHRocm91Z2hvdXQgU2tlbGV0b24KYXJlIGJhc2VkIG9uIDEwcHggc2l6aW5nLiBTbyBiYXNpY2FsbHkgMS41cmVtID0gMTVweCA6KSAqLwovKmh0bWwgeyovCiAgLypmb250LXNpemU6IDYyLjUlOyB9Ki8KLypib2R5IHsqLwogIC8qZm9udC1zaXplOiAxLjVlbTsgISogY3VycmVudGx5IGVtcyBjYXVzZSBjaHJvbWUgYnVnIG1pc2ludGVycHJldGluZyByZW1zIG9uIGJvZHkgZWxlbWVudCAqISovCiAgLypsaW5lLWhlaWdodDogMS42OyovCiAgLypmb250LXdlaWdodDogNDAwOyovCiAgLypmb250LWZhbWlseTogIlJhbGV3YXkiLCAiSGVsdmV0aWNhTmV1ZSIsICJIZWx2ZXRpY2EgTmV1ZSIsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWY7Ki8KICAvKmNvbG9yOiAjMjIyOyB9Ki8KCgovKiBUeXBvZ3JhcGh5CuKAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAkyAqLwovKmgxLCBoMiwgaDMsIGg0LCBoNSwgaDYgeyovCiAgLyptYXJnaW4tdG9wOiAwOyovCiAgLyptYXJnaW4tYm90dG9tOiAycmVtOyovCiAgLypmb250LXdlaWdodDogMzAwOyB9Ki8KLypoMSB7IGZvbnQtc2l6ZTogNC4wcmVtOyBsaW5lLWhlaWdodDogMS4yOyAgbGV0dGVyLXNwYWNpbmc6IC0uMXJlbTt9Ki8KLypoMiB7IGZvbnQtc2l6ZTogMy42cmVtOyBsaW5lLWhlaWdodDogMS4yNTsgbGV0dGVyLXNwYWNpbmc6IC0uMXJlbTsgfSovCi8qaDMgeyBmb250LXNpemU6IDMuMHJlbTsgbGluZS1oZWlnaHQ6IDEuMzsgIGxldHRlci1zcGFjaW5nOiAtLjFyZW07IH0qLwovKmg0IHsgZm9udC1zaXplOiAyLjRyZW07IGxpbmUtaGVpZ2h0OiAxLjM1OyBsZXR0ZXItc3BhY2luZzogLS4wOHJlbTsgfSovCi8qaDUgeyBmb250LXNpemU6IDEuOHJlbTsgbGluZS1oZWlnaHQ6IDEuNTsgIGxldHRlci1zcGFjaW5nOiAtLjA1cmVtOyB9Ki8KLypoNiB7IGZvbnQtc2l6ZTogMS41cmVtOyBsaW5lLWhlaWdodDogMS42OyAgbGV0dGVyLXNwYWNpbmc6IDA7IH0qLwoKLyohKiBMYXJnZXIgdGhhbiBwaGFibGV0ICohKi8KLypAbWVkaWEgKG1pbi13aWR0aDogNTUwcHgpIHsqLwogIC8qaDEgeyBmb250LXNpemU6IDUuMHJlbTsgfSovCiAgLypoMiB7IGZvbnQtc2l6ZTogNC4ycmVtOyB9Ki8KICAvKmgzIHsgZm9udC1zaXplOiAzLjZyZW07IH0qLwogIC8qaDQgeyBmb250LXNpemU6IDMuMHJlbTsgfSovCiAgLypoNSB7IGZvbnQtc2l6ZTogMi40cmVtOyB9Ki8KICAvKmg2IHsgZm9udC1zaXplOiAxLjVyZW07IH0qLwovKn0qLwoKLypwIHsqLwogIC8qbWFyZ2luLXRvcDogMDsgfSovCgoKLyogTGlua3MK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qYSB7Ki8KICAvKmNvbG9yOiAjMUVBRURCOyB9Ki8KLyphOmhvdmVyIHsqLwogIC8qY29sb3I6ICMwRkEwQ0U7IH0qLwoKCi8qIEJ1dHRvbnMK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qLmJ1dHRvbiwqLwovKmJ1dHRvbiwqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdLCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXSwqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdIHsqLwogIC8qZGlzcGxheTogaW5saW5lLWJsb2NrOyovCiAgLypoZWlnaHQ6IDM4cHg7Ki8KICAvKnBhZGRpbmc6IDAgMzBweDsqLwogIC8qY29sb3I6ICM1NTU7Ki8KICAvKnRleHQtYWxpZ246IGNlbnRlcjsqLwogIC8qZm9udC1zaXplOiAxMXB4OyovCiAgLypmb250LXdlaWdodDogNjAwOyovCiAgLypsaW5lLWhlaWdodDogMzhweDsqLwogIC8qbGV0dGVyLXNwYWNpbmc6IC4xcmVtOyovCiAgLyp0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyovCiAgLyp0ZXh0LWRlY29yYXRpb246IG5vbmU7Ki8KICAvKndoaXRlLXNwYWNlOiBub3dyYXA7Ki8KICAvKmJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OyovCiAgLypib3JkZXItcmFkaXVzOiA0cHg7Ki8KICAvKmJvcmRlcjogMXB4IHNvbGlkICNiYmI7Ki8KICAvKmN1cnNvcjogcG9pbnRlcjsqLwogIC8qYm94LXNpemluZzogYm9yZGVyLWJveDsgfSovCi8qLmJ1dHRvbjpob3ZlciwqLwovKmJ1dHRvbjpob3ZlciwqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdOmhvdmVyLCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXTpob3ZlciwqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdOmhvdmVyLCovCi8qLmJ1dHRvbjpmb2N1cywqLwovKmJ1dHRvbjpmb2N1cywqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdOmZvY3VzLCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXTpmb2N1cywqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdOmZvY3VzIHsqLwogIC8qY29sb3I6ICMzMzM7Ki8KICAvKmJvcmRlci1jb2xvcjogIzg4ODsqLwogIC8qb3V0bGluZTogMDsgfSovCi8qLmJ1dHRvbi5idXR0b24tcHJpbWFyeSwqLwovKmJ1dHRvbi5idXR0b24tcHJpbWFyeSwqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdLmJ1dHRvbi1wcmltYXJ5LCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXS5idXR0b24tcHJpbWFyeSwqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdLmJ1dHRvbi1wcmltYXJ5IHsqLwogIC8qY29sb3I6ICNGRkY7Ki8KICAvKmJhY2tncm91bmQtY29sb3I6ICMzM0MzRjA7Ki8KICAvKmJvcmRlci1jb2xvcjogIzMzQzNGMDsgfSovCi8qLmJ1dHRvbi5idXR0b24tcHJpbWFyeTpob3ZlciwqLwovKmJ1dHRvbi5idXR0b24tcHJpbWFyeTpob3ZlciwqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdLmJ1dHRvbi1wcmltYXJ5OmhvdmVyLCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXS5idXR0b24tcHJpbWFyeTpob3ZlciwqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdLmJ1dHRvbi1wcmltYXJ5OmhvdmVyLCovCi8qLmJ1dHRvbi5idXR0b24tcHJpbWFyeTpmb2N1cywqLwovKmJ1dHRvbi5idXR0b24tcHJpbWFyeTpmb2N1cywqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdLmJ1dHRvbi1wcmltYXJ5OmZvY3VzLCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXS5idXR0b24tcHJpbWFyeTpmb2N1cywqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdLmJ1dHRvbi1wcmltYXJ5OmZvY3VzIHsqLwogIC8qY29sb3I6ICNGRkY7Ki8KICAvKmJhY2tncm91bmQtY29sb3I6ICMxRUFFREI7Ki8KICAvKmJvcmRlci1jb2xvcjogIzFFQUVEQjsgfSovCgoKLyogRm9ybXMK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qaW5wdXRbdHlwZT0iZW1haWwiXSwqLwovKmlucHV0W3R5cGU9Im51bWJlciJdLCovCi8qaW5wdXRbdHlwZT0ic2VhcmNoIl0sKi8KLyppbnB1dFt0eXBlPSJ0ZXh0Il0sKi8KLyppbnB1dFt0eXBlPSJ0ZWwiXSwqLwovKmlucHV0W3R5cGU9InVybCJdLCovCi8qaW5wdXRbdHlwZT0icGFzc3dvcmQiXSwqLwovKnRleHRhcmVhLCovCi8qc2VsZWN0IHsqLwogIC8qaGVpZ2h0OiAzOHB4OyovCiAgLypwYWRkaW5nOiA2cHggMTBweDsgISogVGhlIDZweCB2ZXJ0aWNhbGx5IGNlbnRlcnMgdGV4dCBvbiBGRiwgaWdub3JlZCBieSBXZWJraXQgKiEqLwogIC8qYmFja2dyb3VuZC1jb2xvcjogI2ZmZjsqLwogIC8qYm9yZGVyOiAxcHggc29saWQgI0QxRDFEMTsqLwogIC8qYm9yZGVyLXJhZGl1czogNHB4OyovCiAgLypib3gtc2hhZG93OiBub25lOyovCiAgLypib3gtc2l6aW5nOiBib3JkZXItYm94OyB9Ki8KLyohKiBSZW1vdmVzIGF3a3dhcmQgZGVmYXVsdCBzdHlsZXMgb24gc29tZSBpbnB1dHMgZm9yIGlPUyAqISovCi8qaW5wdXRbdHlwZT0iZW1haWwiXSwqLwovKmlucHV0W3R5cGU9Im51bWJlciJdLCovCi8qaW5wdXRbdHlwZT0ic2VhcmNoIl0sKi8KLyppbnB1dFt0eXBlPSJ0ZXh0Il0sKi8KLyppbnB1dFt0eXBlPSJ0ZWwiXSwqLwovKmlucHV0W3R5cGU9InVybCJdLCovCi8qaW5wdXRbdHlwZT0icGFzc3dvcmQiXSwqLwovKnRleHRhcmVhIHsqLwogIC8qLXdlYmtpdC1hcHBlYXJhbmNlOiBub25lOyovCiAgICAgLyotbW96LWFwcGVhcmFuY2U6IG5vbmU7Ki8KICAgICAgICAgIC8qYXBwZWFyYW5jZTogbm9uZTsgfSovCi8qdGV4dGFyZWEgeyovCiAgLyptaW4taGVpZ2h0OiA2NXB4OyovCiAgLypwYWRkaW5nLXRvcDogNnB4OyovCiAgLypwYWRkaW5nLWJvdHRvbTogNnB4OyB9Ki8KLyppbnB1dFt0eXBlPSJlbWFpbCJdOmZvY3VzLCovCi8qaW5wdXRbdHlwZT0ibnVtYmVyIl06Zm9jdXMsKi8KLyppbnB1dFt0eXBlPSJzZWFyY2giXTpmb2N1cywqLwovKmlucHV0W3R5cGU9InRleHQiXTpmb2N1cywqLwovKmlucHV0W3R5cGU9InRlbCJdOmZvY3VzLCovCi8qaW5wdXRbdHlwZT0idXJsIl06Zm9jdXMsKi8KLyppbnB1dFt0eXBlPSJwYXNzd29yZCJdOmZvY3VzLCovCi8qdGV4dGFyZWE6Zm9jdXMsKi8KLypzZWxlY3Q6Zm9jdXMgeyovCiAgLypib3JkZXI6IDFweCBzb2xpZCAjMzNDM0YwOyovCiAgLypvdXRsaW5lOiAwOyB9Ki8KLypsYWJlbCwqLwovKmxlZ2VuZCB7Ki8KICAvKmRpc3BsYXk6IGJsb2NrOyovCiAgLyptYXJnaW4tYm90dG9tOiAuNXJlbTsqLwogIC8qZm9udC13ZWlnaHQ6IDYwMDsgfSovCi8qZmllbGRzZXQgeyovCiAgLypwYWRkaW5nOiAwOyovCiAgLypib3JkZXItd2lkdGg6IDA7IH0qLwovKmlucHV0W3R5cGU9ImNoZWNrYm94Il0sKi8KLyppbnB1dFt0eXBlPSJyYWRpbyJdIHsqLwogIC8qZGlzcGxheTogaW5saW5lOyB9Ki8KLypsYWJlbCA+IC5sYWJlbC1ib2R5IHsqLwogIC8qZGlzcGxheTogaW5saW5lLWJsb2NrOyovCiAgLyptYXJnaW4tbGVmdDogLjVyZW07Ki8KICAvKmZvbnQtd2VpZ2h0OiBub3JtYWw7IH0qLwoKCi8qIExpc3RzCuKAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAkyAqLwovKnVsIHsqLwogIC8qbGlzdC1zdHlsZTogY2lyY2xlIGluc2lkZTsgfSovCi8qb2wgeyovCiAgLypsaXN0LXN0eWxlOiBkZWNpbWFsIGluc2lkZTsgfSovCi8qb2wsIHVsIHsqLwogIC8qcGFkZGluZy1sZWZ0OiAwOyovCiAgLyptYXJnaW4tdG9wOiAwOyB9Ki8KLyp1bCB1bCwqLwovKnVsIG9sLCovCi8qb2wgb2wsKi8KLypvbCB1bCB7Ki8KICAvKm1hcmdpbjogMS41cmVtIDAgMS41cmVtIDNyZW07Ki8KICAvKmZvbnQtc2l6ZTogOTAlOyB9Ki8KLypsaSB7Ki8KICAvKm1hcmdpbi1ib3R0b206IDFyZW07IH0qLwoKCi8qIENvZGUK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qY29kZSB7Ki8KICAvKnBhZGRpbmc6IC4ycmVtIC41cmVtOyovCiAgLyptYXJnaW46IDAgLjJyZW07Ki8KICAvKmZvbnQtc2l6ZTogOTAlOyovCiAgLyp3aGl0ZS1zcGFjZTogbm93cmFwOyovCiAgLypiYWNrZ3JvdW5kOiAjRjFGMUYxOyovCiAgLypib3JkZXI6IDFweCBzb2xpZCAjRTFFMUUxOyovCiAgLypib3JkZXItcmFkaXVzOiA0cHg7IH0qLwovKnByZSA+IGNvZGUgeyovCiAgLypkaXNwbGF5OiBibG9jazsqLwogIC8qcGFkZGluZzogMXJlbSAxLjVyZW07Ki8KICAvKndoaXRlLXNwYWNlOiBwcmU7IH0qLwoKCi8qIFRhYmxlcwrigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJMgKi8KLyp0aCwqLwovKnRkIHsqLwogIC8qcGFkZGluZzogMTJweCAxNXB4OyovCiAgLyp0ZXh0LWFsaWduOiBsZWZ0OyovCiAgLypib3JkZXItYm90dG9tOiAxcHggc29saWQgI0UxRTFFMTsgfSovCi8qdGg6Zmlyc3QtY2hpbGQsKi8KLyp0ZDpmaXJzdC1jaGlsZCB7Ki8KICAvKnBhZGRpbmctbGVmdDogMDsgfSovCi8qdGg6bGFzdC1jaGlsZCwqLwovKnRkOmxhc3QtY2hpbGQgeyovCiAgLypwYWRkaW5nLXJpZ2h0OiAwOyB9Ki8KCgovKiBTcGFjaW5nCuKAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAkyAqLwovKmJ1dHRvbiwqLwovKi5idXR0b24geyovCiAgLyptYXJnaW4tYm90dG9tOiAxcmVtOyB9Ki8KLyppbnB1dCwqLwovKnRleHRhcmVhLCovCi8qc2VsZWN0LCovCi8qZmllbGRzZXQgeyovCiAgLyptYXJnaW4tYm90dG9tOiAxLjVyZW07IH0qLwovKnByZSwqLwovKmJsb2NrcXVvdGUsKi8KLypkbCwqLwovKmZpZ3VyZSwqLwovKnRhYmxlLCovCi8qcCwqLwovKnVsLCovCi8qb2wsKi8KLypmb3JtIHsqLwogIC8qbWFyZ2luLWJvdHRvbTogMi41cmVtOyB9Ki8KCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8vbWFyZ2luLXJpZ2h0OiAxMHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJYm94LXNpemluZzogYm9yZGVyLWJveDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbWFyZ2luLXRvcDoK</text>
+        <text encoding="base64">LyogVGFibGUgb2YgY29udGVudHMK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTCi0gR3JpZAotIEJhc2UgU3R5bGVzCi0gVHlwb2dyYXBoeQotIExpbmtzCi0gQnV0dG9ucwotIEZvcm1zCi0gTGlzdHMKLSBDb2RlCi0gVGFibGVzCi0gU3BhY2luZwotIFV0aWxpdGllcwotIENsZWFyaW5nCi0gTWVkaWEgUXVlcmllcwoqLwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJbWFyZ2luLXRvcDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJtb3JlbW92aWVzbG9hZGVkIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>prime</last-search>
+      <last-search>newin</last-search>
       <last-offset />
-      <last-pattern>prime</last-pattern>
+      <last-pattern>newin</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -354,15 +362,12 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZyZXNoVmlkZW9EZXRhaWxDb250YWluZXJcPg==</entry>
-        <entry encoding="base64">XDxqYXZhc2NyaXB0XD4=</entry>
         <entry>searchfield</entry>
         <entry>searchmoviesi</entry>
         <entry>categorycontainer</entry>
         <entry>search</entry>
         <entry>imagewrapper</entry>
         <entry>more</entry>
-        <entry encoding="base64">XDxtb3JlTW92aWVzTG9hZGVkXD4=</entry>
         <entry>videoresourcelist</entry>
         <entry>videoresource</entry>
         <entry>videoresourceslist</entry>
@@ -373,7 +378,10 @@
         <entry>\.shadow</entry>
         <entry>shadow</entry>
         <entry encoding="base64">XDx2aWRlb1Jlc291cmNlc0xpc3RcPg==</entry>
+        <entry encoding="base64">XDx2aWRlb0NvbnRhaW5lclw+</entry>
+        <entry encoding="base64">XDxtb3JlTW92aWVzTG9hZGVkXD4=</entry>
         <entry>prime</entry>
+        <entry>newin</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
