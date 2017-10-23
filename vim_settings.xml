@@ -71,7 +71,7 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1508493479506">
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1508740959956">
         <mark key="'" line="195" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
@@ -350,7 +350,7 @@
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
