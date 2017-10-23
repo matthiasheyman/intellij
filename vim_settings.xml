@@ -105,10 +105,10 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1508322540281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" timestamp="1508765832770">
-        <mark key="'" line="338" column="15" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="27" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" timestamp="1508770265990">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="71" column="1" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508764285284">
         <mark key="p" line="592" column="4" />
@@ -131,6 +131,9 @@
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508770269473">
+        <mark key="'" line="895" column="26" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
@@ -189,12 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1439" column="6" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1441" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1442" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1460" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1465" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1484" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="1694" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="1698" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="1736" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
@@ -246,8 +243,6 @@
       <jump line="542" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="613" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="399" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
-      <jump line="2" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
-      <jump line="9" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
       <jump line="66" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
       <jump line="67" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
       <jump line="68" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
@@ -289,6 +284,14 @@
       <jump line="258" column="3" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
       <jump line="259" column="4" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
       <jump line="260" column="4" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
+      <jump line="337" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="340" column="5" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="341" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="375" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="398" column="14" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="887" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="9" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -303,35 +306,35 @@
       <register name="/" type="4">
         <text>button</text>
       </register>
-      <register name="0" type="4">
-        <text>CCCCCC</text>
+      <register name="0" type="2">
+        <text encoding="base64">YnV0dG9uIHsKCWJhY2tncm91bmQ6ICRidXR0b25HcmV5OwoJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7Cgljb2xvcjogJGJ1dHRvbkZvbnRDb2xvcjsKCWZvbnQtd2VpZ2h0OiBib2xkOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCSRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
+        <text encoding="base64">CWJ1dHRvbiB7CgkJCgl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCSRidXR0b25HcmV5IDogI0NDQ0NDQzsK</text>
+        <text encoding="base64">CQkJCSRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJYnV0dG9uewoJCQliYWNrZ3JvdW5kOiAkYnV0dG9uR3JleTsKCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCWNvbG9yOiAkYnV0dG9uRm9udENvbG9yOwoJCQlmb250LXdlaWdodDogYm9sZDsKCQkJfQo=</text>
+        <text encoding="base64">CQkJCSRidXR0b25HcmV5IDogI0NDQ0NDQzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJYnV0dG9uewoJCQliYWNrZ3JvdW5kOiAkYnV0dG9uR3JleTsKCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCWNvbG9yOiAkYnV0dG9uRm9udENvbG9yOwoJCQlmb250LXdlaWdodDogYm9sZDsKCQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8c2NyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJGJ1dHRvbkdyZXkgOiAjQ0NDQ0NDOwoJCQkkYnV0dG9uRm9udENvbG9yIDogIzNFM0UzRTsK</text>
+        <text encoding="base64">CQk8c2NyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJGJ1dHRvbkdyZXkgOiAjQ0NDQ0NDOwoJCQkkYnV0dG9uRm9udENvbG9yIDogIzNFM0UzRTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWJhY2tncm91bmQ6ICRidXR0b25HcmV5OwoJCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCQljb2xvcjogJGJ1dHRvbkZvbnRDb2xvcjsKCQkJCWZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
@@ -348,7 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shadow</entry>
         <entry encoding="base64">XDx2aWRlb1Jlc291cmNlc0xpc3RcPg==</entry>
         <entry encoding="base64">XDx2aWRlb0NvbnRhaW5lclw+</entry>
         <entry encoding="base64">XDxtb3JlTW92aWVzTG9hZGVkXD4=</entry>
@@ -367,6 +369,7 @@
         <entry encoding="base64">XDxidXR0b25HcmV5XD4=</entry>
         <entry>input</entry>
         <entry>radius</entry>
+        <entry>videop</entry>
         <entry>button</entry>
       </history-search>
       <history-cmd>
