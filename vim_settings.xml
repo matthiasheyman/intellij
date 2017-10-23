@@ -102,13 +102,14 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1508322540281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" timestamp="1508504748029">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="22" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" timestamp="1508762756834">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508759047062">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508762526152">
         <mark key="p" line="600" column="4" />
-        <mark key="'" line="277" column="28" />
+        <mark key="'" line="479" column="66" />
         <mark key="k" line="560" column="115" />
         <mark key="[" line="236" column="29" />
         <mark key="l" line="314" column="130" />
@@ -121,7 +122,7 @@
         <mark key="[" line="42" column="13" />
         <mark key="." line="42" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508750585323">
+      <file name="/Dummy.txt" timestamp="1508762597410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508160616523">
@@ -139,12 +140,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508759267139">
-        <mark key="'" line="1942" column="19" />
-        <mark key="[" line="848" column="27" />
-        <mark key="]" line="849" column="30" />
-        <mark key="^" line="849" column="30" />
-        <mark key="." line="849" column="30" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508762825476">
+        <mark key="'" line="863" column="0" />
+        <mark key="[" line="384" column="0" />
+        <mark key="]" line="385" column="31" />
+        <mark key="^" line="385" column="5" />
+        <mark key="." line="384" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
@@ -197,69 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="41" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="303" column="80" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="307" column="91" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="308" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="332" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="333" column="85" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="334" column="48" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="335" column="76" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="343" column="47" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="784" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="857" column="32" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="395" column="11" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="500" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="353" column="89" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="570" column="56" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="23" column="65" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="29" column="22" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="550" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="582" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="80" column="51" filename="/videoPortal.xhtml" />
-      <jump line="107" column="50" filename="/videoPortal.xhtml" />
-      <jump line="121" column="58" filename="/videoPortal.xhtml" />
-      <jump line="393" column="64" filename="/videoPortal.xhtml" />
-      <jump line="20" column="68" filename="/videoPortal.xhtml" />
-      <jump line="136" column="39" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="32" column="48" filename="/videoPortal.xhtml" />
-      <jump line="848" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="538" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="372" column="6" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="365" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="406" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1959" column="10" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1965" column="10" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="489" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1707" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1726" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="24" column="65" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="30" column="22" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="549" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="551" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="583" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="81" column="41" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="31" column="61" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="555" column="125" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="374" column="30" filename="/videoPortal.xhtml" />
-      <jump line="303" column="67" filename="/videoPortal.xhtml" />
-      <jump line="324" column="178" filename="/videoPortal.xhtml" />
-      <jump line="21" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="559" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="76" column="59" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="433" column="96" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="434" column="64" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="436" column="104" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="437" column="104" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="439" column="110" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="565" column="109" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="975" column="32" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
-      <jump line="889" column="75" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1398" column="55" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1112" column="13" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1113" column="33" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1114" column="40" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1115" column="29" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1116" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -297,6 +235,69 @@
       <jump line="247" column="61" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="277" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="1942" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="293" column="76" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="337" column="84" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="338" column="112" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="451" column="40" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="471" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="476" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="479" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="853" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="857" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1300" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1423" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1424" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1429" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1431" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1433" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1434" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1452" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1457" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1476" column="39" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1688" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1692" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1730" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1779" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1784" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1961" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1971" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1991" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1996" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2044" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2047" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2060" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2188" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2199" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2235" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2314" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2351" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2358" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2395" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2401" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2405" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2409" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2413" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2417" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2421" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2425" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2429" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2433" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2437" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2441" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2445" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="2450" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="66" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="2455" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="67" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
+      <jump line="385" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="386" column="25" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="477" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="540" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="664" column="33" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="832" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="863" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -309,46 +310,46 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>searchmovies</text>
+        <text encoding="base64">XDxidXR0b25HcmV5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0b3A6MHB4OwogIGxlZnQ6MHB4OwogIHdpZHRoOjUwJTsK</text>
+        <text encoding="base64">JGJ1dHRvbkZvbnRDb2xvciA6ICMzRTNFM0U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJJGJ1dHRvbkdyZXkgOiAjQ0NDQ0NDOwoJCQkkYnV0dG9uRm9udENvbG9yIDogIzNFM0UzRTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8qIE1pc2MK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qaHIgeyovCiAgLyptYXJnaW4tdG9wOiAzcmVtOyovCiAgLyptYXJnaW4tYm90dG9tOiAzLjVyZW07Ki8KICAvKmJvcmRlci13aWR0aDogMDsqLwogIC8qYm9yZGVyLXRvcDogMXB4IHNvbGlkICNFMUUxRTE7IH0qLwoK</text>
+        <text encoding="base64">CQkJCWJhY2tncm91bmQ6ICRidXR0b25HcmV5OwoJCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCQljb2xvcjogJGJ1dHRvbkZvbnRDb2xvcjsKCQkJCWZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8qIEJhc2UgU3R5bGVzCuKAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAkyAqLwovKiBOT1RFCmh0bWwgaXMgc2V0IHRvIDYyLjUlIHNvIHRoYXQgYWxsIHRoZSBSRU0gbWVhc3VyZW1lbnRzIHRocm91Z2hvdXQgU2tlbGV0b24KYXJlIGJhc2VkIG9uIDEwcHggc2l6aW5nLiBTbyBiYXNpY2FsbHkgMS41cmVtID0gMTVweCA6KSAqLwovKmh0bWwgeyovCiAgLypmb250LXNpemU6IDYyLjUlOyB9Ki8KLypib2R5IHsqLwogIC8qZm9udC1zaXplOiAxLjVlbTsgISogY3VycmVudGx5IGVtcyBjYXVzZSBjaHJvbWUgYnVnIG1pc2ludGVycHJldGluZyByZW1zIG9uIGJvZHkgZWxlbWVudCAqISovCiAgLypsaW5lLWhlaWdodDogMS42OyovCiAgLypmb250LXdlaWdodDogNDAwOyovCiAgLypmb250LWZhbWlseTogIlJhbGV3YXkiLCAiSGVsdmV0aWNhTmV1ZSIsICJIZWx2ZXRpY2EgTmV1ZSIsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWY7Ki8KICAvKmNvbG9yOiAjMjIyOyB9Ki8KCgovKiBUeXBvZ3JhcGh5CuKAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAkyAqLwovKmgxLCBoMiwgaDMsIGg0LCBoNSwgaDYgeyovCiAgLyptYXJnaW4tdG9wOiAwOyovCiAgLyptYXJnaW4tYm90dG9tOiAycmVtOyovCiAgLypmb250LXdlaWdodDogMzAwOyB9Ki8KLypoMSB7IGZvbnQtc2l6ZTogNC4wcmVtOyBsaW5lLWhlaWdodDogMS4yOyAgbGV0dGVyLXNwYWNpbmc6IC0uMXJlbTt9Ki8KLypoMiB7IGZvbnQtc2l6ZTogMy42cmVtOyBsaW5lLWhlaWdodDogMS4yNTsgbGV0dGVyLXNwYWNpbmc6IC0uMXJlbTsgfSovCi8qaDMgeyBmb250LXNpemU6IDMuMHJlbTsgbGluZS1oZWlnaHQ6IDEuMzsgIGxldHRlci1zcGFjaW5nOiAtLjFyZW07IH0qLwovKmg0IHsgZm9udC1zaXplOiAyLjRyZW07IGxpbmUtaGVpZ2h0OiAxLjM1OyBsZXR0ZXItc3BhY2luZzogLS4wOHJlbTsgfSovCi8qaDUgeyBmb250LXNpemU6IDEuOHJlbTsgbGluZS1oZWlnaHQ6IDEuNTsgIGxldHRlci1zcGFjaW5nOiAtLjA1cmVtOyB9Ki8KLypoNiB7IGZvbnQtc2l6ZTogMS41cmVtOyBsaW5lLWhlaWdodDogMS42OyAgbGV0dGVyLXNwYWNpbmc6IDA7IH0qLwoKLyohKiBMYXJnZXIgdGhhbiBwaGFibGV0ICohKi8KLypAbWVkaWEgKG1pbi13aWR0aDogNTUwcHgpIHsqLwogIC8qaDEgeyBmb250LXNpemU6IDUuMHJlbTsgfSovCiAgLypoMiB7IGZvbnQtc2l6ZTogNC4ycmVtOyB9Ki8KICAvKmgzIHsgZm9udC1zaXplOiAzLjZyZW07IH0qLwogIC8qaDQgeyBmb250LXNpemU6IDMuMHJlbTsgfSovCiAgLypoNSB7IGZvbnQtc2l6ZTogMi40cmVtOyB9Ki8KICAvKmg2IHsgZm9udC1zaXplOiAxLjVyZW07IH0qLwovKn0qLwoKLypwIHsqLwogIC8qbWFyZ2luLXRvcDogMDsgfSovCgoKLyogTGlua3MK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qYSB7Ki8KICAvKmNvbG9yOiAjMUVBRURCOyB9Ki8KLyphOmhvdmVyIHsqLwogIC8qY29sb3I6ICMwRkEwQ0U7IH0qLwoKCi8qIEJ1dHRvbnMK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qLmJ1dHRvbiwqLwovKmJ1dHRvbiwqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdLCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXSwqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdIHsqLwogIC8qZGlzcGxheTogaW5saW5lLWJsb2NrOyovCiAgLypoZWlnaHQ6IDM4cHg7Ki8KICAvKnBhZGRpbmc6IDAgMzBweDsqLwogIC8qY29sb3I6ICM1NTU7Ki8KICAvKnRleHQtYWxpZ246IGNlbnRlcjsqLwogIC8qZm9udC1zaXplOiAxMXB4OyovCiAgLypmb250LXdlaWdodDogNjAwOyovCiAgLypsaW5lLWhlaWdodDogMzhweDsqLwogIC8qbGV0dGVyLXNwYWNpbmc6IC4xcmVtOyovCiAgLyp0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyovCiAgLyp0ZXh0LWRlY29yYXRpb246IG5vbmU7Ki8KICAvKndoaXRlLXNwYWNlOiBub3dyYXA7Ki8KICAvKmJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OyovCiAgLypib3JkZXItcmFkaXVzOiA0cHg7Ki8KICAvKmJvcmRlcjogMXB4IHNvbGlkICNiYmI7Ki8KICAvKmN1cnNvcjogcG9pbnRlcjsqLwogIC8qYm94LXNpemluZzogYm9yZGVyLWJveDsgfSovCi8qLmJ1dHRvbjpob3ZlciwqLwovKmJ1dHRvbjpob3ZlciwqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdOmhvdmVyLCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXTpob3ZlciwqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdOmhvdmVyLCovCi8qLmJ1dHRvbjpmb2N1cywqLwovKmJ1dHRvbjpmb2N1cywqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdOmZvY3VzLCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXTpmb2N1cywqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdOmZvY3VzIHsqLwogIC8qY29sb3I6ICMzMzM7Ki8KICAvKmJvcmRlci1jb2xvcjogIzg4ODsqLwogIC8qb3V0bGluZTogMDsgfSovCi8qLmJ1dHRvbi5idXR0b24tcHJpbWFyeSwqLwovKmJ1dHRvbi5idXR0b24tcHJpbWFyeSwqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdLmJ1dHRvbi1wcmltYXJ5LCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXS5idXR0b24tcHJpbWFyeSwqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdLmJ1dHRvbi1wcmltYXJ5IHsqLwogIC8qY29sb3I6ICNGRkY7Ki8KICAvKmJhY2tncm91bmQtY29sb3I6ICMzM0MzRjA7Ki8KICAvKmJvcmRlci1jb2xvcjogIzMzQzNGMDsgfSovCi8qLmJ1dHRvbi5idXR0b24tcHJpbWFyeTpob3ZlciwqLwovKmJ1dHRvbi5idXR0b24tcHJpbWFyeTpob3ZlciwqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdLmJ1dHRvbi1wcmltYXJ5OmhvdmVyLCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXS5idXR0b24tcHJpbWFyeTpob3ZlciwqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdLmJ1dHRvbi1wcmltYXJ5OmhvdmVyLCovCi8qLmJ1dHRvbi5idXR0b24tcHJpbWFyeTpmb2N1cywqLwovKmJ1dHRvbi5idXR0b24tcHJpbWFyeTpmb2N1cywqLwovKmlucHV0W3R5cGU9InN1Ym1pdCJdLmJ1dHRvbi1wcmltYXJ5OmZvY3VzLCovCi8qaW5wdXRbdHlwZT0icmVzZXQiXS5idXR0b24tcHJpbWFyeTpmb2N1cywqLwovKmlucHV0W3R5cGU9ImJ1dHRvbiJdLmJ1dHRvbi1wcmltYXJ5OmZvY3VzIHsqLwogIC8qY29sb3I6ICNGRkY7Ki8KICAvKmJhY2tncm91bmQtY29sb3I6ICMxRUFFREI7Ki8KICAvKmJvcmRlci1jb2xvcjogIzFFQUVEQjsgfSovCgoKLyogRm9ybXMK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qaW5wdXRbdHlwZT0iZW1haWwiXSwqLwovKmlucHV0W3R5cGU9Im51bWJlciJdLCovCi8qaW5wdXRbdHlwZT0ic2VhcmNoIl0sKi8KLyppbnB1dFt0eXBlPSJ0ZXh0Il0sKi8KLyppbnB1dFt0eXBlPSJ0ZWwiXSwqLwovKmlucHV0W3R5cGU9InVybCJdLCovCi8qaW5wdXRbdHlwZT0icGFzc3dvcmQiXSwqLwovKnRleHRhcmVhLCovCi8qc2VsZWN0IHsqLwogIC8qaGVpZ2h0OiAzOHB4OyovCiAgLypwYWRkaW5nOiA2cHggMTBweDsgISogVGhlIDZweCB2ZXJ0aWNhbGx5IGNlbnRlcnMgdGV4dCBvbiBGRiwgaWdub3JlZCBieSBXZWJraXQgKiEqLwogIC8qYmFja2dyb3VuZC1jb2xvcjogI2ZmZjsqLwogIC8qYm9yZGVyOiAxcHggc29saWQgI0QxRDFEMTsqLwogIC8qYm9yZGVyLXJhZGl1czogNHB4OyovCiAgLypib3gtc2hhZG93OiBub25lOyovCiAgLypib3gtc2l6aW5nOiBib3JkZXItYm94OyB9Ki8KLyohKiBSZW1vdmVzIGF3a3dhcmQgZGVmYXVsdCBzdHlsZXMgb24gc29tZSBpbnB1dHMgZm9yIGlPUyAqISovCi8qaW5wdXRbdHlwZT0iZW1haWwiXSwqLwovKmlucHV0W3R5cGU9Im51bWJlciJdLCovCi8qaW5wdXRbdHlwZT0ic2VhcmNoIl0sKi8KLyppbnB1dFt0eXBlPSJ0ZXh0Il0sKi8KLyppbnB1dFt0eXBlPSJ0ZWwiXSwqLwovKmlucHV0W3R5cGU9InVybCJdLCovCi8qaW5wdXRbdHlwZT0icGFzc3dvcmQiXSwqLwovKnRleHRhcmVhIHsqLwogIC8qLXdlYmtpdC1hcHBlYXJhbmNlOiBub25lOyovCiAgICAgLyotbW96LWFwcGVhcmFuY2U6IG5vbmU7Ki8KICAgICAgICAgIC8qYXBwZWFyYW5jZTogbm9uZTsgfSovCi8qdGV4dGFyZWEgeyovCiAgLyptaW4taGVpZ2h0OiA2NXB4OyovCiAgLypwYWRkaW5nLXRvcDogNnB4OyovCiAgLypwYWRkaW5nLWJvdHRvbTogNnB4OyB9Ki8KLyppbnB1dFt0eXBlPSJlbWFpbCJdOmZvY3VzLCovCi8qaW5wdXRbdHlwZT0ibnVtYmVyIl06Zm9jdXMsKi8KLyppbnB1dFt0eXBlPSJzZWFyY2giXTpmb2N1cywqLwovKmlucHV0W3R5cGU9InRleHQiXTpmb2N1cywqLwovKmlucHV0W3R5cGU9InRlbCJdOmZvY3VzLCovCi8qaW5wdXRbdHlwZT0idXJsIl06Zm9jdXMsKi8KLyppbnB1dFt0eXBlPSJwYXNzd29yZCJdOmZvY3VzLCovCi8qdGV4dGFyZWE6Zm9jdXMsKi8KLypzZWxlY3Q6Zm9jdXMgeyovCiAgLypib3JkZXI6IDFweCBzb2xpZCAjMzNDM0YwOyovCiAgLypvdXRsaW5lOiAwOyB9Ki8KLypsYWJlbCwqLwovKmxlZ2VuZCB7Ki8KICAvKmRpc3BsYXk6IGJsb2NrOyovCiAgLyptYXJnaW4tYm90dG9tOiAuNXJlbTsqLwogIC8qZm9udC13ZWlnaHQ6IDYwMDsgfSovCi8qZmllbGRzZXQgeyovCiAgLypwYWRkaW5nOiAwOyovCiAgLypib3JkZXItd2lkdGg6IDA7IH0qLwovKmlucHV0W3R5cGU9ImNoZWNrYm94Il0sKi8KLyppbnB1dFt0eXBlPSJyYWRpbyJdIHsqLwogIC8qZGlzcGxheTogaW5saW5lOyB9Ki8KLypsYWJlbCA+IC5sYWJlbC1ib2R5IHsqLwogIC8qZGlzcGxheTogaW5saW5lLWJsb2NrOyovCiAgLyptYXJnaW4tbGVmdDogLjVyZW07Ki8KICAvKmZvbnQtd2VpZ2h0OiBub3JtYWw7IH0qLwoKCi8qIExpc3RzCuKAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAkyAqLwovKnVsIHsqLwogIC8qbGlzdC1zdHlsZTogY2lyY2xlIGluc2lkZTsgfSovCi8qb2wgeyovCiAgLypsaXN0LXN0eWxlOiBkZWNpbWFsIGluc2lkZTsgfSovCi8qb2wsIHVsIHsqLwogIC8qcGFkZGluZy1sZWZ0OiAwOyovCiAgLyptYXJnaW4tdG9wOiAwOyB9Ki8KLyp1bCB1bCwqLwovKnVsIG9sLCovCi8qb2wgb2wsKi8KLypvbCB1bCB7Ki8KICAvKm1hcmdpbjogMS41cmVtIDAgMS41cmVtIDNyZW07Ki8KICAvKmZvbnQtc2l6ZTogOTAlOyB9Ki8KLypsaSB7Ki8KICAvKm1hcmdpbi1ib3R0b206IDFyZW07IH0qLwoKCi8qIENvZGUK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qY29kZSB7Ki8KICAvKnBhZGRpbmc6IC4ycmVtIC41cmVtOyovCiAgLyptYXJnaW46IDAgLjJyZW07Ki8KICAvKmZvbnQtc2l6ZTogOTAlOyovCiAgLyp3aGl0ZS1zcGFjZTogbm93cmFwOyovCiAgLypiYWNrZ3JvdW5kOiAjRjFGMUYxOyovCiAgLypib3JkZXI6IDFweCBzb2xpZCAjRTFFMUUxOyovCiAgLypib3JkZXItcmFkaXVzOiA0cHg7IH0qLwovKnByZSA+IGNvZGUgeyovCiAgLypkaXNwbGF5OiBibG9jazsqLwogIC8qcGFkZGluZzogMXJlbSAxLjVyZW07Ki8KICAvKndoaXRlLXNwYWNlOiBwcmU7IH0qLwoKCi8qIFRhYmxlcwrigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJPigJMgKi8KLyp0aCwqLwovKnRkIHsqLwogIC8qcGFkZGluZzogMTJweCAxNXB4OyovCiAgLyp0ZXh0LWFsaWduOiBsZWZ0OyovCiAgLypib3JkZXItYm90dG9tOiAxcHggc29saWQgI0UxRTFFMTsgfSovCi8qdGg6Zmlyc3QtY2hpbGQsKi8KLyp0ZDpmaXJzdC1jaGlsZCB7Ki8KICAvKnBhZGRpbmctbGVmdDogMDsgfSovCi8qdGg6bGFzdC1jaGlsZCwqLwovKnRkOmxhc3QtY2hpbGQgeyovCiAgLypwYWRkaW5nLXJpZ2h0OiAwOyB9Ki8KCgovKiBTcGFjaW5nCuKAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAkyAqLwovKmJ1dHRvbiwqLwovKi5idXR0b24geyovCiAgLyptYXJnaW4tYm90dG9tOiAxcmVtOyB9Ki8KLyppbnB1dCwqLwovKnRleHRhcmVhLCovCi8qc2VsZWN0LCovCi8qZmllbGRzZXQgeyovCiAgLyptYXJnaW4tYm90dG9tOiAxLjVyZW07IH0qLwovKnByZSwqLwovKmJsb2NrcXVvdGUsKi8KLypkbCwqLwovKmZpZ3VyZSwqLwovKnRhYmxlLCovCi8qcCwqLwovKnVsLCovCi8qb2wsKi8KLypmb3JtIHsqLwogIC8qbWFyZ2luLWJvdHRvbTogMi41cmVtOyB9Ki8KCgo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJYnV0dG9uIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWJhY2tncm91bmQ6ICRidXR0b25HcmV5OwoJCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCQljb2xvcjogJGJ1dHRvbkZvbnRDb2xvcjsKCQkJCWZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogVGFibGUgb2YgY29udGVudHMK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTCi0gR3JpZAotIEJhc2UgU3R5bGVzCi0gVHlwb2dyYXBoeQotIExpbmtzCi0gQnV0dG9ucwotIEZvcm1zCi0gTGlzdHMKLSBDb2RlCi0gVGFibGVzCi0gU3BhY2luZwotIFV0aWxpdGllcwotIENsZWFyaW5nCi0gTWVkaWEgUXVlcmllcwoqLwoK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJtb3JlbW92aWVzbG9hZGVkIik7Cg==</text>
+        <text encoding="base64">Ci8qIE1pc2MK4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCT4oCTICovCi8qaHIgeyovCiAgLyptYXJnaW4tdG9wOiAzcmVtOyovCiAgLyptYXJnaW4tYm90dG9tOiAzLjVyZW07Ki8KICAvKmJvcmRlci13aWR0aDogMDsqLwogIC8qYm9yZGVyLXRvcDogMXB4IHNvbGlkICNFMUUxRTE7IH0qLwoK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>searchmovies</last-search>
+      <last-search encoding="base64">XDxidXR0b25HcmV5XD4=</last-search>
       <last-offset />
-      <last-pattern>searchmovies</last-pattern>
+      <last-pattern encoding="base64">XDxidXR0b25HcmV5XD4=</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -356,11 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>videoresource</entry>
-        <entry>videoresourceslist</entry>
-        <entry>premium</entry>
-        <entry encoding="base64">XDxwcmVtaXVtXD4=</entry>
-        <entry>cover</entry>
         <entry>.shadow</entry>
         <entry>\.shadow</entry>
         <entry>shadow</entry>
@@ -376,6 +372,11 @@
         <entry>remove</entry>
         <entry>ckground</entry>
         <entry>searchmovies</entry>
+        <entry>button</entry>
+        <entry>moviefo</entry>
+        <entry>searchmov</entry>
+        <entry>buttonfontcol</entry>
+        <entry encoding="base64">XDxidXR0b25HcmV5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
