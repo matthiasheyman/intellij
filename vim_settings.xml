@@ -71,7 +71,7 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1508740959956">
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1508741130403">
         <mark key="'" line="195" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
@@ -105,9 +105,9 @@
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508510858077">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508741149560">
         <mark key="p" line="607" column="4" />
-        <mark key="'" line="544" column="57" />
+        <mark key="'" line="343" column="47" />
         <mark key="k" line="567" column="115" />
         <mark key="[" line="551" column="0" />
         <mark key="l" line="314" column="130" />
@@ -120,7 +120,7 @@
         <mark key="[" line="42" column="13" />
         <mark key="." line="42" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508508478013">
+      <file name="/Dummy.txt" timestamp="1508741165392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508160616523">
@@ -138,12 +138,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508504731209">
-        <mark key="'" line="468" column="8" />
-        <mark key="[" line="634" column="0" />
-        <mark key="]" line="634" column="40" />
-        <mark key="^" line="440" column="0" />
-        <mark key="." line="427" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508742240542">
+        <mark key="'" line="784" column="21" />
+        <mark key="[" line="855" column="29" />
+        <mark key="]" line="857" column="32" />
+        <mark key="^" line="857" column="32" />
+        <mark key="." line="857" column="32" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
@@ -195,23 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="450" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="464" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="46" column="11" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="53" column="11" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="387" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="396" column="65" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="444" column="47" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="451" column="51" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="456" column="51" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="273" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="391" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="863" column="48" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="1742" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="438" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="30" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="227" column="11" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="243" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="132" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="165" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
@@ -257,7 +240,6 @@
       <jump line="411" column="61" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="539" column="45" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="56" column="56" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="570" column="60" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="571" column="40" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="0" column="1" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="393" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
@@ -295,6 +277,24 @@
       <jump line="271" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
       <jump line="423" column="55" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="544" column="57" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="557" column="37" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="570" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="572" column="44" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="616" column="84" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="235" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="236" column="56" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="251" column="76" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="280" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="281" column="41" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="303" column="80" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="307" column="91" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="308" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="332" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="333" column="85" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="334" column="48" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="335" column="76" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="343" column="47" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="784" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -307,7 +307,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>more</text>
+        <text>search</text>
       </register>
       <register name="0" type="4">
         <text>videoDetailContainer</text>
@@ -344,19 +344,16 @@
       </register>
     </registers>
     <search>
-      <last-search>more</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern>more</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>color</entry>
-        <entry>nth</entry>
-        <entry>cover</entry>
         <entry>videodetail</entry>
         <entry>font-color</entry>
         <entry>trailer</entry>
@@ -374,6 +371,9 @@
         <entry encoding="base64">XDxyZWZyZXNoVmlkZW9EZXRhaWxDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxqYXZhc2NyaXB0XD4=</entry>
         <entry>more</entry>
+        <entry>searchfield</entry>
+        <entry>searchmoviesi</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
