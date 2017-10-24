@@ -3,14 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1508751649099">
-        <mark key="'" line="0" column="1" />
-        <mark key="x" line="205" column="8" />
-        <mark key="[" line="213" column="13" />
-        <mark key="]" line="214" column="26" />
-        <mark key="^" line="214" column="26" />
-        <mark key="." line="214" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1508750970338">
         <mark key="'" line="889" column="75" />
         <mark key="[" line="985" column="5" />
@@ -158,7 +150,7 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508841499380">
+      <file name="/Dummy.txt" timestamp="1508854094214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508831189030">
@@ -192,6 +184,9 @@
         <mark key="^" line="801" column="36" />
         <mark key="." line="811" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1508854724978">
+        <mark key="'" line="83" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -220,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="4" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
       <jump line="260" column="4" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
       <jump line="337" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
       <jump line="340" column="5" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
@@ -320,6 +314,7 @@
       <jump line="1115" column="29" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1116" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1117" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="83" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -365,7 +360,7 @@
         <text encoding="base64">ICAgICAgICAgICRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -405,8 +400,8 @@
         <entry>%s;user;client</entry>
         <entry>action FindUsages</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
