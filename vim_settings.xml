@@ -185,11 +185,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1508848307146">
-        <mark key="'" line="1117" column="32" />
-        <mark key="[" line="1404" column="0" />
-        <mark key="]" line="1404" column="0" />
-        <mark key="." line="1404" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1508849756262">
+        <mark key="'" line="789" column="38" />
+        <mark key="[" line="811" column="0" />
+        <mark key="]" line="811" column="0" />
+        <mark key="^" line="801" column="36" />
+        <mark key="." line="811" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
         <mark key="[" line="2" column="17" />
@@ -219,16 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
-      <jump line="327" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
-      <jump line="330" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
-      <jump line="333" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
-      <jump line="334" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
-      <jump line="338" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" />
-      <jump line="1137" column="10" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
-      <jump line="1142" column="20" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
-      <jump line="1148" column="21" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
-      <jump line="1154" column="23" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
       <jump line="1160" column="24" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
       <jump line="1175" column="11" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
       <jump line="3" column="151" filename="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" />
@@ -319,6 +310,16 @@
       <jump line="1115" column="29" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1116" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1117" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="805" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1396" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1398" column="42" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1554" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="801" column="31" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1399" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1551" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1553" column="46" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="787" column="28" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="789" column="38" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -328,49 +329,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>integration</text>
       </register>
       <register name="/" type="4">
-        <text>jmeter</text>
+        <text>verify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGJ1dHRvbkZvbnRDb2xvciA6ICMzRTNFM0U7Cg==</text>
+        <text encoding="base64">CQkJCQk8cGx1Z2luPgoJCQkJCQk8Z3JvdXBJZD5jb20ubGF6ZXJ5Y29kZS5qbWV0ZXI8L2dyb3VwSWQ+CgkJCQkJCTxhcnRpZmFjdElkPmptZXRlci1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQkJCTx2ZXJzaW9uPjIuNC4wPC92ZXJzaW9uPgoJCQkJCQk8ZXhlY3V0aW9ucz4KCQkJCQkJCTxleGVjdXRpb24+CgkJCQkJCQkJPGlkPmptZXRlci1pbnRlZ3JhdGlvbi10ZXN0PC9pZD4KCQkJCQkJCQk8cGhhc2U+aW50ZWdyYXRpb24tdGVzdDwvcGhhc2U+CgkJCQkJCQkJPGdvYWxzPgoJCQkJCQkJCQk8Z29hbD5qbWV0ZXI8L2dvYWw+CgkJCQkJCQkJPC9nb2Fscz4KCQkJCQkJCQk8Y29uZmlndXJhdGlvbj4KCQkJCQkJCQkJPHRlc3RGaWxlc0RpcmVjdG9yeT50YXJnZXQvdGVzdC1jbGFzc2VzLzwvdGVzdEZpbGVzRGlyZWN0b3J5PgoJCQkJCQkJCQk8dGVzdEZpbGVzSW5jbHVkZWQ+CgkJCQkJCQkJCQk8ak1ldGVyVGVzdEZpbGU+ZWJvVmlzaW9uVGVzdF9DdXN0b21lci5qbXg8L2pNZXRlclRlc3RGaWxlPgoJCQkJCQkJCQkJPGpNZXRlclRlc3RGaWxlPnRlc3RSYW5kb21Vc2FnZVdpdGhLZWVwQWxpdmUuam14PC9qTWV0ZXJUZXN0RmlsZT4KCQkJCQkJCQkJPC90ZXN0RmlsZXNJbmNsdWRlZD4KCQkJCQkJCQkJPGlnbm9yZVJlc3VsdEZhaWx1cmVzPnRydWU8L2lnbm9yZVJlc3VsdEZhaWx1cmVzPgoJCQkJCQkJCQk8dGVzdFJlc3VsdHNUaW1lc3RhbXA+ZmFsc2U8L3Rlc3RSZXN1bHRzVGltZXN0YW1wPgoJCQkJCQkJCTwvY29uZmlndXJhdGlvbj4KCQkJCQkJCTwvZXhlY3V0aW9uPgoJCQkJCQk8L2V4ZWN1dGlvbnM+CgkJCQkJPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJPGRlcGVuZGVuY2llcz4KCQkJCQkJCTxkZXBlbmRlbmN5PgoJCQkJCQkJCTxncm91cElkPmNvbS5nb29nbGVjb2RlLmpzb24tc2ltcGxlPC9ncm91cElkPgoJCQkJCQkJCTxhcnRpZmFjdElkPmpzb24tc2ltcGxlPC9hcnRpZmFjdElkPgoJCQkJCQkJCTx2ZXJzaW9uPjEuMS4xPC92ZXJzaW9uPgoJCQkJCQkJPC9kZXBlbmRlbmN5PgoJCQkJCQk8L2RlcGVuZGVuY2llcz4K</text>
+        <text encoding="base64">CQkJCQkJCTx0ZXN0UmVzdWx0c1RpbWVzdGFtcD5mYWxzZTwvdGVzdFJlc3VsdHNUaW1lc3RhbXA+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJCQkJCTxpZ25vcmVSZXN1bHRGYWlsdXJlcz50cnVlPC9pZ25vcmVSZXN1bHRGYWlsdXJlcz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+dmVyaWZ5PC9waGFzZT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkK</text>
+        <text encoding="base64">CQkJCQkJPGRlcGVuZGVuY2llcz4KCQkJCQkJCTxkZXBlbmRlbmN5PgoJCQkJCQkJCTxncm91cElkPmNvbS5nb29nbGVjb2RlLmpzb24tc2ltcGxlPC9ncm91cElkPgoJCQkJCQkJCTxhcnRpZmFjdElkPmpzb24tc2ltcGxlPC9hcnRpZmFjdElkPgoJCQkJCQkJCTx2ZXJzaW9uPjEuMS4xPC92ZXJzaW9uPgoJCQkJCQkJPC9kZXBlbmRlbmN5PgoJCQkJCQk8L2RlcGVuZGVuY2llcz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmVudElkLmNsYXNzOwo=</text>
+        <text encoding="base64">CQkJCQkJCQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGNvdW50ZXIgPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">anNvbi4K</text>
+        <text encoding="base64">ICAgICAgICAgICRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>jmeter</last-search>
+      <last-search>verify</last-search>
       <last-offset />
-      <last-pattern>jmeter</last-pattern>
+      <last-pattern>verify</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -378,7 +379,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remove</entry>
         <entry>ckground</entry>
         <entry>searchmovies</entry>
         <entry>moviefo</entry>
@@ -398,6 +398,7 @@
         <entry encoding="base64">XDxleHRlbmRlZFw+</entry>
         <entry>init</entry>
         <entry>jmeter</entry>
+        <entry>verify</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
