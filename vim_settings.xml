@@ -21,6 +21,9 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/channelResourceTab.xhtml" timestamp="1508338718597">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/VideoResourceBean.java" timestamp="1508841523076">
+        <mark key="'" line="166" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/pageTemplate.xhtml" timestamp="1508406262681">
         <mark key="[" line="13" column="59" />
         <mark key="]" line="13" column="58" />
@@ -165,7 +168,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508840299328">
         <mark key="'" line="266" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508840990857">
+      <file name="/Dummy.txt" timestamp="1508841499380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508831189030">
@@ -220,9 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2481" column="11" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="2486" column="14" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
-      <jump line="2632" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="2657" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="2663" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
       <jump line="31" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
@@ -320,6 +320,9 @@
       <jump line="354" column="7" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/Resource.java" />
       <jump line="204" column="25" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/Resource.java" />
       <jump line="208" column="54" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/Resource.java" />
+      <jump line="119" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/VideoResourceBean.java" />
+      <jump line="124" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/VideoResourceBean.java" />
+      <jump line="166" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/VideoResourceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -332,7 +335,7 @@
         <text encoding="base64">IDogIzNFM0UzRTs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNvdXJjZUljb25cPg==</text>
+        <text encoding="base64">XDxzZXREZWZhdWx0SWNvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGJ1dHRvbkZvbnRDb2xvciA6ICMzRTNFM0U7Cg==</text>
@@ -369,9 +372,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNvdXJjZUljb25cPg==</last-search>
+      <last-search encoding="base64">XDxzZXREZWZhdWx0SWNvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNvdXJjZUljb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXREZWZhdWx0SWNvblw+</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -379,7 +382,6 @@
     </search>
     <history>
       <history-search>
-        <entry>newin</entry>
         <entry>jmeter</entry>
         <entry>category</entry>
         <entry encoding="base64">XDxzZWxlY3RlZENhdGVnb3J5XD4=</entry>
@@ -399,6 +401,7 @@
         <entry>button</entry>
         <entry>image</entry>
         <entry encoding="base64">XDxyZXNvdXJjZUljb25cPg==</entry>
+        <entry encoding="base64">XDxzZXREZWZhdWx0SWNvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
