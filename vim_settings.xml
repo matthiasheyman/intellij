@@ -86,13 +86,6 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/informationcenter/TestScreenLayout.java" timestamp="1507885654576">
         <mark key="'" line="61" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508840139601">
-        <mark key="'" line="1441" column="35" />
-        <mark key="[" line="865" column="21" />
-        <mark key="]" line="865" column="37" />
-        <mark key="." line="865" column="37" />
-        <mark key="^" line="865" column="37" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
       </file>
@@ -164,9 +157,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508840299328">
-        <mark key="'" line="266" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1508841499380">
         <mark key="[" line="0" column="0" />
