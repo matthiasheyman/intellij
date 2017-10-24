@@ -81,6 +81,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
         <mark key="'" line="256" column="2" />
       </file>
+      <file name="/Dummy.groovy" timestamp="1508835201246">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/event/model/function/EventProcessingService.java" timestamp="1507813535394">
         <mark key="'" line="1124" column="56" />
       </file>
@@ -138,10 +144,6 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/insert/ldap.sql" timestamp="1508398397803">
-        <mark key="[" line="1" column="71" />
-        <mark key="]" line="1" column="80" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
         <mark key="[" line="49" column="40" />
         <mark key="]" line="49" column="40" />
@@ -157,6 +159,12 @@
         <mark key="]" line="97" column="195" />
         <mark key="." line="97" column="195" />
         <mark key="^" line="97" column="195" />
+      </file>
+      <file name="$USER_HOME$/projects/test/json/src/json.groovy" timestamp="1508835593253">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/projects/framework/jefui/src/main/java/com/ebo/jefui/tags/input/InputAutocompleteRenderer.java" timestamp="1507812867183">
         <mark key="[" line="643" column="0" />
@@ -189,6 +197,12 @@
         <mark key="]" line="191" column="12" />
         <mark key="." line="191" column="12" />
         <mark key="^" line="191" column="12" />
+      </file>
+      <file name="$USER_HOME$/tmp/json.groovy" timestamp="1508834784877">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -301,40 +315,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YnV0dG9uIHsKCWJhY2tncm91bmQ6ICRidXR0b25HcmV5OwoJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7Cgljb2xvcjogJGJ1dHRvbkZvbnRDb2xvcjsKCWZvbnQtd2VpZ2h0OiBib2xkOwp9Cg==</text>
+      <register name="0" type="4">
+        <text>for (def js : json) {
+    def parentId = js[&quot;parent&quot;][&quot;id&quot;]
+    def id = js[&quot;id&quot;]
+
+    if (parentId == currentTvirId) {
+
+        vars.put(vars.get(&quot;tvInputResourceAssignmentId&quot;) + &quot;_chrId_&quot; + counter, id + &quot;&quot;)
+        counter++
+    }
+}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWJ1dHRvbiB7CgkJCgl9Cg==</text>
+        <text encoding="base64">ZGVmIGNvdW50ZXIgPSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCSRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
+        <text encoding="base64">anNvbi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSRidXR0b25HcmV5IDogI0NDQ0NDQzsK</text>
+        <text encoding="base64">anNvbi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJYnV0dG9uewoJCQliYWNrZ3JvdW5kOiAkYnV0dG9uR3JleTsKCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCWNvbG9yOiAkYnV0dG9uRm9udENvbG9yOwoJCQlmb250LXdlaWdodDogYm9sZDsKCQkJfQo=</text>
+        <text encoding="base64">ICAgIGVudHJ5LmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CWJ1dHRvbiB7CgkJCgl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJCSRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8c2NyCg==</text>
+        <text encoding="base64">CQkJCSRidXR0b25HcmV5IDogI0NDQ0NDQzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJGJ1dHRvbkdyZXkgOiAjQ0NDQ0NDOwoJCQkkYnV0dG9uRm9udENvbG9yIDogIzNFM0UzRTsK</text>
+        <text encoding="base64">CQkJYnV0dG9uewoJCQliYWNrZ3JvdW5kOiAkYnV0dG9uR3JleTsKCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCWNvbG9yOiAkYnV0dG9uRm9udENvbG9yOwoJCQlmb250LXdlaWdodDogYm9sZDsKCQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
