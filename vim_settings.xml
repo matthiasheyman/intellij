@@ -160,11 +160,10 @@
         <mark key="." line="97" column="195" />
         <mark key="^" line="97" column="195" />
       </file>
-      <file name="$USER_HOME$/projects/test/json/src/json.groovy" timestamp="1508835593253">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/projects/test/json/src/json.groovy" timestamp="1508838062758">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/framework/jefui/src/main/java/com/ebo/jefui/tags/input/InputAutocompleteRenderer.java" timestamp="1507812867183">
         <mark key="[" line="643" column="0" />
@@ -333,31 +332,31 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGNvdW50ZXIgPSAxCg==</text>
+        <text encoding="base64">ICAgIHBhcmVudElkLmNsYXNzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">anNvbi4K</text>
+        <text encoding="base64">ZGVmIGNvdW50ZXIgPSAxCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">anNvbi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVudHJ5LmcK</text>
+        <text encoding="base64">anNvbi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWJ1dHRvbiB7CgkJCgl9Cg==</text>
+        <text encoding="base64">ICAgIGVudHJ5LmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCSRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
+        <text encoding="base64">CWJ1dHRvbiB7CgkJCgl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSRidXR0b25HcmV5IDogI0NDQ0NDQzsK</text>
+        <text encoding="base64">CQkJCSRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJYnV0dG9uewoJCQliYWNrZ3JvdW5kOiAkYnV0dG9uR3JleTsKCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCWNvbG9yOiAkYnV0dG9uRm9udENvbG9yOwoJCQlmb250LXdlaWdodDogYm9sZDsKCQkJfQo=</text>
+        <text encoding="base64">CQkJCSRidXR0b25HcmV5IDogI0NDQ0NDQzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJYnV0dG9uewoJCQliYWNrZ3JvdW5kOiAkYnV0dG9uR3JleTsKCQkJYm9yZGVyOiAxcHggc29saWQgJGJ1dHRvbkdyZXk7CgkJCWNvbG9yOiAkYnV0dG9uRm9udENvbG9yOwoJCQlmb250LXdlaWdodDogYm9sZDsKCQkJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
