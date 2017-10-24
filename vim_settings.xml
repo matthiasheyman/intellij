@@ -116,10 +116,6 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="71" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508764285284">
-        <mark key="p" line="600" column="4" />
-        <mark key="k" line="560" column="115" />
-      </file>
       <file name="/Dummy.txt" timestamp="1508829203896">
         <mark key="[" line="0" column="0" />
       </file>
@@ -137,9 +133,6 @@
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1508770269473">
-        <mark key="'" line="883" column="26" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
