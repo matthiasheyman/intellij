@@ -70,11 +70,6 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1508322540281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/prisoncloud/css/style.scss" timestamp="1508770265990">
-        <mark key="'" line="9" column="1" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="71" column="1" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/informationcenter/TestScreenLayout.java" timestamp="1507885654576">
         <mark key="'" line="61" column="26" />
       </file>
@@ -117,6 +112,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" timestamp="1508322593713">
         <mark key="'" line="28" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/service/remoteoperations/remoteOperationsOverviewTab.xhtml" timestamp="1508927479829" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UpgradeClientOS.java" timestamp="1507707708395">
         <mark key="'" line="22" column="13" />
       </file>
@@ -217,11 +213,6 @@
         <mark key="]" line="2" column="17" />
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
-      </file>
-      <file name="/videoPortal.xhtml" timestamp="1508753658463">
-        <mark key="'" line="313" column="62" />
-        <mark key="[" line="312" column="0" />
-        <mark key="]" line="312" column="51" />
       </file>
       <file name="/fragment.java" timestamp="1508507731367">
         <mark key="[" line="0" column="0" />
