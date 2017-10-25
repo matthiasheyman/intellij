@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1508939899727">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1508942743199">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+        <mark key="[" line="280" column="13" />
+        <mark key="]" line="280" column="14" />
         <mark key="^" line="18" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="280" column="14" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1508935970212">
         <mark key="'" line="889" column="17" />
@@ -86,8 +86,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" timestamp="1508840539280">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" timestamp="1508942606282">
         <mark key="'" line="51" column="0" />
+        <mark key="[" line="69" column="11" />
+        <mark key="]" line="70" column="31" />
+        <mark key="^" line="70" column="31" />
+        <mark key="." line="70" column="31" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
         <mark key="[" line="49" column="40" />
@@ -159,8 +163,8 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508938914503">
-        <mark key="'" line="154" column="20" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508942900879">
+        <mark key="'" line="183" column="26" />
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
         <mark key="^" line="142" column="35" />
@@ -238,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="413" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="781" column="28" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1369" column="40" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="783" column="34" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -338,6 +341,7 @@
       <jump line="152" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="153" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="154" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="183" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
