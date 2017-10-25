@@ -159,7 +159,6 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508858870037" />
       <file name="/Dummy.txt" timestamp="1508858289519">
         <mark key="[" line="0" column="0" />
       </file>
@@ -370,7 +369,7 @@
         <text encoding="base64">ICAgICAgICAgICRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -380,7 +379,7 @@
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -408,10 +407,10 @@
       <history-cmd>
         <entry>%s;user</entry>
         <entry>%s;user;client</entry>
-        <entry>action FindUsages</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
