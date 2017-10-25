@@ -159,6 +159,12 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508924177173">
+        <mark key="[" line="566" column="88" />
+        <mark key="]" line="566" column="109" />
+        <mark key="^" line="566" column="109" />
+        <mark key="." line="566" column="109" />
+      </file>
       <file name="/Dummy.txt" timestamp="1508858289519">
         <mark key="[" line="0" column="0" />
       </file>
