@@ -174,6 +174,10 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/insert/ldap.sql" timestamp="1508917739079">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestScheduleEntryService.java" timestamp="1508915534999">
         <mark key="[" line="129" column="7" />
         <mark key="]" line="130" column="10" />
@@ -344,8 +348,8 @@
       <register name="/" type="4">
         <text>jef.version</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQk8cGx1Z2luPgoJCQkJCQk8Z3JvdXBJZD5jb20ubGF6ZXJ5Y29kZS5qbWV0ZXI8L2dyb3VwSWQ+CgkJCQkJCTxhcnRpZmFjdElkPmptZXRlci1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQkJCTx2ZXJzaW9uPjIuNC4wPC92ZXJzaW9uPgoJCQkJCQk8ZXhlY3V0aW9ucz4KCQkJCQkJCTxleGVjdXRpb24+CgkJCQkJCQkJPGlkPmptZXRlci1pbnRlZ3JhdGlvbi10ZXN0PC9pZD4KCQkJCQkJCQk8cGhhc2U+aW50ZWdyYXRpb24tdGVzdDwvcGhhc2U+CgkJCQkJCQkJPGdvYWxzPgoJCQkJCQkJCQk8Z29hbD5qbWV0ZXI8L2dvYWw+CgkJCQkJCQkJPC9nb2Fscz4KCQkJCQkJCQk8Y29uZmlndXJhdGlvbj4KCQkJCQkJCQkJPHRlc3RGaWxlc0RpcmVjdG9yeT50YXJnZXQvdGVzdC1jbGFzc2VzLzwvdGVzdEZpbGVzRGlyZWN0b3J5PgoJCQkJCQkJCQk8dGVzdEZpbGVzSW5jbHVkZWQ+CgkJCQkJCQkJCQk8ak1ldGVyVGVzdEZpbGU+ZWJvVmlzaW9uVGVzdF9DdXN0b21lci5qbXg8L2pNZXRlclRlc3RGaWxlPgoJCQkJCQkJCQkJPGpNZXRlclRlc3RGaWxlPnRlc3RSYW5kb21Vc2FnZVdpdGhLZWVwQWxpdmUuam14PC9qTWV0ZXJUZXN0RmlsZT4KCQkJCQkJCQkJPC90ZXN0RmlsZXNJbmNsdWRlZD4KCQkJCQkJCQkJPGlnbm9yZVJlc3VsdEZhaWx1cmVzPnRydWU8L2lnbm9yZVJlc3VsdEZhaWx1cmVzPgoJCQkJCQkJCQk8dGVzdFJlc3VsdHNUaW1lc3RhbXA+ZmFsc2U8L3Rlc3RSZXN1bHRzVGltZXN0YW1wPgoJCQkJCQkJCTwvY29uZmlndXJhdGlvbj4KCQkJCQkJCTwvZXhlY3V0aW9uPgoJCQkJCQk8L2V4ZWN1dGlvbnM+CgkJCQkJPC9wbHVnaW4+Cg==</text>
+      <register name="0" type="4">
+        <text>10.10.97.42</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJCTx0ZXN0UmVzdWx0c1RpbWVzdGFtcD5mYWxzZTwvdGVzdFJlc3VsdHNUaW1lc3RhbXA+Cg==</text>
