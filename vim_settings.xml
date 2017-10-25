@@ -126,11 +126,11 @@
         <mark key="." line="202" column="55" />
         <mark key="^" line="202" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/database/liquibase.postinit.ebovision-4.13.xml" timestamp="1508858358502">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="46" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/database/liquibase.postinit.ebovision-4.13.xml" timestamp="1508925828569">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="11" column="61" />
+        <mark key="^" line="11" column="49" />
+        <mark key="." line="11" column="50" />
       </file>
       <file name="$USER_HOME$/projects/framework/jefui/src/test/java/com/ebo/jefui/utils/TestQueryProperty.java" timestamp="1507813882487">
         <mark key="[" line="30" column="71" />
@@ -159,13 +159,13 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508924177173">
-        <mark key="[" line="566" column="88" />
-        <mark key="]" line="566" column="109" />
-        <mark key="^" line="566" column="109" />
-        <mark key="." line="566" column="109" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1508926340135">
+        <mark key="[" line="404" column="121" />
+        <mark key="]" line="404" column="124" />
+        <mark key="." line="404" column="124" />
+        <mark key="^" line="404" column="124" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508858289519">
+      <file name="/Dummy.txt" timestamp="1508925775896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508831189030">
@@ -349,40 +349,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>thumbnail cover</text>
       </register>
       <register name="/" type="4">
         <text>jef.version</text>
       </register>
       <register name="0" type="4">
-        <text>10.10.97.42</text>
+        <text encoding="base64">IGFuZCBlbXB0eSB2aWRlb1BvcnRhbEJlYW4uZGV0YWlsVmlkZW8uc3RyZWFtZWRJbWFnZQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCTx0ZXN0UmVzdWx0c1RpbWVzdGFtcD5mYWxzZTwvdGVzdFJlc3VsdHNUaW1lc3RhbXA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGplZjpncmFwaGljSW1hZ2UgdmFsdWU9IiN7dmlkZW9Qb3J0YWxCZWFuLm5ld1JlbGVhc2VJbWdMb2NhdGlvbn0iIHN0eWxlQ2xhc3M9Im5ld1JlbGVhc2UiIHJlbmRlcmVkPSIje3Jlcy5uZXdJbkNhdGFsb2d9Ii8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCTxpZ25vcmVSZXN1bHRGYWlsdXJlcz50cnVlPC9pZ25vcmVSZXN1bHRGYWlsdXJlcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGplZjpncmFwaGljSW1hZ2UgdmFsdWU9IiN7cmVzLmltYWdlVXJsfSIgc3R5bGVDbGFzcz0idGh1bWJuYWlsIGNvdmVyIHNoYWRvdyIgcmVuZGVyZWQ9IiN7bm90IGVtcHR5IHJlcy5pbWFnZVVybH0iLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+dmVyaWZ5PC9waGFzZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxpbWcgc3JjPSJncmFwaGljL25vVmlkZW9JbWFnZS5wbmciICBhbHQ9Im5vIGltYWdlIiBjbGFzcz0idGh1bWJuYWlsIGNvdmVyIi8+LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJPGRlcGVuZGVuY2llcz4KCQkJCQkJCTxkZXBlbmRlbmN5PgoJCQkJCQkJCTxncm91cElkPmNvbS5nb29nbGVjb2RlLmpzb24tc2ltcGxlPC9ncm91cElkPgoJCQkJCQkJCTxhcnRpZmFjdElkPmpzb24tc2ltcGxlPC9hcnRpZmFjdElkPgoJCQkJCQkJCTx2ZXJzaW9uPjEuMS4xPC92ZXJzaW9uPgoJCQkJCQkJPC9kZXBlbmRlbmN5PgoJCQkJCQk8L2RlcGVuZGVuY2llcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxpbWcgc3JjPSJncmFwaGljL25vVmlkZW9JbWFnZS5wbmciICBhbHQ9Im5vIGltYWdlIiBjbGFzcz0idGh1bWJuYWlsIGNvdmVyIi8+LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGplZjpncmFwaGljSW1hZ2UgdmFsdWU9ImdyYXBoaWMvbm9WaWRlb0ltYWdlLnBuZyIgIHN0eWxlQ2xhc3M9InRodW1ibmFpbCBjb3ZlciIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJCQkJCTx0ZXN0UmVzdWx0c1RpbWVzdGFtcD5mYWxzZTwvdGVzdFJlc3VsdHNUaW1lc3RhbXA+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkK</text>
+        <text encoding="base64">CQkJCQkJCTxpZ25vcmVSZXN1bHRGYWlsdXJlcz50cnVlPC9pZ25vcmVSZXN1bHRGYWlsdXJlcz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+dmVyaWZ5PC9waGFzZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICRidXR0b25Gb250Q29sb3IgOiAjM0UzRTNFOwo=</text>
+        <text encoding="base64">CQkJCQkJPGRlcGVuZGVuY2llcz4KCQkJCQkJCTxkZXBlbmRlbmN5PgoJCQkJCQkJCTxncm91cElkPmNvbS5nb29nbGVjb2RlLmpzb24tc2ltcGxlPC9ncm91cElkPgoJCQkJCQkJCTxhcnRpZmFjdElkPmpzb24tc2ltcGxlPC9hcnRpZmFjdElkPgoJCQkJCQkJCTx2ZXJzaW9uPjEuMS4xPC92ZXJzaW9uPgoJCQkJCQkJPC9kZXBlbmRlbmN5PgoJCQkJCQk8L2RlcGVuZGVuY2llcz4K</text>
       </register>
       <register name=":" type="4">
         <text>action FindUsages</text>
