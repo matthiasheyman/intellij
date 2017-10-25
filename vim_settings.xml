@@ -174,6 +174,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestScheduleEntryService.java" timestamp="1508915534999">
+        <mark key="[" line="129" column="7" />
+        <mark key="]" line="130" column="10" />
+        <mark key="^" line="130" column="10" />
+        <mark key="." line="130" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1508752951839">
         <mark key="'" line="96" column="27" />
         <mark key="[" line="97" column="192" />
