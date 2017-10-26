@@ -50,6 +50,9 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" timestamp="1508764576629">
         <mark key="'" line="63" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" timestamp="1509020906711">
+        <mark key="'" line="1050" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
         <mark key="'" line="256" column="2" />
       </file>
@@ -238,9 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="783" column="34" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1277" column="16" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="874" column="40" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1348" column="44" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1950" column="47" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="805" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -338,6 +338,9 @@
       <jump line="1115" column="29" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1116" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1117" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="35" column="62" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
+      <jump line="1050" column="26" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -350,7 +353,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>jmeter</text>
+        <text>gettvsc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZW1vdmVPdmVybGF5KCk7Cg==</text>
@@ -387,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jmeter</last-search>
+      <last-search>gettvsc</last-search>
       <last-offset />
-      <last-pattern>jmeter</last-pattern>
+      <last-pattern>gettvsc</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test-local</entry>
         <entry>skip</entry>
         <entry encoding="base64">XDxleHRlbmRlZFw+</entry>
         <entry>jef-</entry>
@@ -417,6 +419,7 @@
         <entry encoding="base64">XDx2aWRlb0RldGFpbENvbnRhaW5lclw+</entry>
         <entry>trailer</entry>
         <entry>jmeter</entry>
+        <entry>gettvsc</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
