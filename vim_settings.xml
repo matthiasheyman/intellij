@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1509362151125">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1509371341422">
         <mark key="'" line="274" column="0" />
-        <mark key="[" line="389" column="23" />
-        <mark key="]" line="382" column="0" />
-        <mark key="." line="382" column="0" />
-        <mark key="^" line="382" column="0" />
+        <mark key="[" line="408" column="0" />
+        <mark key="]" line="408" column="0" />
+        <mark key="." line="408" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1508935970212">
         <mark key="'" line="889" column="17" />
@@ -81,10 +80,10 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/informationcenter/TestScreenLayout.java" timestamp="1507885654576">
         <mark key="'" line="61" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1509360197859">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1509370663828">
         <mark key="'" line="807" column="16" />
-        <mark key="[" line="796" column="0" />
-        <mark key="]" line="797" column="23" />
+        <mark key="[" line="815" column="0" />
+        <mark key="]" line="816" column="20" />
         <mark key="." line="815" column="15" />
         <mark key="^" line="815" column="15" />
       </file>
@@ -177,12 +176,12 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1509363067348">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1509371751405">
         <mark key="'" line="153" column="20" />
-        <mark key="[" line="179" column="45" />
-        <mark key="]" line="179" column="45" />
-        <mark key="." line="179" column="45" />
-        <mark key="^" line="165" column="90" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+        <mark key="^" line="197" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1509360985853">
         <mark key="[" line="0" column="0" />
@@ -361,40 +360,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>ten</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFpbGVyUGxheWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAwOwogICAgICBmb250LXdlaWdodDogYm9sZDsK</text>
+        <text encoding="base64">ICAgICAgLy93aWR0aDogMTAwJTsKICAgICAgLy9oZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDo2MCU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV2ZW50LnN0b3BQcm9wYWdhdGlvbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDo2MCU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyojdHJhaWxlclBsYXllciB7Ki8KICAgIC8qcG9zaXRpb246IGFic29sdXRlOyovCiAgICAvKnotaW5kZXg6IDkwMDA7Ki8KICAgIC8qd2lkdGg6IDY2LjUlOyovCiAgICAvKmhlaWdodDogNDYuNSU7Ki8KICAgIC8qdG9wOiA1MCU7Ki8KICAgIC8qbGVmdDogMjAlOyovCiAgICAvKmJhY2tncm91bmQtY29sb3I6IGJsYWNrOyovCiAgICAvKmN1cnNvcjogcG9pbnRlcjsqLwovKn0qLwoKLyojdHJhaWxlclBsYXllci1jb250cm9scyB7Ki8KICAgIC8qcG9zaXRpb246IGFic29sdXRlOyovCiAgICAvKmxlZnQ6IDIwJTsqLwogICAgLyp0b3A6IDk2LjUlOyovCiAgICAvKmJhY2tncm91bmQtY29sb3I6ICMyRDZCOUE7Ki8KICAgIC8qd2lkdGg6IDY2LjUlOyovCiAgICAvKmhlaWdodDogMi41JTsqLwogICAgLyp6LWluZGV4OiA5MDAwOyovCgogICAgLyojcGxheS1wYXVzZSB7Ki8KICAgICAgICAvKnBvc2l0aW9uOiBhYnNvbHV0ZTsqLwogICAgICAgIC8qYm9yZGVyOiAwOyovCiAgICAgICAgLypmb250LXdlaWdodDogYm9sZDsqLwogICAgICAgIC8qd2lkdGg6IDIuNSU7Ki8KICAgICAgICAvKmhlaWdodDogMTAwJTsqLwogICAgICAgIC8qbGVmdDogMDsqLwogICAgICAgIC8qdG9wOiAwOyovCiAgICAgICAgLypjdXJzb3I6IHBvaW50ZXI7Ki8KCiAgICAgICAgLyppbWcgeyovCiAgICAgICAgICAgIC8qcG9zaXRpb246IGFic29sdXRlOyovCiAgICAgICAgICAgIC8qdG9wOiAxMCU7Ki8KICAgICAgICAgICAgLypoZWlnaHQ6IDgwJTsqLwogICAgICAgICAgICAvKmxlZnQ6IDI1JTsqLwogICAgICAgIC8qfSovCiAgICAvKn0qLwoKICAgIC8qI3NlZWstYmFyIHsqLwogICAgICAgIC8qcG9zaXRpb246IGFic29sdXRlOyovCiAgICAgICAgLypsZWZ0OiA3JTsqLwogICAgICAgIC8qd2lkdGg6IDg3JTsqLwogICAgICAgIC8qaGVpZ2h0OiAxMDAlOyovCiAgICAgICAgLypiYWNrZ3JvdW5kLWNvbG9yOiAjMkQ2QjlBOyovCiAgICAgICAgLypib3JkZXI6IDA7Ki8KICAgICAgICAvKnBhZGRpbmc6IDA7Ki8KICAgIC8qfSovCi8qfSovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICc8L2Rpdj48L2Rpdj4nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHRyYWlsZXJQbGF5ZXJDb250cm9scyA9ICc8ZGl2IGlkPSJ0cmFpbGVyUGxheWVyLWNvbnRyb2xzIj4nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAnJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAnPC9kaXY+JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICc8ZGl2IGNsYXNzPSJvbmUgY29sdW1uIiBpZD0ic2Vlay1iYXItdmFsdWUiPjwvZGl2PicgKwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JzxidXR0b24gdHlwZT0iYnV0dG9uIiBpZD0icGxheS1wYXVzZSI+JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAnPGltZyBzcmM9Ii9jbGllbnQvcHJpc29uY2xvdWQvaW1hZ2VzL3BsYXkucG5nIi8+JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAnPC9idXR0b24+Jw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly9wb3NpdGlvbjogYWJzb2x1dGU7Ci8vbGVmdDogNyU7Ci8vd2lkdGg6IDEwMCU7Ci8vaGVpZ2h0OiAxMDAlOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Jzx2aWRlbyBpZD0idHJhaWxlclBsYXllciI+PHNvdXJjZSBzcmM9IicgKyB1cmwgKyAnIi8+PC92aWRlbz4nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArICc8ZGl2IGlkPSJ0cmFpbGVyUGxheWVyLWNvbnRyb2xzIj4nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArICc8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgaWQ9InBsYXktcGF1c2UiPicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgJzxpbWcgc3JjPSIvY2xpZW50L3ByaXNvbmNsb3VkL2ltYWdlcy9wbGF5LnBuZyIvPicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgJzwvYnV0dG9uPicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgJzxpbnB1dCB0eXBlPSJyYW5nZSIgaWQ9InNlZWstYmFyIiB2YWx1ZT0iMC4wIiAvPicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgJzwvZGl2Pic=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICsnPGRpdiBjbGFzcz0ib25lIGNvbHVtbiI+PC9kaXY+JyArCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDo2MCU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQk8cGx1Z2luPgoJCQkJCQk8Z3JvdXBJZD5jb20ubGF6ZXJ5Y29kZS5qbWV0ZXI8L2dyb3VwSWQ+CgkJCQkJCTxhcnRpZmFjdElkPmptZXRlci1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQkJCTx2ZXJzaW9uPjIuNC4wPC92ZXJzaW9uPgoJCQkJCQk8ZXhlY3V0aW9ucz4KCQkJCQkJCTxleGVjdXRpb24+CgkJCQkJCQkJPGlkPmptZXRlci1pbnRlZ3JhdGlvbi10ZXN0PC9pZD4KCQkJCQkJCQk8cGhhc2U+aW50ZWdyYXRpb24tdGVzdDwvcGhhc2U+CgkJCQkJCQkJPGdvYWxzPgoJCQkJCQkJCQk8Z29hbD5qbWV0ZXI8L2dvYWw+CgkJCQkJCQkJPC9nb2Fscz4KCQkJCQkJCQk8Y29uZmlndXJhdGlvbj4KCQkJCQkJCQkJPHRlc3RGaWxlc0RpcmVjdG9yeT50YXJnZXQvdGVzdC1jbGFzc2VzLzwvdGVzdEZpbGVzRGlyZWN0b3J5PgoJCQkJCQkJCQk8dGVzdEZpbGVzSW5jbHVkZWQ+CgkJCQkJCQkJCQk8ak1ldGVyVGVzdEZpbGU+ZWJvVmlzaW9uVGVzdF9DdXN0b21lci5qbXg8L2pNZXRlclRlc3RGaWxlPgoJCQkJCQkJCQkJPGpNZXRlclRlc3RGaWxlPnRlc3RSYW5kb21Vc2FnZVdpdGhLZWVwQWxpdmUuam14PC9qTWV0ZXJUZXN0RmlsZT4KCQkJCQkJCQkJPC90ZXN0RmlsZXNJbmNsdWRlZD4KCQkJCQkJCQkJPGlnbm9yZVJlc3VsdEZhaWx1cmVzPnRydWU8L2lnbm9yZVJlc3VsdEZhaWx1cmVzPgoJCQkJCQkJCQk8dGVzdFJlc3VsdHNUaW1lc3RhbXA+ZmFsc2U8L3Rlc3RSZXN1bHRzVGltZXN0YW1wPgoJCQkJCQkJCTwvY29uZmlndXJhdGlvbj4KCQkJCQkJCTwvZXhlY3V0aW9uPgoJCQkJCQk8L2V4ZWN1dGlvbnM+CgkJCQkJPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDo2MCU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
