@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1509358590233">
-        <mark key="'" line="196" column="26" />
-        <mark key="[" line="373" column="20" />
-        <mark key="]" line="373" column="20" />
-        <mark key="." line="373" column="20" />
-        <mark key="^" line="368" column="31" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1509362151125">
+        <mark key="'" line="274" column="0" />
+        <mark key="[" line="389" column="23" />
+        <mark key="]" line="382" column="0" />
+        <mark key="." line="382" column="0" />
+        <mark key="^" line="382" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1508935970212">
         <mark key="'" line="889" column="17" />
@@ -81,9 +81,10 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/informationcenter/TestScreenLayout.java" timestamp="1507885654576">
         <mark key="'" line="61" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1509358696475">
-        <mark key="[" line="815" column="13" />
-        <mark key="]" line="815" column="15" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1509360197859">
+        <mark key="'" line="807" column="16" />
+        <mark key="[" line="796" column="0" />
+        <mark key="]" line="797" column="23" />
         <mark key="." line="815" column="15" />
         <mark key="^" line="815" column="15" />
       </file>
@@ -176,14 +177,14 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1509358515584">
-        <mark key="'" line="546" column="55" />
-        <mark key="[" line="162" column="90" />
-        <mark key="]" line="162" column="103" />
-        <mark key="." line="162" column="103" />
-        <mark key="^" line="162" column="103" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1509362106080">
+        <mark key="'" line="153" column="20" />
+        <mark key="[" line="179" column="47" />
+        <mark key="]" line="179" column="47" />
+        <mark key="." line="179" column="47" />
+        <mark key="^" line="179" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509355501689">
+      <file name="/Dummy.txt" timestamp="1509360985853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508831189030">
@@ -214,7 +215,8 @@
         <mark key="." line="97" column="195" />
         <mark key="^" line="97" column="195" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1509018147048">
+      <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1509361043120">
+        <mark key="'" line="1293" column="78" />
         <mark key="^" line="997" column="43" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1508854724978">
@@ -233,7 +235,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1508936036681">
+      <file name="/fragment.java" timestamp="1509361209694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" timestamp="1507899278142">
@@ -250,14 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1553" column="46" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="787" column="28" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="789" column="38" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="813" column="53" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1111" column="0" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1071" column="55" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1096" column="70" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1387" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1566" column="47" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1383" column="48" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1185" column="51" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -327,7 +321,6 @@
       <jump line="138" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="141" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="152" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="153" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="154" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="183" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="953" column="50" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -350,6 +343,15 @@
       <jump line="359" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="340" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="196" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
+      <jump line="274" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
+      <jump line="807" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="1293" column="78" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="161" column="56" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="163" column="85" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="175" column="61" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="191" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="195" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="153" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -359,13 +361,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>$('#play-pause')</text>
       </register>
       <register name="/" type="4">
-        <text>playtrai</text>
+        <text encoding="base64">XDx0cmFpbGVyUGxheWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAjdHJhaWxlclBsYXllciB7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICB6LWluZGV4OiA5MDAwOwogICAgd2lkdGg6IDY2LjUlOwogICAgaGVpZ2h0OiA0Ni41JTsKICAgIHRvcDogNTAlOwogICAgbGVmdDogMjAlOwogICAgYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7CiAgICBjdXJzb3I6IHBvaW50ZXI7CiAgfQoKICAjdHJhaWxlclBsYXllci1jb250cm9scyB7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICBsZWZ0OiAyMCU7CiAgICB0b3A6IDk2LjUlOwogICAgYmFja2dyb3VuZC1jb2xvcjogIzJENkI5QTsKICAgIHdpZHRoOiA2Ni41JTsKICAgIGhlaWdodDogMi41JTsKICAgIHotaW5kZXg6IDkwMDA7CgogICAgI3BsYXktcGF1c2UgewogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGJvcmRlcjogMDsKICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgIHdpZHRoOiAyLjUlOwogICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgIGxlZnQ6IDA7CiAgICAgIHRvcDogMDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwoKICAgICAgaW1nIHsKICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgICAgdG9wOiAxMCU7CiAgICAgICAgaGVpZ2h0OiA4MCU7CiAgICAgICAgbGVmdDogMjUlOwogICAgICB9CiAgICB9CgogICAgI3NlZWstYmFyIHsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICBsZWZ0OiA3JTsKICAgICAgd2lkdGg6IDg3JTsKICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMkQ2QjlBOwogICAgICBib3JkZXI6IDA7CiAgICAgIHBhZGRpbmc6IDA7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAwOwogICAgICBmb250LXdlaWdodDogYm9sZDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGhlaWdodDo2MCU7Cg==</text>
@@ -399,9 +401,9 @@
       </register>
     </registers>
     <search>
-      <last-search>playtrai</last-search>
+      <last-search encoding="base64">XDx0cmFpbGVyUGxheWVyXD4=</last-search>
       <last-offset />
-      <last-pattern>playtrai</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbGVyUGxheWVyXD4=</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -409,9 +411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jef-</entry>
-        <entry>jef.version</entry>
-        <entry>request</entry>
         <entry encoding="base64">XDxwb3NpdGlvbkNvdmVyXD4=</entry>
         <entry encoding="base64">XDxwb3NpdGlvbkNvdmVyc1w+</entry>
         <entry>positioncovers</entry>
@@ -429,6 +428,9 @@
         <entry>showtrail</entry>
         <entry>trailer</entry>
         <entry>playtrai</entry>
+        <entry>play-paus</entry>
+        <entry>logging</entry>
+        <entry encoding="base64">XDx0cmFpbGVyUGxheWVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
