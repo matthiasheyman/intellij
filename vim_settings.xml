@@ -177,12 +177,12 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1509362106080">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1509363052757">
         <mark key="'" line="153" column="20" />
-        <mark key="[" line="179" column="47" />
-        <mark key="]" line="179" column="47" />
-        <mark key="." line="179" column="47" />
-        <mark key="^" line="179" column="47" />
+        <mark key="[" line="179" column="45" />
+        <mark key="]" line="179" column="45" />
+        <mark key="." line="179" column="45" />
+        <mark key="^" line="165" column="90" />
       </file>
       <file name="/Dummy.txt" timestamp="1509360985853">
         <mark key="[" line="0" column="0" />
@@ -361,7 +361,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>$('#play-pause')</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFpbGVyUGxheWVyXD4=</text>
