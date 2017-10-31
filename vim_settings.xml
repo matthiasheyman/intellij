@@ -19,10 +19,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/channelResourceTab.xhtml" timestamp="1508338718597">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1509450036037">
-        <mark key="[" line="442" column="0" />
-        <mark key="]" line="442" column="0" />
-        <mark key="." line="442" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1509456025943">
+        <mark key="'" line="341" column="17" />
+        <mark key="[" line="437" column="29" />
+        <mark key="]" line="437" column="69" />
+        <mark key="." line="437" column="69" />
+        <mark key="^" line="437" column="69" />
       </file>
       <file name="$USER_HOME$/projects/prisoncloud/abstract-movie-import/src/main/java/com/ebo/ebovision/application/model/Movie.java" timestamp="1509446737637">
         <mark key="'" line="0" column="0" />
@@ -65,18 +67,19 @@
         <mark key="^" line="235" column="7" />
         <mark key="." line="235" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1509455766426" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/event/model/function/EventProcessingService.java" timestamp="1507813535394">
         <mark key="'" line="1124" column="56" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/Resource.java" timestamp="1508840589704">
         <mark key="'" line="208" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" timestamp="1509447158292">
-        <mark key="'" line="555" column="28" />
-        <mark key="[" line="554" column="66" />
-        <mark key="]" line="554" column="65" />
-        <mark key="." line="554" column="65" />
-        <mark key="^" line="554" column="65" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" timestamp="1509456549098">
+        <mark key="'" line="14" column="25" />
+        <mark key="[" line="554" column="38" />
+        <mark key="]" line="554" column="64" />
+        <mark key="." line="554" column="64" />
+        <mark key="^" line="554" column="64" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/service/autoupdate/AutoUpdateOverviewBean.java" timestamp="1507713284093">
         <mark key="'" line="47" column="25" />
@@ -218,7 +221,7 @@
         <mark key="'" line="1867" column="4" />
       </file>
       <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/test/java/com/ebo/dvdpostimport/TestDvdPostMovieImporter.java" timestamp="1509438415866" />
-      <file name="/Dummy.txt" timestamp="1509445902342">
+      <file name="/Dummy.txt" timestamp="1509455542127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508831189030">
@@ -290,10 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="62" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
-      <jump line="1050" column="26" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
-      <jump line="410" column="49" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="349" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="533" column="55" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="11" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
@@ -320,8 +319,6 @@
       <jump line="405" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="165" column="80" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="499" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
-      <jump line="14" column="34" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
       <jump line="1297" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/WEB-INF/cxf-generated.xml" />
       <jump line="185" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
       <jump line="189" column="47" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
@@ -390,6 +387,12 @@
       <jump line="662" column="49" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
       <jump line="336" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
       <jump line="360" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
+      <jump line="402" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
+      <jump line="341" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
+      <jump line="11" column="25" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
+      <jump line="12" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
+      <jump line="14" column="25" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -399,10 +402,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Classifications</text>
+        <text>ALL</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxsVmlkZW9SZXNvdXJjZVw+</text>
+        <text encoding="base64">XDxNYW55VG9NYW55XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQ2xhc3NpZmljYXRpb25zIGhhdmUgY2hhbmdlZCwgdXBkYXRlIGFsbCB2aWRlb1Jlc291cmNlQ2xhc3NpZmljYXRpb25zIik7CiAgICAgICAgZm9yIChWaWRlb1Jlc291cmNlQ2xhc3NpZmljYXRpb24gdnJjbCA6IHZyY2xzKSB7CiAgICAgICAgICAgIHZyLnJlbW92ZVZpZGVvcmVzb3VyY2VjbGFzc2lmaWNhdGlvbih2cmNsKTsKICAgICAgICB9CiAgICAgICAgLy8gbmVjZXNzYXJ5IHRvIHBlcnNpc3QgdmlkZW9SZXNvdXJjZSBiZWZvcmUgcHJvY2VlZGluZwogICAgICAgIEJlYW5VdGlscy5nZXRCZWFuKFZpZGVvUmVzb3VyY2VTZXJ2aWNlLmNsYXNzKS51cGRhdGUodnIpOwo=</text>
@@ -439,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxsVmlkZW9SZXNvdXJjZVw+</last-search>
+      <last-search encoding="base64">XDxNYW55VG9NYW55XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxsVmlkZW9SZXNvdXJjZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxNYW55VG9NYW55XD4=</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -449,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>play-paus</entry>
         <entry>logging</entry>
         <entry encoding="base64">XDx0cmFpbGVyUGxheWVyXD4=</entry>
         <entry>eleven</entry>
@@ -460,7 +462,6 @@
         <entry>trailercont</entry>
         <entry>videodetaildiv</entry>
         <entry>actor</entry>
-        <entry encoding="base64">XDxNYW55VG9NYW55XD4=</entry>
         <entry>liqui</entry>
         <entry encoding="base64">XDxjYXRlZ29yeUlucHV0XD4=</entry>
         <entry encoding="base64">XDxkaXJlY3RvcklucHV0XD4=</entry>
@@ -469,14 +470,16 @@
         <entry encoding="base64">XDx2ZXJzaW9uSW5wdXRcPg==</entry>
         <entry>abstract</entry>
         <entry encoding="base64">XDxmaWxsVmlkZW9SZXNvdXJjZVw+</entry>
+        <entry>many</entry>
+        <entry encoding="base64">XDxNYW55VG9NYW55XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
         <entry>%s;user;client</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action FindUsages</entry>
         <entry>w</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
