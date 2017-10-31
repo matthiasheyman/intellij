@@ -218,7 +218,7 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509463123453">
+      <file name="/Dummy.txt" timestamp="1509464898786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508831189030">
@@ -238,6 +238,10 @@
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/deploy/debian/etc/mysql/conf.d/ebovision.cnf" timestamp="1509465077307">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="30" />
       </file>
       <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1508752951839">
         <mark key="'" line="96" column="27" />
@@ -407,7 +411,7 @@
         <text encoding="base64">XDx2aWRlb1Jlc291cmNlQWN0b3JzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vdmllSW1wb3J0ZXIucGVyc2lzdE1vdmllcyhtb3ZpZXMpOwo=</text>
+        <text encoding="base64">bWF4X2Nvbm5lY3Rpb25zICAgICAgICAgPSAxMDI0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -437,7 +441,7 @@
         <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -478,8 +482,8 @@
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
