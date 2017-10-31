@@ -19,11 +19,10 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/channelResourceTab.xhtml" timestamp="1508338718597">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1509449834356">
-        <mark key="[" line="429" column="27" />
-        <mark key="]" line="429" column="31" />
-        <mark key="." line="429" column="31" />
-        <mark key="^" line="429" column="31" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1509450036037">
+        <mark key="[" line="442" column="0" />
+        <mark key="]" line="442" column="0" />
+        <mark key="." line="442" column="0" />
       </file>
       <file name="$USER_HOME$/projects/prisoncloud/abstract-movie-import/src/main/java/com/ebo/ebovision/application/model/Movie.java" timestamp="1509446737637">
         <mark key="'" line="0" column="0" />
@@ -400,7 +399,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>vrcl</text>
+        <text>Classifications</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxsVmlkZW9SZXNvdXJjZVw+</text>
@@ -409,31 +408,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQ2xhc3NpZmljYXRpb25zIGhhdmUgY2hhbmdlZCwgdXBkYXRlIGFsbCB2aWRlb1Jlc291cmNlQ2xhc3NpZmljYXRpb25zIik7CiAgICAgICAgZm9yIChWaWRlb1Jlc291cmNlQ2xhc3NpZmljYXRpb24gdnJjbCA6IHZyY2xzKSB7CiAgICAgICAgICAgIHZyLnJlbW92ZVZpZGVvcmVzb3VyY2VjbGFzc2lmaWNhdGlvbih2cmNsKTsKICAgICAgICB9CiAgICAgICAgLy8gbmVjZXNzYXJ5IHRvIHBlcnNpc3QgdmlkZW9SZXNvdXJjZSBiZWZvcmUgcHJvY2VlZGluZwogICAgICAgIEJlYW5VdGlscy5nZXRCZWFuKFZpZGVvUmVzb3VyY2VTZXJ2aWNlLmNsYXNzKS51cGRhdGUodnIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodnIuKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQWN0b3Iuc2V0SWQoYWN0b3IuZ2V0S2V5KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlkZW9BY3RvclNlcnZpY2UuZmluZEJ5UHJvcGVydHkoVmlkZW9BY3Rvci5GSUVMRF9JRCwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQWN0b3JTZXJ2aWNlLmZpbmRCeVByb3BlcnR5KFZpZGVvQWN0b3IuRklFTERfSUQsIGFjdG9yLmdldEtleSgpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQ291bGQgbm90IGZpbmQgYWN0b3IgIiArIGFjdG9yLmdldFZhbHVlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZyLnNldEFjdG9ycyhuZXcgQXJyYXlMaXN0PFZpZGVvQWN0b3I+KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZyLmdldEFjdG9ycygpID09IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCZWFuVXRpbHMuZ2V0QmVhbihWaWRlb1Jlc291cmNlU2VydmljZS5jbGFzcykudXBkYXRlKHZyKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVBY3RvcnModnIsIG1vdmllKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobW92aWUuZ2V0QWN0b3JzTWFwKCkgPT0gbnVsbCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
