@@ -131,6 +131,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UpgradeClientOS.java" timestamp="1507707708395">
         <mark key="'" line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieProcessor.java" timestamp="1509438531337" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/RemoteResourceBean.java" timestamp="1507815481923">
         <mark key="[" line="202" column="48" />
         <mark key="]" line="202" column="55" />
@@ -170,6 +171,7 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/test/java/com/ebo/dvdpostimport/TestDvdPostMovieImporter.java" timestamp="1509438415866" />
       <file name="/Dummy.txt" timestamp="1509376252535">
         <mark key="[" line="0" column="0" />
       </file>
@@ -383,7 +385,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -423,8 +425,8 @@
         <entry>%s;user;client</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
