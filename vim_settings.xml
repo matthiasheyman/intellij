@@ -73,13 +73,14 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/Resource.java" timestamp="1508840589704">
         <mark key="'" line="208" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" timestamp="1509456549098">
-        <mark key="'" line="14" column="25" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" timestamp="1509458518117">
+        <mark key="'" line="62" column="71" />
         <mark key="[" line="554" column="38" />
         <mark key="]" line="554" column="64" />
         <mark key="." line="554" column="64" />
         <mark key="^" line="554" column="64" />
       </file>
+      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/categoryimport/DVDPostCategoryImporter.java" timestamp="1509458251321" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/service/autoupdate/AutoUpdateOverviewBean.java" timestamp="1507713284093">
         <mark key="'" line="47" column="25" />
       </file>
@@ -287,9 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="352" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="357" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="359" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="340" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="196" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
@@ -387,6 +385,9 @@
       <jump line="14" column="25" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
       <jump line="149" column="55" filename="$USER_HOME$/projects/framework/jef/pom.xml" />
       <jump line="991" column="38" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="543" column="6" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
+      <jump line="50" column="46" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
+      <jump line="62" column="71" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -399,7 +400,7 @@
         <text>9</text>
       </register>
       <register name="/" type="4">
-        <text>jef.version</text>
+        <text encoding="base64">XDx2aWRlb1Jlc291cmNlQ2xhc3NpZmljYXRpb25zXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQ2xhc3NpZmljYXRpb25zIGhhdmUgY2hhbmdlZCwgdXBkYXRlIGFsbCB2aWRlb1Jlc291cmNlQ2xhc3NpZmljYXRpb25zIik7CiAgICAgICAgZm9yIChWaWRlb1Jlc291cmNlQ2xhc3NpZmljYXRpb24gdnJjbCA6IHZyY2xzKSB7CiAgICAgICAgICAgIHZyLnJlbW92ZVZpZGVvcmVzb3VyY2VjbGFzc2lmaWNhdGlvbih2cmNsKTsKICAgICAgICB9CiAgICAgICAgLy8gbmVjZXNzYXJ5IHRvIHBlcnNpc3QgdmlkZW9SZXNvdXJjZSBiZWZvcmUgcHJvY2VlZGluZwogICAgICAgIEJlYW5VdGlscy5nZXRCZWFuKFZpZGVvUmVzb3VyY2VTZXJ2aWNlLmNsYXNzKS51cGRhdGUodnIpOwo=</text>
@@ -436,18 +437,16 @@
       </register>
     </registers>
     <search>
-      <last-search>jef.version</last-search>
+      <last-search encoding="base64">XDx2aWRlb1Jlc291cmNlQ2xhc3NpZmljYXRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>jef.version</last-pattern>
+      <last-pattern encoding="base64">XDx2aWRlb1Jlc291cmNlQ2xhc3NpZmljYXRpb25zXD4=</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFpbGVyUGxheWVyXD4=</entry>
-        <entry>eleven</entry>
         <entry>playtrailer</entry>
         <entry>seek-b</entry>
         <entry>trailerpa</entry>
@@ -466,6 +465,8 @@
         <entry>many</entry>
         <entry encoding="base64">XDxNYW55VG9NYW55XD4=</entry>
         <entry>jef.version</entry>
+        <entry>classif</entry>
+        <entry encoding="base64">XDx2aWRlb1Jlc291cmNlQ2xhc3NpZmljYXRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
