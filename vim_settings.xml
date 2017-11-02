@@ -227,6 +227,12 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/test/java/com/ebo/dvdpostimport/TestDvdPostMovieImporter.java" timestamp="1509610623357">
+        <mark key="[" line="35" column="59" />
+        <mark key="]" line="35" column="59" />
+        <mark key="^" line="35" column="60" />
+        <mark key="." line="35" column="59" />
+      </file>
       <file name="/Dummy.txt" timestamp="1509464898786">
         <mark key="[" line="0" column="0" />
       </file>
@@ -414,13 +420,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>movies</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>persist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWF4X2Nvbm5lY3Rpb25zICAgICAgICAgPSAxMDI0Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGR2ZFBvc3RNb3ZpZVByb2Nlc3Nvci5zZXRTdGFydERhdGUobmV3IERhdGVUaW1lKDIwMTQsMSwxLDAsMCkpOwovLyAgICAgICAgZHZkUG9zdE1vdmllUHJvY2Vzc29yLnNldEVuZERhdGUobmV3IERhdGVUaW1lKDIwMTcsMTIsMSwwLDApKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
