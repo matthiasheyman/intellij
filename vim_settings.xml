@@ -89,6 +89,12 @@
       <file name="/EboVisionMovieProcessor.java" timestamp="1509467333876">
         <mark key="'" line="302" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestVideoResourceActorService.java" timestamp="1509721492241">
+        <mark key="[" line="56" column="9" />
+        <mark key="]" line="57" column="10" />
+        <mark key="^" line="57" column="10" />
+        <mark key="." line="57" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
       </file>
@@ -119,7 +125,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" timestamp="1507883737983">
         <mark key="'" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1509706923705">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1509721400991">
         <mark key="[" line="16" column="66" />
         <mark key="]" line="16" column="82" />
         <mark key="." line="16" column="82" />
