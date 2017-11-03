@@ -45,16 +45,16 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" timestamp="1509029192361">
         <mark key="'" line="1050" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/impl/VideoResourceDAOImpl.java" timestamp="1509696719009">
-        <mark key="[" line="45" column="133" />
-        <mark key="]" line="45" column="132" />
-        <mark key="^" line="45" column="132" />
-        <mark key="." line="45" column="132" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/impl/VideoResourceDAOImpl.java" timestamp="1509701482896">
+        <mark key="[" line="49" column="51" />
+        <mark key="]" line="49" column="51" />
+        <mark key="." line="49" column="51" />
+        <mark key="^" line="49" column="51" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
         <mark key="'" line="256" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1509695119586">
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1509701004727">
         <mark key="'" line="109" column="37" />
         <mark key="[" line="235" column="8" />
         <mark key="]" line="235" column="16" />
@@ -123,10 +123,11 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" timestamp="1507883737983">
         <mark key="'" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1509695333884">
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1509701236950">
+        <mark key="[" line="295" column="28" />
+        <mark key="]" line="295" column="48" />
+        <mark key="." line="295" column="48" />
+        <mark key="^" line="295" column="48" />
       </file>
       <file name="$USER_HOME$/projects/framework/jefui/src/main/java/com/ebo/jefui/tags/input/InputAutocompleteRenderer.java" timestamp="1507812867183">
         <mark key="[" line="643" column="0" />
@@ -237,10 +238,6 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/deploy/debian/etc/mysql/conf.d/ebovision.cnf" timestamp="1509628481097">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1509638881640">
         <mark key="[" line="153" column="53" />
         <mark key="]" line="153" column="52" />
@@ -256,13 +253,19 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/server/jetty.xml" timestamp="1508932646792">
         <mark key="'" line="293" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/VideoResourceDAO.java" timestamp="1509700469668">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="89" />
+        <mark key="." line="12" column="89" />
+        <mark key="^" line="12" column="89" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1509638375372">
+      <file name="/fragment.java" timestamp="1509701441872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -391,40 +394,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>FIELD_DIRECTOR</text>
+        <text>SetJoin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWFyY2hGaWx0ZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJlZGljYXRlIGRpcmVjdG9yUHJlZGljYXRlID0gYnVpbGRlci5lcXVhbChyb290LmdldChWaWRlb1Jlc291cmNlLkZJRUxEX0RJUkVDVE9SKS5hcyhTdHJpbmcuY2xhc3MpLCBmcmVlVGV4dEVudHJ5KTsK</text>
+      <register name="0" type="4">
+        <text>root.joinSet(VideoResource.FIELD_VIDEO_RESOURCE_ACTORS);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFNldDxMb25nPiBmaW5kVmlkZW9SZXNvdXJjZUlkc0J5WWVhcihTZXQ8SW50ZWdlcj4geWVhcnMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGUgZnVsbFByZWRpY2F0ZSA9IGJ1aWxkZXIuYW5kKHllYXJQcmVkaWNhdGUsIGZyZWVUZXh0UHJlZGljYXRlcy50b0FycmF5KG5ldyBQcmVkaWNhdGVbZnJlZVRleHRQcmVkaWNhdGVzLnNpemUoKV0pKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTZWFyY2hGaWx0ZXIgZmlsdGVyID0gbmV3IFNlYXJjaEZpbHRlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICDCsgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxJRW50aXR5PiBkZXBlbmRlbnRFbnRpdGllcyA9IG5ldyBBcnJheUxpc3Q8PigpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVwZW5kZW50RW50aXRpZXMuYWRkKGNhY2hlLmdldENhY2hlZENsYXNzKCkuZ2V0RW50aXR5Q2xhc3MoKS5uZXdJbnN0YW5jZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJlZGljYXRlIGFjdG9yUHJlZGljYXRlID0gYnVpbGRlci5lcXVhbChyb290LmdldChWaWRlb1Jlc291cmNlLkZJRUxEX1ZJREVPX1JFU09VUkNFX0FDVE9SUykuYXMoU3RyaW5nLmNsYXNzKSwgZnJlZVRleHRFbnRyeSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSm9pbjxWaWRlb1Jlc291cmNlQWN0b3IsIFNldDw+Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdnIuc2V0SWQoQmVhblV0aWxzLmdldEJlYW4oVmlkZW9SZXNvdXJjZVNlcnZpY2UuY2xhc3MpLmNyZWF0ZSh2cikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
