@@ -45,6 +45,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" timestamp="1509029192361">
         <mark key="'" line="1050" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/impl/VideoResourceDAOImpl.java" timestamp="1509696719009">
+        <mark key="[" line="45" column="133" />
+        <mark key="]" line="45" column="132" />
+        <mark key="^" line="45" column="132" />
+        <mark key="." line="45" column="132" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
         <mark key="'" line="256" column="2" />
       </file>
@@ -158,12 +164,6 @@
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResourceClassification.java" timestamp="1509462174374">
         <mark key="'" line="58" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieProcessor.java" timestamp="1509622653025">
-        <mark key="'" line="79" column="20" />
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="31" column="31" />
-        <mark key="." line="31" column="31" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/RemoteResourceBean.java" timestamp="1507815481923">
         <mark key="[" line="202" column="48" />
@@ -391,13 +391,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>dependentEntities, timestamp, delete, cascading</text>
+        <text>FIELD_DIRECTOR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWFyY2hGaWx0ZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>BeanUtils.getBean(VideoResourceService.class)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUHJlZGljYXRlIGRpcmVjdG9yUHJlZGljYXRlID0gYnVpbGRlci5lcXVhbChyb290LmdldChWaWRlb1Jlc291cmNlLkZJRUxEX0RJUkVDVE9SKS5hcyhTdHJpbmcuY2xhc3MpLCBmcmVlVGV4dEVudHJ5KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
