@@ -102,11 +102,12 @@
         <mark key="." line="102" column="10" />
         <mark key="^" line="102" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1509966607233">
-        <mark key="[" line="457" column="27" />
-        <mark key="]" line="457" column="29" />
-        <mark key="." line="457" column="29" />
-        <mark key="^" line="457" column="29" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1509967970652">
+        <mark key="'" line="736" column="22" />
+        <mark key="[" line="690" column="59" />
+        <mark key="]" line="692" column="27" />
+        <mark key="." line="692" column="27" />
+        <mark key="^" line="692" column="27" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
@@ -242,8 +243,11 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1509965630452">
-        <mark key="'" line="453" column="49" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1509967754713">
+        <mark key="'" line="4" column="43" />
+        <mark key="[" line="167" column="56" />
+        <mark key="]" line="167" column="56" />
+        <mark key="." line="167" column="56" />
       </file>
       <file name="/Dummy.txt" timestamp="1509966557308">
         <mark key="[" line="0" column="0" />
@@ -318,9 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="93" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
-      <jump line="150" column="20" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
-      <jump line="151" column="76" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
       <jump line="152" column="20" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
       <jump line="153" column="78" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
       <jump line="154" column="20" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
@@ -418,6 +419,9 @@
       <jump line="267" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="90" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
+      <jump line="472" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
+      <jump line="4" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
+      <jump line="734" column="22" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -427,10 +431,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>.movie</text>
+        <text>videodetailbuttons</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QG1lZGlhIChtaW4td2lkdGg6IDEyMDBweCkgewogICAgLnR3by5jb2x1bW4sCiAgICAudHdvLmNvbHVtbnMgewogICAgICAgIHdpZHRoOiAxNS4zMzMzMzMzMzMzJTsKICAgIH0KICAgIC50ZW4uY29sdW1uLAogICAgLnRlbi5jb2x1bW5zIHsKICAgICAgICB3aWR0aDogODAuNjY2NjY2NjY2NyU7CiAgICB9CiAgICAubW92aWUuY29sdW1uLAogICAgLm1vdmllLmNvbHVtbnMgewogICAgICAgIHdpZHRoOiAxMCU7CiAgICB9Cn0K</text>
@@ -467,9 +471,9 @@
       </register>
     </registers>
     <search>
-      <last-search>.movie</last-search>
+      <last-search>videodetailbuttons</last-search>
       <last-offset />
-      <last-pattern>.movie</last-pattern>
+      <last-pattern>videodetailbuttons</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -477,8 +481,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWRlb1Jlc291cmNlQWN0b3JzXD4=</entry>
-        <entry>persist</entry>
         <entry>persistmov</entry>
         <entry encoding="base64">XDxnZXRTdGFydERhdGVcPg==</entry>
         <entry>createinbulk</entry>
@@ -497,6 +499,8 @@
         <entry>videoresource.rat</entry>
         <entry>videoactorservice</entry>
         <entry>.movie</entry>
+        <entry>.player</entry>
+        <entry>videodetailbuttons</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
