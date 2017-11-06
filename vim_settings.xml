@@ -46,8 +46,11 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" timestamp="1508764576629">
         <mark key="'" line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" timestamp="1509979338288">
-        <mark key="'" line="49" column="59" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" timestamp="1509980555783">
+        <mark key="[" line="683" column="52" />
+        <mark key="]" line="685" column="28" />
+        <mark key="." line="685" column="28" />
+        <mark key="^" line="685" column="28" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
         <mark key="'" line="256" column="2" />
@@ -288,6 +291,9 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1508854724978">
         <mark key="'" line="83" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1509980044612">
+        <mark key="'" line="1117" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/framework/jef/pom.xml" timestamp="1509457520593">
         <mark key="'" line="149" column="55" />
       </file>
@@ -326,17 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="23" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
-      <jump line="199" column="19" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
-      <jump line="215" column="20" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
-      <jump line="218" column="20" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
-      <jump line="40" column="20" filename="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/DVDPostMovieJsonHandler.java" />
-      <jump line="33" column="57" filename="$USER_HOME$/projects/prisoncloud/abstract-movie-import/src/main/java/com/ebo/ebovision/application/model/Movie.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/prisoncloud/abstract-movie-import/src/main/java/com/ebo/ebovision/application/model/Movie.java" />
-      <jump line="1602" column="34" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="54" column="24" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="55" column="31" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="722" column="29" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="723" column="37" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="555" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
       <jump line="662" column="49" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
@@ -426,6 +421,17 @@
       <jump line="511" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
       <jump line="663" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
       <jump line="49" column="59" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
+      <jump line="19" column="23" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="378" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1112" column="13" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1113" column="33" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1114" column="40" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1115" column="29" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1116" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="1117" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="654" column="41" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
+      <jump line="491" column="35" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
+      <jump line="495" column="22" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -435,49 +441,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>testObject</text>
+        <text>programId</text>
       </register>
       <register name="/" type="4">
-        <text>tvsc</text>
+        <text encoding="base64">XDxjcmVhdGVUdk9iamVjdHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb1NlcnZlclNlcnZpY2VSRVNUQ2xpZW50LmRlbGV0ZShpZFZpZGVvU2VydmVyKTsKICAgICAgICBjb25maWd1cmF0aW9uU2VydmljZVJFU1RDbGllbnQuZGVsZXRlKGlkQ29uZmlndXJhdGlvbik7CiAgICAgICAgY3VzdG9tZXJTZXJ2aWNlUkVTVENsaWVudC5kZWxldGUoaWRDdXN0b21lcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90TnVsbCgiTm8gcHJvZ3JhbSBpZCByZXR1cm5lZCEiLCBwcm9ncmFtSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb1Jlc291cmNlQWN0b3JTZXJ2aWNlUkVTVENsaWVudC5kZWxldGUoaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NoZWR1bGUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb1Jlc291cmNlQWN0b3JTZXJ2aWNlUkVTVENsaWVudC5kZWxldGUoaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb0FjdG9yU2VydmljZVJFU1RDbGllbnQuZGVsZXRlKDk5OTlMKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2aWRlb1Jlc291cmNlQWN0b3JTZXJ2aWNlUkVTVENsaWVudC5kZWxldGUoaWQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2aWRlb1Jlc291cmNlQWN0b3JTZXJ2aWNlUkVTVENsaWVudC5kZWxldGUoaWQpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBWaWRlb1Jlc291cmNlIHZpZGVvID0gVXRpbHMuY3JlYXRlVGVzdE9iamVjdChWaWRlb1Jlc291cmNlLmNsYXNzKTsKICAgICAgICB2aWRlby5zZXRDcmVhdGlvbkRhdGUobmV3IFRpbWVzdGFtcChEYXRlVG9vbHMubWlsbGlzZWNvbmRzTm93KCkpKTsKICAgICAgICB2aWRlby5zZXRFbmREYXRlKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb0FjdG9yU2VydmljZVJFU1RDbGllbnQuZGVsZXRlKDk5OTlMKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5tb3ZpZS5jb2x1bW4sCiAgICAubW92aWUuY29sdW1ucyB7CiAgICAgICAgd2lkdGg6IDEwJTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDo2NCU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMjUlOwo=</text>
+        <text encoding="base64">ICAgICAgICBWaWRlb1Jlc291cmNlIHZpZGVvID0gVXRpbHMuY3JlYXRlVGVzdE9iamVjdChWaWRlb1Jlc291cmNlLmNsYXNzKTsKICAgICAgICB2aWRlby5zZXRDcmVhdGlvbkRhdGUobmV3IFRpbWVzdGFtcChEYXRlVG9vbHMubWlsbGlzZWNvbmRzTm93KCkpKTsKICAgICAgICB2aWRlby5zZXRFbmREYXRlKG51bGwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>tvsc</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVUdk9iamVjdHNcPg==</last-search>
       <last-offset />
-      <last-pattern>tvsc</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVUdk9iamVjdHNcPg==</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -485,8 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getentit</entry>
-        <entry>getcachedclass</entry>
         <entry>getcached</entry>
         <entry encoding="base64">XDxnZXRGcmVlVGV4dFNlYXJjaFw+</entry>
         <entry encoding="base64">XDxmcmVlVGV4dFNlYXJjaFw+</entry>
@@ -505,6 +509,8 @@
         <entry>casc</entry>
         <entry>casca</entry>
         <entry>tvsc</entry>
+        <entry>jmeter</entry>
+        <entry encoding="base64">XDxjcmVhdGVUdk9iamVjdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
