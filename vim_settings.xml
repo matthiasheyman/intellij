@@ -90,6 +90,7 @@
         <mark key="^" line="1044" column="26" />
         <mark key="." line="1044" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestVideoResourceService.java" timestamp="1509973197561" />
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/informationcenter/TestScreenLayout.java" timestamp="1507885654576">
         <mark key="'" line="61" column="26" />
       </file>
@@ -101,13 +102,6 @@
         <mark key="]" line="102" column="10" />
         <mark key="." line="102" column="10" />
         <mark key="^" line="102" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/_mixins.scss" timestamp="1509967970652">
-        <mark key="'" line="736" column="22" />
-        <mark key="[" line="690" column="59" />
-        <mark key="]" line="692" column="27" />
-        <mark key="." line="692" column="27" />
-        <mark key="^" line="692" column="27" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/network/TestLdapDomain.java" timestamp="1507898340563">
         <mark key="'" line="210" column="15" />
