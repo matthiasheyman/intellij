@@ -46,16 +46,16 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" timestamp="1508764576629">
         <mark key="'" line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" timestamp="1509980555783" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" timestamp="1509982875082" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
         <mark key="'" line="256" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1509965471321">
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" timestamp="1509983911108">
         <mark key="'" line="221" column="0" />
-        <mark key="[" line="235" column="8" />
-        <mark key="]" line="235" column="16" />
-        <mark key="^" line="235" column="7" />
-        <mark key="." line="235" column="8" />
+        <mark key="[" line="286" column="89" />
+        <mark key="]" line="286" column="93" />
+        <mark key="^" line="286" column="93" />
+        <mark key="." line="286" column="93" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/event/model/function/EventProcessingService.java" timestamp="1507813535394">
         <mark key="'" line="1124" column="56" />
@@ -245,11 +245,8 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1509967754713">
-        <mark key="'" line="4" column="43" />
-        <mark key="[" line="167" column="56" />
-        <mark key="]" line="167" column="56" />
-        <mark key="." line="167" column="56" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1509983410062">
+        <mark key="'" line="254" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1509966557308">
         <mark key="[" line="0" column="0" />
@@ -327,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="723" column="37" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="555" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" />
       <jump line="662" column="49" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
       <jump line="336" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
@@ -427,6 +423,7 @@
       <jump line="654" column="41" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
       <jump line="491" column="35" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
       <jump line="495" column="22" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" />
+      <jump line="254" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -436,49 +433,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>programId</text>
+        <text>year</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVUdk9iamVjdHNcPg==</text>
+        <text>director</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90TnVsbCgiTm8gcHJvZ3JhbSBpZCByZXR1cm5lZCEiLCBwcm9ncmFtSWQpOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0U2VhcmNoTW92aWVCeURpcmVjdG9yKCkgewogICAgICAgIG5hdmlnYXRpb25BY3Rpb25zLmdvVG9QYWdlKFZJREVPX1BPUlRBTF9VUkwpOwogICAgICAgIFN0cmluZyBkaXJlY3RvciA9ICIxOTY5IjsKICAgICAgICBTdHJpbmcgbW92aWVUaXRsZSA9ICIiOwoKICAgICAgICBzZWxlY3RNYWluVmlkZW9DYXRlZ29yeSgiQ2luZW1hIik7CiAgICAgICAgd2FpdGluZ0FjdGlvbnMud2FpdFRpbGxQYWdlSXNGdWxseUxvYWRlZCgpOwogICAgICAgIGFzc2VydEVsZW1lbnROb3RQcmVzZW50KGdldE1vdmllTG9jYXRvcihtb3ZpZVRpdGxlKSk7CgogICAgICAgIGplZkNvbXBvbmVudEFjdGlvbnMuc2V0VmFsdWVPZklucHV0VGV4dCgic2VhcmNoTW92aWVzRm9ybSIsICJzZWFyY2hNb3ZpZXNJbnB1dCIsIHllYXIpOwogICAgICAgIGplZkNvbXBvbmVudEFjdGlvbnMuY2xpY2tDb21tYW5kQnV0dG9uV2l0aElkKCJzZWFyY2hNb3ZpZXNGb3JtIiwgInNlYXJjaE1vdmllc0J1dHRvbiIpOwoKICAgICAgICBhc3NlcnRFbGVtZW50UHJlc2VudChnZXRNb3ZpZUxvY2F0b3IobW92aWVUaXRsZSkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NoZWR1bGUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb1Jlc291cmNlQWN0b3JTZXJ2aWNlUkVTVENsaWVudC5kZWxldGUoaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NoZWR1bGUuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb1Jlc291cmNlQWN0b3JTZXJ2aWNlUkVTVENsaWVudC5kZWxldGUoaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb0FjdG9yU2VydmljZVJFU1RDbGllbnQuZGVsZXRlKDk5OTlMKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2aWRlb1Jlc291cmNlQWN0b3JTZXJ2aWNlUkVTVENsaWVudC5kZWxldGUoaWQpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2aWRlb1Jlc291cmNlQWN0b3JTZXJ2aWNlUkVTVENsaWVudC5kZWxldGUoaWQpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBWaWRlb1Jlc291cmNlIHZpZGVvID0gVXRpbHMuY3JlYXRlVGVzdE9iamVjdChWaWRlb1Jlc291cmNlLmNsYXNzKTsKICAgICAgICB2aWRlby5zZXRDcmVhdGlvbkRhdGUobmV3IFRpbWVzdGFtcChEYXRlVG9vbHMubWlsbGlzZWNvbmRzTm93KCkpKTsKICAgICAgICB2aWRlby5zZXRFbmREYXRlKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb0FjdG9yU2VydmljZVJFU1RDbGllbnQuZGVsZXRlKDk5OTlMKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVUdk9iamVjdHNcPg==</last-search>
+      <last-search>director</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVUdk9iamVjdHNcPg==</last-pattern>
+      <last-pattern>director</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -486,7 +483,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getcached</entry>
         <entry encoding="base64">XDxnZXRGcmVlVGV4dFNlYXJjaFw+</entry>
         <entry encoding="base64">XDxmcmVlVGV4dFNlYXJjaFw+</entry>
         <entry encoding="base64">XDxTZWFyY2hGaWx0ZXJcPg==</entry>
@@ -506,6 +502,7 @@
         <entry>tvsc</entry>
         <entry>jmeter</entry>
         <entry encoding="base64">XDxjcmVhdGVUdk9iamVjdHNcPg==</entry>
+        <entry>director</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
