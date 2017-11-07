@@ -22,12 +22,11 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1510043519293">
         <mark key="'" line="889" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510064130601">
-        <mark key="'" line="529" column="17" />
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="^" line="279" column="0" />
-        <mark key="." line="279" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510066267260">
+        <mark key="[" line="433" column="25" />
+        <mark key="]" line="433" column="67" />
+        <mark key="^" line="424" column="70" />
+        <mark key="." line="433" column="25" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/pageTemplate.xhtml" timestamp="1508406262681">
         <mark key="[" line="13" column="59" />
@@ -243,6 +242,10 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" timestamp="1508330357006">
         <mark key="'" line="112" column="109" />
       </file>
+      <file name="/MovieServiceImpl.java" timestamp="1510066199629">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="91" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/PeripheralInterfaceClient.java" timestamp="1507810804152">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="24" column="49" />
@@ -364,10 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoipServiceImpl.java" />
-      <jump line="914" column="90" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" />
-      <jump line="37" column="44" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" />
       <jump line="90" column="7" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" />
       <jump line="23" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="612" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
@@ -464,6 +463,10 @@
       <jump line="529" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
       <jump line="37" column="13" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.11.0/jef-4.11.0.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
       <jump line="107" column="34" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.11.0/jef-4.11.0.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="638" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
+      <jump line="446" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
+      <jump line="455" column="25" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
+      <jump line="20" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -473,58 +476,56 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>videoActorService</text>
       </register>
       <register name="/" type="4">
-        <text>findwi</text>
+        <text encoding="base64">XDx2aWRlb0FjdG9yU2VydmljZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>cache.getCachedClass().getEntityClass().</text>
+        <text>BeanUtils.getBean(VideoActorService.class)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGludmFsaWRhdGUoTG9uZyB0aW1lc3RhbXAsIENsYXNzPD8gZXh0ZW5kcyBJRW50aXR5PiBhQ2xhc3MpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgTW92aWVBdmFpbGFiaWxpdHkgbW92aWVBdmFpbGFiaWxpdHk7CgogICAgQEF1dG93aXJlZChyZXF1aXJlZCA9IGZhbHNlKQogICAgcHJpdmF0ZSBWaWRlb0FjdG9yU2VydmljZSB2aWRlb0FjdG9yU2VydmljZTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWaWRlb0FjdG9yU2VydmljZSB2aWRlb0FjdG9yU2VydmljZSA9IEJlYW5VdGlscy5nZXRCZWFuKFZpZGVvQWN0b3JTZXJ2aWNlLmNsYXNzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBCZWFuVXRpbHMuZ2V0QmVhbihWaWRlb1Jlc291cmNlU2VydmljZS5jbGFzcykudXBkYXRlKHZyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGludmFsaWRhdGUoTG9uZyB0aW1lc3RhbXAsIENsYXNzPD8gZXh0ZW5kcyBJRW50aXR5PiBhQ2xhc3MpIHsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDYWNoZUFzcGVjdEludmFsaWRhdGVXaXRoSW50ZXJmYWNlKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkbGdWaWRlb0RldGFpbC5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDYWNoZUFzcGVjdEludmFsaWRhdGVXaXRoSW50ZXJmYWNlKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>findwi</last-search>
+      <last-search encoding="base64">XDx2aWRlb0FjdG9yU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern>findwi</last-pattern>
+      <last-pattern encoding="base64">XDx2aWRlb0FjdG9yU2VydmljZVw+</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>director</entry>
-        <entry>details</entry>
         <entry encoding="base64">XDxvcmRlck1vdmllXD4=</entry>
         <entry encoding="base64">XDxzZW5kUHVyY2hhc2VSZXF1ZXN0XD4=</entry>
         <entry>buy(</entry>
@@ -543,16 +544,18 @@
         <entry>png</entry>
         <entry>persistmovies</entry>
         <entry>findwi</entry>
+        <entry encoding="base64">XDxwcm9jZXNzTXVsdGlsYW5ndWFnZXNcPg==</entry>
+        <entry encoding="base64">XDx2aWRlb0FjdG9yU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
         <entry>%s;user;client</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
-        <entry>action GotoImplementation</entry>
         <entry>q</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
