@@ -46,7 +46,6 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/patientcloud/css/style.scss" timestamp="1508764576629">
         <mark key="'" line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/client/webservice/TestSecureClientService.java" timestamp="1509982875082" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
         <mark key="'" line="256" column="2" />
       </file>
@@ -224,8 +223,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoActor.java" timestamp="1509978897399" />
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResourceActor.java" timestamp="1509978883326" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1509704308639">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1038" column="21" />
@@ -268,6 +265,12 @@
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510041187794">
+        <mark key="[" line="97" column="504" />
+        <mark key="]" line="97" column="505" />
+        <mark key="." line="97" column="505" />
+        <mark key="^" line="97" column="505" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1509638881640">
         <mark key="[" line="153" column="53" />
@@ -433,7 +436,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>year</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>director</text>
@@ -479,7 +482,7 @@
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
