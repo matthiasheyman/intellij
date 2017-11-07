@@ -22,8 +22,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1510043519293">
         <mark key="'" line="889" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510053699560">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510058514698">
         <mark key="'" line="529" column="17" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="0" />
+        <mark key="^" line="279" column="0" />
+        <mark key="." line="279" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/pageTemplate.xhtml" timestamp="1508406262681">
         <mark key="[" line="13" column="59" />
@@ -157,6 +161,7 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" timestamp="1510059150536" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1510051283601">
         <mark key="[" line="16" column="66" />
         <mark key="]" line="16" column="82" />
@@ -335,7 +340,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1510056574212">
+      <file name="/fragment.java" timestamp="1510058805375">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -500,7 +505,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -543,6 +548,7 @@
         <entry>w</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
