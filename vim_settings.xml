@@ -125,7 +125,6 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/util/CacheAspect.class" timestamp="1510054046479">
         <mark key="'" line="34" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.11.0/jef-4.11.0.jar!/com/ebo/jef/cache/AbstractFullLoadingSingleObjectCache.class" timestamp="1510061335378" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" timestamp="1509704117911">
         <mark key="[" line="104" column="9" />
         <mark key="]" line="105" column="28" />
@@ -162,7 +161,6 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" timestamp="1510059150536" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1510051283601">
         <mark key="[" line="16" column="66" />
         <mark key="]" line="16" column="82" />
@@ -181,7 +179,6 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.11.0/jef-4.11.0.jar!/com/ebo/jef/cache/AbstractCache.class" timestamp="1510061369023" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoipServiceImpl.java" timestamp="1509695251806">
         <mark key="'" line="39" column="23" />
       </file>
@@ -345,7 +342,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1510060881265">
+      <file name="/fragment.java" timestamp="1510061954366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -520,7 +517,7 @@
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
