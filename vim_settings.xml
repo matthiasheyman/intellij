@@ -22,6 +22,9 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1510043519293">
         <mark key="'" line="889" column="71" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510053699560">
+        <mark key="'" line="529" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/pageTemplate.xhtml" timestamp="1508406262681">
         <mark key="[" line="13" column="59" />
         <mark key="]" line="13" column="58" />
@@ -115,7 +118,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/tv/model/EpgProvider.java" timestamp="1509441957695">
         <mark key="'" line="16" column="25" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/util/CacheAspect.class" timestamp="1510050724176">
+      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/util/CacheAspect.class" timestamp="1510054046479">
         <mark key="'" line="34" column="13" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" timestamp="1509704117911">
@@ -142,11 +145,11 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" timestamp="1507883737983">
         <mark key="'" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/AbstractCache.java" timestamp="1510048450248">
-        <mark key="[" line="144" column="32" />
-        <mark key="]" line="144" column="48" />
-        <mark key="^" line="144" column="48" />
-        <mark key="." line="144" column="48" />
+      <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/AbstractCache.java" timestamp="1510052909072">
+        <mark key="[" line="175" column="47" />
+        <mark key="]" line="175" column="55" />
+        <mark key="^" line="175" column="55" />
+        <mark key="." line="175" column="55" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/CachedClassHolder.java" timestamp="1510049493417">
         <mark key="[" line="29" column="18" />
@@ -154,7 +157,7 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1510050659936">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1510051283601">
         <mark key="[" line="16" column="66" />
         <mark key="]" line="16" column="82" />
         <mark key="." line="16" column="82" />
@@ -177,6 +180,10 @@
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/ResourceResult.java" timestamp="1508840546992">
         <mark key="'" line="13" column="13" />
+      </file>
+      <file name="/CacheAspect.java" timestamp="1510053413685">
+        <mark key="[" line="155" column="58" />
+        <mark key="]" line="155" column="97" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/cache/TestClientHWCache.java" timestamp="1508857709540">
         <mark key="'" line="323" column="16" />
@@ -279,21 +286,21 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510041187794">
-        <mark key="[" line="97" column="504" />
-        <mark key="]" line="97" column="505" />
-        <mark key="." line="97" column="505" />
-        <mark key="^" line="97" column="505" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510052076341">
+        <mark key="[" line="97" column="497" />
+        <mark key="]" line="97" column="497" />
+        <mark key="." line="97" column="497" />
+        <mark key="^" line="97" column="459" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ebo/JEFUI-test/1.4.0/JEFUI-test-1.4.0.jar!/com/ebo/jefui/test/actions/JefComponentActions.class" timestamp="1510042247230">
         <mark key="[" line="475" column="0" />
         <mark key="]" line="481" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510048811839">
-        <mark key="[" line="54" column="145" />
-        <mark key="]" line="54" column="145" />
-        <mark key="." line="54" column="145" />
-        <mark key="^" line="68" column="82" />
+      <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510053435380">
+        <mark key="[" line="153" column="103" />
+        <mark key="]" line="153" column="103" />
+        <mark key="." line="153" column="103" />
+        <mark key="^" line="153" column="85" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestVideoActorService.java" timestamp="1509965004055">
         <mark key="[" line="98" column="0" />
@@ -328,7 +335,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1510050061016">
+      <file name="/fragment.java" timestamp="1510054146784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -348,11 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="63" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171030.085433-2.jar!/com/ebo/jef/cache/FullLoadingEntityCache.class" />
-      <jump line="814" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
-      <jump line="807" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
-      <jump line="815" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
-      <jump line="818" column="41" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
       <jump line="819" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
       <jump line="38" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoipServiceImpl.java" />
       <jump line="39" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoipServiceImpl.java" />
@@ -448,6 +450,11 @@
       <jump line="1360" column="38" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="13" column="31" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="34" column="13" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/util/CacheAspect.class" />
+      <jump line="317" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
+      <jump line="325" column="54" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
+      <jump line="315" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
+      <jump line="383" column="58" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
+      <jump line="529" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -457,59 +464,56 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>jef.version</text>
+        <text>persistmovies</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RNb3ZpZShURVNUX01PVklFX1RJVExFKTsK</text>
+      <register name="0" type="4">
+        <text>cache.getCachedClass().getEntityClass().</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGludmFsaWRhdGUoTG9uZyB0aW1lc3RhbXAsIENsYXNzPD8gZXh0ZW5kcyBJRW50aXR5PiBhQ2xhc3MpIHsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDYWNoZUFzcGVjdEludmFsaWRhdGVXaXRoSW50ZXJmYWNlKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDYWNoZUFzcGVjdEludmFsaWRhdGVXaXRoSW50ZXJmYWNlKCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkbGdWaWRlb0RldGFpbC5zaG93KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkbGdWaWRlb0RldGFpbC5zaG93KCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uQ292ZXIoJCgnI3ZpZGVvRGV0YWlsSW1hZ2UnKSwgZmFsc2UsIHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>jef.version</last-search>
+      <last-search>persistmovies</last-search>
       <last-offset />
-      <last-pattern>jef.version</last-pattern>
+      <last-pattern>persistmovies</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>casca</entry>
-        <entry>tvsc</entry>
-        <entry>jmeter</entry>
         <entry encoding="base64">XDxjcmVhdGVUdk9iamVjdHNcPg==</entry>
         <entry>director</entry>
         <entry>details</entry>
@@ -527,6 +531,9 @@
         <entry encoding="base64">XDxyZXNvdXJjZUlkXD4=</entry>
         <entry>errormess</entry>
         <entry>jef.version</entry>
+        <entry>create</entry>
+        <entry>png</entry>
+        <entry>persistmovies</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -534,8 +541,8 @@
         <entry>action CommentByLineComment</entry>
         <entry>action FindUsages</entry>
         <entry>w</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
