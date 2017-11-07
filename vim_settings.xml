@@ -293,11 +293,11 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510052076341">
-        <mark key="[" line="97" column="497" />
-        <mark key="]" line="97" column="497" />
-        <mark key="." line="97" column="497" />
-        <mark key="^" line="97" column="459" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510062892545">
+        <mark key="[" line="97" column="48" />
+        <mark key="]" line="97" column="52" />
+        <mark key="." line="97" column="52" />
+        <mark key="^" line="97" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ebo/JEFUI-test/1.4.0/JEFUI-test-1.4.0.jar!/com/ebo/jefui/test/actions/JefComponentActions.class" timestamp="1510042247230">
         <mark key="[" line="475" column="0" />
@@ -471,7 +471,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>findwi</text>
