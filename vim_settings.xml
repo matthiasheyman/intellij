@@ -31,6 +31,9 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171030.085433-2.jar!/com/ebo/jef/cache/FullLoadingEntityCache.class" timestamp="1509638182040">
         <mark key="'" line="32" column="63" />
       </file>
+      <file name="$USER_HOME$/projects/framework/jef/src/test/java/com/ebo/jef/aop/TestCacheAspect.java" timestamp="1510049884210">
+        <mark key="[" line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/framework/jefui/src/test/webapp/resources/css/sunny/theme.css" timestamp="1508766465120">
         <mark key="'" line="260" column="4" />
       </file>
@@ -39,6 +42,11 @@
         <mark key="]" line="121" column="0" />
         <mark key="^" line="104" column="3" />
         <mark key="." line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/framework/jef/src/test/java/com/ebo/jef/cache/TestDependentCache.java" timestamp="1510049947448">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/device/informationcenter/screenLayoutTab.xhtml" timestamp="1508327561906">
         <mark key="'" line="122" column="59" />
@@ -107,6 +115,9 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/tv/model/EpgProvider.java" timestamp="1509441957695">
         <mark key="'" line="16" column="25" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/util/CacheAspect.class" timestamp="1510050724176">
+        <mark key="'" line="34" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" timestamp="1509704117911">
         <mark key="[" line="104" column="9" />
         <mark key="]" line="105" column="28" />
@@ -143,7 +154,7 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1509721400991">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1510050659936">
         <mark key="[" line="16" column="66" />
         <mark key="]" line="16" column="82" />
         <mark key="." line="16" column="82" />
@@ -317,7 +328,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1509962803274">
+      <file name="/fragment.java" timestamp="1510050061016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -337,7 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171030.085433-2.jar!/com/ebo/jef/cache/FullLoadingEntityCache.class" />
       <jump line="32" column="63" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171030.085433-2.jar!/com/ebo/jef/cache/FullLoadingEntityCache.class" />
       <jump line="814" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
       <jump line="807" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" />
@@ -437,6 +447,7 @@
       <jump line="570" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="1360" column="38" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="13" column="31" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="34" column="13" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/util/CacheAspect.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -455,31 +466,31 @@
         <text encoding="base64">ICAgICAgICBzZWxlY3RNb3ZpZShURVNUX01PVklFX1RJVExFKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkbGdWaWRlb0RldGFpbC5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDYWNoZUFzcGVjdEludmFsaWRhdGVXaXRoSW50ZXJmYWNlKCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uQ292ZXIoJCgnI3ZpZGVvRGV0YWlsSW1hZ2UnKSwgZmFsc2UsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkbGdWaWRlb0RldGFpbC5zaG93KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uQ292ZXIoJCgnI3ZpZGVvRGV0YWlsSW1hZ2UnKSwgZmFsc2UsIHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCh3aW5kb3cpLmxvYWQoZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uQ292ZXIoJCgnI3ZpZGVvRGV0YWlsSW1hZ2UnKSwgZmFsc2UsIHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
