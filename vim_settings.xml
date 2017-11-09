@@ -58,7 +58,6 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
         <mark key="'" line="256" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510069083059" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/event/model/function/EventProcessingService.java" timestamp="1507813535394">
         <mark key="'" line="1124" column="56" />
       </file>
@@ -167,7 +166,6 @@
         <mark key="." line="643" column="0" />
         <mark key="^" line="641" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/changelog/webservice/impl/CacheChangeLogServiceImpl.java" timestamp="1510063899828" />
       <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/model/DVDPostMovieActor.java" timestamp="1509445855124">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="5" column="3" />
@@ -264,13 +262,6 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/CacheReloadThread.class" timestamp="1510069987209" />
-      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/test/java/com/ebo/dvdpostimport/TestDvdPostMovieImporter.java" timestamp="1510064139995">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1510070296329">
         <mark key="[" line="0" column="0" />
       </file>
@@ -292,9 +283,6 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/RemoteResource.java" timestamp="1508330294971">
         <mark key="'" line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/DistributedCacheUtils.java" timestamp="1510069993658" />
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/CacheServiceImpl.java" timestamp="1510070732964" />
-      <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/AbstractFullLoadingCache.java" timestamp="1510070470217" />
       <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510062892545">
         <mark key="[" line="97" column="48" />
         <mark key="]" line="97" column="52" />
@@ -335,7 +323,6 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/AbstractCache.class" timestamp="1510069843794" />
       <file name="/fragment.java" timestamp="1510070036567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -511,7 +498,7 @@
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
