@@ -11,6 +11,9 @@
         <mark key="." line="308" column="17" />
         <mark key="^" line="300" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" timestamp="1510310788337">
+        <mark key="'" line="23" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/channelResourceTab.xhtml" timestamp="1508338718597">
         <mark key="'" line="0" column="0" />
       </file>
@@ -173,9 +176,12 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.11.0/jef-4.11.0.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" timestamp="1510061389754">
         <mark key="'" line="107" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" timestamp="1510309126601">
-        <mark key="'" line="61" column="26" />
-        <mark key="^" line="60" column="68" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" timestamp="1510310067044">
+        <mark key="'" line="60" column="26" />
+        <mark key="[" line="65" column="24" />
+        <mark key="]" line="65" column="29" />
+        <mark key="^" line="77" column="37" />
+        <mark key="." line="65" column="24" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/cache/TestClientHWCache.java" timestamp="1508857709540">
         <mark key="'" line="323" column="16" />
@@ -258,6 +264,7 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/test/java/com/ebo/dvdpostimport/TestDvdPostMovieImporter.java" timestamp="1510310584753" />
       <file name="/Dummy.txt" timestamp="1510306493068">
         <mark key="[" line="0" column="0" />
       </file>
@@ -294,12 +301,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1508854724978">
         <mark key="'" line="83" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1510049259122">
-        <mark key="'" line="13" column="31" />
-        <mark key="[" line="997" column="34" />
-        <mark key="]" line="997" column="43" />
-        <mark key="." line="997" column="43" />
-        <mark key="^" line="997" column="43" />
+      <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1510309824165">
+        <mark key="'" line="983" column="9" />
+        <mark key="[" line="1001" column="34" />
+        <mark key="]" line="1001" column="43" />
+        <mark key="." line="1001" column="43" />
+        <mark key="^" line="1001" column="43" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/pom.xml" timestamp="1509457520593">
         <mark key="'" line="149" column="55" />
@@ -339,20 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="308" column="88" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" />
-      <jump line="29" column="20" filename="$USER_HOME$/projects/ebovision/management/src/test/resources/client-beans.xml" />
-      <jump line="221" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/vod/TestVideoPortal.java" />
-      <jump line="453" column="49" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="16" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="235" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="243" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="244" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="251" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
-      <jump line="252" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="259" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="260" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
       <jump line="267" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" />
@@ -439,6 +432,20 @@
       <jump line="12" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" />
       <jump line="61" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" />
+      <jump line="979" column="9" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="62" column="12" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="70" column="8" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="83" column="8" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="87" column="8" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="96" column="8" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="113" column="8" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="118" column="12" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="123" column="16" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="129" column="16" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="132" column="16" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="135" column="12" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="15" column="17" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
+      <jump line="23" column="26" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -448,49 +455,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>videoActorService</text>
+        <text>LOGGER</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dnZXJGYWN0b3J5XD4=</text>
+        <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIgTE9HR0VSID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoUmVzb3VyY2VDYWNoZS5jbGFzcyk7Cg==</text>
+      <register name="0" type="4">
+        <text>this,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoTE9HR0VSLmlzRGVidWdFbmFibGVkKCkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoIlNUQVJUIGZpbGxSZXNvdXJjZU1hcHMoKSIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLk1hbnlUb01hbnk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgTW92aWVBdmFpbGFiaWxpdHkgbW92aWVBdmFpbGFiaWxpdHk7CgogICAgQEF1dG93aXJlZChyZXF1aXJlZCA9IGZhbHNlKQogICAgcHJpdmF0ZSBWaWRlb0FjdG9yU2VydmljZSB2aWRlb0FjdG9yU2VydmljZTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBWaWRlb0FjdG9yU2VydmljZSB2aWRlb0FjdG9yU2VydmljZSA9IEJlYW5VdGlscy5nZXRCZWFuKFZpZGVvQWN0b3JTZXJ2aWNlLmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCZWFuVXRpbHMuZ2V0QmVhbihWaWRlb1Jlc291cmNlU2VydmljZS5jbGFzcykudXBkYXRlKHZyKTsK</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoIlNUQVJUIGZpbGxSZXNvdXJjZU1hcHMoKSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGludmFsaWRhdGUoTG9uZyB0aW1lc3RhbXAsIENsYXNzPD8gZXh0ZW5kcyBJRW50aXR5PiBhQ2xhc3MpIHsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLk1hbnlUb01hbnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgTW92aWVBdmFpbGFiaWxpdHkgbW92aWVBdmFpbGFiaWxpdHk7CgogICAgQEF1dG93aXJlZChyZXF1aXJlZCA9IGZhbHNlKQogICAgcHJpdmF0ZSBWaWRlb0FjdG9yU2VydmljZSB2aWRlb0FjdG9yU2VydmljZTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dnZXJGYWN0b3J5XD4=</last-search>
+      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dnZXJGYWN0b3J5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -498,7 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>click</entry>
         <entry>movie col</entry>
         <entry>refreshVideo</entry>
         <entry encoding="base64">XDxkbGdWaWRlb0RldGFpbFw+</entry>
@@ -518,6 +524,7 @@
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxkZXZlbG9wbWVudE1vZGVcPg==</entry>
         <entry encoding="base64">XDxMb2dnZXJGYWN0b3J5XD4=</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
