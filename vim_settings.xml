@@ -59,7 +59,7 @@
         <mark key="'" line="256" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/util/WebPageHelper.class" timestamp="1510313046389" />
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510319230247">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510323140091">
         <mark key="'" line="132" column="50" />
         <mark key="[" line="418" column="98" />
         <mark key="]" line="419" column="28" />
@@ -71,12 +71,6 @@
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/Resource.java" timestamp="1508840589704">
         <mark key="'" line="208" column="54" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/VideoResource.java" timestamp="1510067362992">
-        <mark key="'" line="452" column="13" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoOnDemandServerServiceImpl.java" timestamp="1509463028148">
         <mark key="[" line="55" column="45" />
@@ -172,6 +166,7 @@
         <mark key="." line="643" column="0" />
         <mark key="^" line="641" column="65" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/changelog/webservice/impl/CacheChangeLogServiceImpl.java" timestamp="1510322095090" />
       <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/model/DVDPostMovieActor.java" timestamp="1509445855124">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="5" column="3" />
@@ -187,10 +182,11 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.11.0/jef-4.11.0.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" timestamp="1510061389754">
         <mark key="'" line="107" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" timestamp="1510318773135">
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="." line="186" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" timestamp="1510323654600">
+        <mark key="[" line="182" column="8" />
+        <mark key="]" line="182" column="58" />
+        <mark key="." line="182" column="58" />
+        <mark key="^" line="182" column="58" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/cache/TestClientHWCache.java" timestamp="1508857709540">
         <mark key="'" line="323" column="16" />
@@ -334,7 +330,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1510306453910">
+      <file name="/fragment.java" timestamp="1510323467014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -472,34 +468,34 @@
         <text>this,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIkNhc2NhZGluZyBpbnZhbGlkYXRlIGNsaWVudEhXIGZvciBpbmZvcm1hdGlvbkNlbnRlciwgYWRkIGNhY2hlQ2hhbmdlbG9nIHdpdGggdGltZXN0YW1wICIgKyB0aW1lc3RhbXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIkNhc2NhZGluZyBpbnZhbGlkYXRlIGNsaWVudEhXIGZvciBpbmZvcm1hdGlvbkNlbnRlciwgYWRkIGNhY2hlQ2hhbmdlbG9nIHdpdGggdGltZXN0YW1wICIgKyB0aW1lc3RhbXApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkVORCBpbnZhbGlkYXRlQ2FzY2FkaW5nRW50aXRpZXMoKTogIiArIGVudGl0aWVzKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkVORCBpbnZhbGlkYXRlQ2FzY2FkaW5nRW50aXRpZXMoKTogIiArIGVudGl0aWVzKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlNUQVJUIGludmFsaWRhdGVDYXNjYWRpbmdFbnRpdGllcygpOiAiICsgZW50aXRpZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlNUQVJUIGludmFsaWRhdGVDYXNjYWRpbmdFbnRpdGllcygpOiAiICsgZW50aXRpZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -541,8 +537,8 @@
         <entry>w</entry>
         <entry>q</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
