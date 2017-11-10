@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/EboVisionMovieProcessor.java" timestamp="1510070728338">
-        <mark key="[" line="121" column="61" />
-        <mark key="]" line="122" column="32" />
-        <mark key="." line="122" column="32" />
-        <mark key="^" line="122" column="32" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1509967113750">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="308" column="16" />
@@ -122,12 +116,6 @@
         <mark key="]" line="105" column="28" />
         <mark key="." line="105" column="28" />
         <mark key="^" line="105" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/pom.xml" timestamp="1509446780258">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="34" />
-        <mark key="." line="16" column="34" />
-        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
         <mark key="[" line="49" column="40" />
