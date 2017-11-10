@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/processor/EboVisionMovieProcessor.java" timestamp="1510306724783" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1509967113750">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="308" column="16" />
@@ -179,12 +178,10 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.11.0/jef-4.11.0.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" timestamp="1510061389754">
         <mark key="'" line="107" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" timestamp="1510310067044">
-        <mark key="'" line="60" column="26" />
-        <mark key="[" line="65" column="24" />
-        <mark key="]" line="65" column="29" />
-        <mark key="^" line="77" column="37" />
-        <mark key="." line="65" column="24" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" timestamp="1510312242397">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/cache/TestClientHWCache.java" timestamp="1508857709540">
         <mark key="'" line="323" column="16" />
@@ -251,7 +248,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/webservice/impl/AbstractServiceImpl.java" timestamp="1510311191813" />
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" timestamp="1510068945105">
         <mark key="'" line="22" column="22" />
       </file>
@@ -268,7 +264,6 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/META-INF/jefui.taglib.xml" timestamp="1508405341958">
         <mark key="'" line="1867" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/test/java/com/ebo/dvdpostimport/TestDvdPostMovieImporter.java" timestamp="1510310584753" />
       <file name="/Dummy.txt" timestamp="1510306493068">
         <mark key="[" line="0" column="0" />
       </file>
@@ -308,12 +303,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1508854724978">
         <mark key="'" line="83" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1510309824165">
-        <mark key="'" line="983" column="9" />
-        <mark key="[" line="1001" column="34" />
-        <mark key="]" line="1001" column="43" />
-        <mark key="." line="1001" column="43" />
-        <mark key="^" line="1001" column="43" />
+      <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1510312100298">
+        <mark key="'" line="978" column="9" />
+        <mark key="[" line="336" column="0" />
+        <mark key="]" line="336" column="0" />
+        <mark key="." line="336" column="0" />
+        <mark key="^" line="996" column="43" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/pom.xml" timestamp="1509457520593">
         <mark key="'" line="149" column="55" />
@@ -462,7 +457,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>LOGGER</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jaHJvbml6ZWRcPg==</text>
@@ -471,31 +466,31 @@
         <text>this,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoTE9HR0VSLmlzRGVidWdFbmFibGVkKCkpIHsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJObyBjbGFzc2lmaWNhdGlvbnMgd2VyZSBnaXZlbiwgcmV0dXJuaW5nIC4uLiIpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoIlNUQVJUIGZpbGxSZXNvdXJjZU1hcHMoKSIpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLk1hbnlUb01hbnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoIlNUQVJUIGZpbGxSZXNvdXJjZUJ5UGFyZW50TWFwKCkiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgTW92aWVBdmFpbGFiaWxpdHkgbW92aWVBdmFpbGFiaWxpdHk7CgogICAgQEF1dG93aXJlZChyZXF1aXJlZCA9IGZhbHNlKQogICAgcHJpdmF0ZSBWaWRlb0FjdG9yU2VydmljZSB2aWRlb0FjdG9yU2VydmljZTsKCg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KICAgIDxncm91cElkPmNvbS5qY2FiaTwvZ3JvdXBJZD4KICAgIDxhcnRpZmFjdElkPmpjYWJpLWxvZzwvYXJ0aWZhY3RJZD4KICAgIDx2ZXJzaW9uPjAuMTcuMjwvdmVyc2lvbj4KPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
@@ -508,7 +503,7 @@
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
