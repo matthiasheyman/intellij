@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoPortalBean.java" timestamp="1510043519293">
         <mark key="'" line="889" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510564959513">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510567447100">
         <mark key="'" line="160" column="20" />
         <mark key="[" line="433" column="25" />
         <mark key="]" line="433" column="67" />
@@ -59,7 +59,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/normalize.css" timestamp="1508504027043">
         <mark key="'" line="256" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510323140091">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510565842129">
         <mark key="'" line="132" column="50" />
         <mark key="[" line="418" column="98" />
         <mark key="]" line="419" column="28" />
@@ -155,6 +155,7 @@
         <mark key="^" line="38" column="66" />
         <mark key="." line="38" column="66" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/MultiLanguageServiceImpl.java" timestamp="1510565937631" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/CachedClassHolder.java" timestamp="1510049493417">
         <mark key="[" line="29" column="18" />
         <mark key="]" line="31" column="16" />
@@ -344,7 +345,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1510564383606">
+      <file name="/fragment.java" timestamp="1510567137958">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
