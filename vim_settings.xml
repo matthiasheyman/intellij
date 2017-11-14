@@ -308,11 +308,11 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="53" column="132" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1510653511045">
-        <mark key="[" line="81" column="32" />
-        <mark key="]" line="82" column="73" />
-        <mark key="." line="82" column="73" />
-        <mark key="^" line="82" column="73" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1510654515664">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="65" column="38" />
+        <mark key="^" line="65" column="38" />
+        <mark key="." line="65" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" timestamp="1510565232172">
         <mark key="'" line="22" column="22" />
@@ -336,7 +336,7 @@
         <mark key="." line="34" column="60" />
         <mark key="^" line="33" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510649370431">
+      <file name="/Dummy.txt" timestamp="1510653798011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/IdentificationAssignmentServiceImpl.java" timestamp="1508831189030">
@@ -538,43 +538,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>identifyUser</text>
       </register>
       <register name="/" type="4">
         <text>validateUser</text>
       </register>
       <register name="0" type="4">
-        <text>StringUtils.split(identificationAttributes, &quot;,&quot;)</text>
+        <text>StringUtils.equalsIgnoreCase(usernameDomain[1], identificationUsernameDomain[1]);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgVXNlclNlcnZpY2UgdXNlclNlcnZpY2U7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBVc2VyIHVzZXIgPSBudWxsOwoKCgogICAgICAgIHJldHVybiB1c2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSB1c2VybmFtZURvbWFpbjoKICAgICAgICAgICAgICAgIHJldHVybiB1c2VyLmdldFVzZXJBdXRoZW50aWNhdGlvbigpLmdldFZhbGlkYXRlVXNlck5hbWUoKSArICJAIiArIHVzZXIuZ2V0VXNlckF1dGhlbnRpY2F0aW9uKCkuZ2V0VmFsaWRhdGVEb21haW4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTZWFyY2hGaWx0ZXIgZmlsdGVyID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSB1c2VybmFtZURvbWFpbjoKICAgICAgICAgICAgICAgIHJldHVybiB1c2VyLmdldFVzZXJBdXRoZW50aWNhdGlvbigpLmdldFZhbGlkYXRlVXNlck5hbWUoKSArICJAIiArIHVzZXIuZ2V0VXNlckF1dGhlbnRpY2F0aW9uKCkuZ2V0VmFsaWRhdGVEb21haW4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VhcmNoRmlsdGVyIGdldFNlYXJjaEZpbHRlckZyb21BdHRyaWJ1dGVzKExpc3Q8SWRlbnRpZmljYXRpb25BdHRyaWJ1dGU+IGF0dHJpYnV0ZXMpIHsKICAgICAgICBTZWFyY2hGaWx0ZXIgZmlsdGVyID0gbmV3IFNlYXJjaEZpbHRlcigiaWRlbnRpZmljYXRpb25TZWFyY2giKTsKICAgICAgICBmb3IgKElkZW50aWZpY2F0aW9uQXR0cmlidXRlIGF0dHJpYnV0ZSA6IGF0dHJpYnV0ZXMpIHsKICAgICAgICAgICAgc3dpdGNoIChhdHRyaWJ1dGUpIHsKICAgICAgICAgICAgICAgIGNhc2UgdXNlcm5hbWVEb21haW46CiAgICAgICAgICAgICAgICAgICAgZmlsdGVyLmFkZEVudHJ5KCkKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgdXNlcm5hbWU6CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIGVtYWlsYWRkcmVzczoKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgbGRhcEd1aWQ6CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIHBob25lbnVtYmVyOgogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSBtb2JpbGVwaG9uZToKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PElkZW50aWZpY2F0aW9uQXR0cmlidXRlPiBhdHRyaWJ1dGVzID0gZ2V0SWRlbnRpZmljYXRpb25BdHRyaWJ1dGVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PElkZW50aWZpY2F0aW9uQXR0cmlidXRlPiBhdHRyaWJ1dGVzID0gZ2V0SWRlbnRpZmljYXRpb25BdHRyaWJ1dGVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -617,8 +617,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
