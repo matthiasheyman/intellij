@@ -10,6 +10,12 @@
         <mark key="." line="308" column="17" />
         <mark key="^" line="300" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" timestamp="1510650383094">
+        <mark key="'" line="430" column="0" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171109.100354-3.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" timestamp="1510310788337">
         <mark key="'" line="23" column="26" />
       </file>
@@ -168,6 +174,13 @@
         <mark key="]" line="38" column="66" />
         <mark key="^" line="38" column="66" />
         <mark key="." line="38" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentification.java" timestamp="1510650507411">
+        <mark key="'" line="13" column="46" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/CachedClassHolder.java" timestamp="1510049493417">
         <mark key="[" line="29" column="18" />
@@ -378,11 +391,11 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" timestamp="1510649593859">
-        <mark key="'" line="343" column="12" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" timestamp="1510649895326">
+        <mark key="'" line="342" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
         <mark key="[" line="2" column="17" />
@@ -410,10 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="577" column="63" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="75" column="51" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
-      <jump line="232" column="73" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="274" column="81" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="570" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="1360" column="38" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -510,6 +519,10 @@
       <jump line="473" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
       <jump line="348" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
+      <jump line="344" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
+      <jump line="437" column="11" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" />
+      <jump line="439" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" />
+      <jump line="13" column="46" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentification.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -519,43 +532,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>authenticatewith</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvblByb3BlcnR5Q2FjaGUgY2FjaGUgPSBCZWFuVXRpbHMuZ2V0QmVhbihFYm9WaXNpb25DYWNoZS5jbGFzcykuZ2V0SW5zdGFuY2UoQ2FjaGVkQ2xhc3NIb2xkZXIuQVBQTElDQVRJT05fUFJPUEVSVFkpOwogICAgICAgIHVzZXJQcm9maWxlQXR0cmlidXRlTmFtZSA9IGNhY2hlLmdldFByb3BlcnR5U3RyaW5nKEFwcGxpY2F0aW9uUHJvcGVydHkuQXBwbGljYXRpb25Qcm9wZXJ0eU5hbWUubGRhcFVzZXJQcm9maWxlQXR0cmlidXRlTmFtZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>StringUtils.split(identificationAttributes, &quot;,&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkKHJlcXVpcmVkID0gZmFsc2UpCiAgICBwcml2YXRlIEVib1Zpc2lvbkNhY2hlIGVib1Zpc2lvbkNhY2hlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGNoYXIgc2VwYXJhdG9yID0gIiwiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teXNxbC5qZGJjLlN0cmluZ1V0aWxzO2QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXBwbGljYXRpb25Qcm9wZXJ0eUNhY2hlIGFwcGxpY2F0aW9uUHJvcGVydHlDYWNoZSA9IGVib1Zpc2lvbkNhY2hlLmdldEluc3RhbmNlKENhY2hlZENsYXNzSG9sZGVyLkFQUExJQ0FUSU9OX1BST1BFUlRZKTsK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uUHJvcGVydHlDYWNoZSBjYWNoZSA9IEJlYW5VdGlscy5nZXRCZWFuKEVib1Zpc2lvbkNhY2hlLmNsYXNzKS5nZXRJbnN0YW5jZShDYWNoZWRDbGFzc0hvbGRlci5BUFBMSUNBVElPTl9QUk9QRVJUWSk7CiAgICB1c2VyUHJvZmlsZUF0dHJpYnV0ZU5hbWUgPSBjYWNoZS5nZXRQcm9wZXJ0eVN0cmluZyhBcHBsaWNhdGlvblByb3BlcnR5LkFwcGxpY2F0aW9uUHJvcGVydHlOYW1lLmxkYXBVc2VyUHJvZmlsZUF0dHJpYnV0ZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIElkZW50aWZpY2F0aW9uQXR0cmlidXRlcyB7CiAgICAgICAgdXNlcm5hbWVEb21haW4sCiAgICAgICAgdXNlcm5hbWUsCiAgICAgICAgZW1haWxhZGRyZXNzLAogICAgICAgIGxkYXBHdWlkLAogICAgICAgIHBob25lbnVtYmVyLAogICAgICAgIG1vYmlsZXBob25lCiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCg==</text>
+        <text encoding="base64">CiAgICBAVHJhbnNpZW50CiAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiBnZXRJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZXMoKSB7CiAgICAgICAgQXBwbGljYXRpb25Qcm9wZXJ0eUNhY2hlIGNhY2hlID0gQmVhblV0aWxzLmdldEJlYW4oRWJvVmlzaW9uQ2FjaGUuY2xhc3MpLmdldEluc3RhbmNlKENhY2hlZENsYXNzSG9sZGVyLkFQUExJQ0FUSU9OX1BST1BFUlRZKTsKICAgICAgICBTdHJpbmcgaWRlbnRpZmljYXRpb25BdHRyaWJ1dGVzID0gY2FjaGUuZ2V0UHJvcGVydHlTdHJpbmcoQXBwbGljYXRpb25Qcm9wZXJ0eS5BcHBsaWNhdGlvblByb3BlcnR5TmFtZS5sZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUpOwogICAgICAgIFN0cmluZ1tdIGF0dHJpYnV0ZXMgPSBTdHJpbmdVdGlscy5zcGxpdChpZGVudGlmaWNhdGlvbkF0dHJpYnV0ZXMsICIsIik7CiAgICAgICAgaWYgKGF0dHJpYnV0ZXMgPT0gbnVsbCkgewoKCiAgICAgICAgfQogICAgICAgIHJldHVybiBBcnJheXMuYXNMaXN0KGF0dHJpYnV0ZXMpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGplZjppbnB1dEF1dG9jb21wbGV0ZSBpZD0ibGRhcElkZW50aWZpY2F0aW9uQXR0cmlidXRlIiB2YWx1ZT0iI3tnZW5lcmFsU2V0dGluZ3NCZWFuLmxkYXBJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZX0iCgkJCQkJCQkJCQkJCQkJICAgdmFsdWVzPSIje2dlbmVyYWxTZXR0aW5nc0JlYW4ubGRhcElkZW50aWZpY2F0aW9uQXR0cmlidXRlc30iIHZhcj0iYXR0ciIKCQkJCQkJCQkJCQkJCQkgICBpdGVtTGFiZWw9IiN7YXR0cn0iIGl0ZW1WYWx1ZT0iI3thdHRyfSIKCQkJCQkJCQkJCQkJCQkgICBpbnB1dENvbnRyb2xsZXI9InNldHRpbmdJbnB1dENvbnRyb2xsZXIiLz4K</text>
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQKICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGdldElkZW50aWZpY2F0aW9uQXR0cmlidXRlcygpIHsKICAgICAgICBBcHBsaWNhdGlvblByb3BlcnR5Q2FjaGUgY2FjaGUgPSBCZWFuVXRpbHMuZ2V0QmVhbihFYm9WaXNpb25DYWNoZS5jbGFzcykuZ2V0SW5zdGFuY2UoQ2FjaGVkQ2xhc3NIb2xkZXIuQVBQTElDQVRJT05fUFJPUEVSVFkpOwogICAgICAgIFN0cmluZyBpZGVudGlmaWNhdGlvbkF0dHJpYnV0ZXMgPSBjYWNoZS5nZXRQcm9wZXJ0eVN0cmluZyhBcHBsaWNhdGlvblByb3BlcnR5LkFwcGxpY2F0aW9uUHJvcGVydHlOYW1lLmxkYXBJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZSk7CiAgICAgICAgU3RyaW5nW10gYXR0cmlidXRlcyA9IFN0cmluZ1V0aWxzLnNwbGl0KGlkZW50aWZpY2F0aW9uQXR0cmlidXRlcywgIiwiKTsKICAgICAgICBpZiAoYXR0cmlidXRlcyA9PSBudWxsKSB7CgoKICAgICAgICB9CiAgICAgICAgcmV0dXJuIEFycmF5cy5hc0xpc3QoYXR0cmlidXRlcyk7CiAgICB9CgogICAgLyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsdWUgPSAgU3RyaW5nVXRpbHMuam9pbihsZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUsICIsIik7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogdmFsaWRhdGUgaWYgdGhlIHVzZXJOYW1lIGFuZCBkb21haW4gYXJlIHZhbGlkCiAgICAgKgogICAgICogQHBhcmFtIHVzZXJOYW1lCiAgICAgKiBAcGFyYW0gZG9tYWluCiAgICAgKiBAdGhyb3dzIExvY2FsaXplZEV4Y2VwdGlvbgogICAgICogICAgICAgICAgICAgaWYgdGhlIHZhbGlkYXRpb24gZmFpbHMKICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0QXBwbGljYXRpb25Qcm9wZXJ0eShBcHBsaWNhdGlvblByb3BlcnR5TmFtZS5sZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUpLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCg==</text>
+        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvblByb3BlcnR5Q2FjaGUgY2FjaGUgPSBCZWFuVXRpbHMuZ2V0QmVhbihFYm9WaXNpb25DYWNoZS5jbGFzcykuZ2V0SW5zdGFuY2UoQ2FjaGVkQ2xhc3NIb2xkZXIuQVBQTElDQVRJT05fUFJPUEVSVFkpOwogICAgICAgIFN0cmluZyBpZGVudGlmaWNhdGlvbkF0dHJpYnV0ZXMgPSBjYWNoZS5nZXRQcm9wZXJ0eVN0cmluZyhBcHBsaWNhdGlvblByb3BlcnR5LkFwcGxpY2F0aW9uUHJvcGVydHlOYW1lLmxkYXBJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -598,8 +611,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
