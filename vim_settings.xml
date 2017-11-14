@@ -90,12 +90,12 @@
       <file name="/ClientHW.java" timestamp="1508233077106">
         <mark key="'" line="359" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1510644943141">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1510648478578">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="102" column="130" />
-        <mark key="]" line="102" column="222" />
-        <mark key="^" line="102" column="222" />
-        <mark key="." line="102" column="222" />
+        <mark key="[" line="102" column="135" />
+        <mark key="]" line="102" column="135" />
+        <mark key="^" line="102" column="134" />
+        <mark key="." line="102" column="135" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/WEB-INF/applicationContext.xml" timestamp="1510306492487">
         <mark key="'" line="81" column="24" />
@@ -216,12 +216,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" timestamp="1507895906622">
         <mark key="'" line="35" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" timestamp="1510644983921">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" timestamp="1510648487150">
         <mark key="'" line="1568" column="50" />
-        <mark key="[" line="85" column="123" />
-        <mark key="]" line="85" column="139" />
-        <mark key="^" line="85" column="139" />
-        <mark key="." line="85" column="139" />
+        <mark key="[" line="85" column="121" />
+        <mark key="]" line="85" column="125" />
+        <mark key="^" line="85" column="125" />
+        <mark key="." line="85" column="125" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UpgradeClientOS.java" timestamp="1507707708395">
         <mark key="'" line="22" column="13" />
@@ -244,12 +244,12 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/generalSettingsTab.xhtml" timestamp="1510646040896">
-        <mark key="'" line="82" column="36" />
-        <mark key="[" line="255" column="98" />
-        <mark key="]" line="255" column="112" />
-        <mark key="^" line="255" column="112" />
-        <mark key="." line="255" column="112" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/generalSettingsTab.xhtml" timestamp="1510648680279">
+        <mark key="'" line="260" column="35" />
+        <mark key="[" line="254" column="136" />
+        <mark key="]" line="254" column="140" />
+        <mark key="." line="254" column="140" />
+        <mark key="^" line="254" column="140" />
       </file>
       <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/resources/configLocal.json" timestamp="1509620470535">
         <mark key="[" line="5" column="22" />
@@ -272,12 +272,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" timestamp="1508330357006">
         <mark key="'" line="112" column="109" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/general/GeneralSettingsBean.java" timestamp="1510647282711">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/general/GeneralSettingsBean.java" timestamp="1510648344541">
         <mark key="'" line="352" column="43" />
-        <mark key="[" line="699" column="15" />
-        <mark key="]" line="699" column="156" />
-        <mark key="." line="699" column="156" />
-        <mark key="^" line="699" column="156" />
+        <mark key="[" line="703" column="93" />
+        <mark key="]" line="703" column="119" />
+        <mark key="." line="703" column="119" />
+        <mark key="^" line="703" column="119" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/PeripheralInterfaceClient.java" timestamp="1507810804152">
         <mark key="[" line="22" column="29" />
@@ -294,12 +294,12 @@
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-SNAPSHOT.jar!/com/ebo/jef/cache/AbstractFullLoadingCache.class" timestamp="1510565232172">
         <mark key="'" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1510645025450">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1510648494142">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="92" column="147" />
-        <mark key="]" line="92" column="156" />
-        <mark key="^" line="92" column="156" />
-        <mark key="." line="92" column="156" />
+        <mark key="[" line="92" column="138" />
+        <mark key="]" line="92" column="142" />
+        <mark key="^" line="92" column="142" />
+        <mark key="." line="92" column="142" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1510645390935">
         <mark key="[" line="0" column="0" />
@@ -400,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="32" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="34" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="36" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
@@ -500,6 +499,7 @@
       <jump line="255" column="116" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/generalSettingsTab.xhtml" />
       <jump line="82" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/generalSettingsTab.xhtml" />
       <jump line="352" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/general/GeneralSettingsBean.java" />
+      <jump line="260" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/generalSettingsTab.xhtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -509,7 +509,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ldapIdentificationAttribute</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>identification</text>
@@ -518,31 +518,31 @@
         <text>getApplicationProperty(ApplicationPropertyName.ldapIdentificationAttribute).getValue(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0QXBwbGljYXRpb25Qcm9wZXJ0eShBcHBsaWNhdGlvblByb3BlcnR5TmFtZS5sZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUpLmdldFZhbHVlKCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CQkJCQkJCQkJCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCQkJPGplZjppbnB1dEF1dG9jb21wbGV0ZSBpZD0ibGRhcElkZW50aWZpY2F0aW9uQXR0cmlidXRlIiB2YWx1ZT0iI3tnZW5lcmFsU2V0dGluZ3NCZWFuLmxkYXBJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZX0iCgkJCQkJCQkJCQkJCQkJICAgdmFsdWVzPSIje2dlbmVyYWxTZXR0aW5nc0JlYW4ubGRhcElkZW50aWZpY2F0aW9uQXR0cmlidXRlc30iIHZhcj0iYXR0ciIKCQkJCQkJCQkJCQkJCQkgICBpdGVtTGFiZWw9IiN7YXR0cn0iIGl0ZW1WYWx1ZT0iI3thdHRyfSIKCQkJCQkJCQkJCQkJCQkgICBpbnB1dENvbnRyb2xsZXI9InNldHRpbmdJbnB1dENvbnRyb2xsZXIiLz4K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPHRkPjxqZWY6aW5wdXRUZXh0IGlkPSJsZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUiIHZhbHVlPSIje2dlbmVyYWxTZXR0aW5nc0JlYW4ubGRhcElkZW50aWZpY2F0aW9uQXR0cmlidXRlfSIgaW5wdXRDb250cm9sbGVyPSJzZXR0aW5nSW5wdXRDb250cm9sbGVyIi8+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsdWUgPSAgU3RyaW5nVXRpbHMuam9pbihsZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUsICIsIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHZpbnB1dHJlc291cmNlLmN1cnJlbnRDaGFubmVscz1DYW5hdXggZGUgY291cmFudAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0QXBwbGljYXRpb25Qcm9wZXJ0eShBcHBsaWNhdGlvblByb3BlcnR5TmFtZS5sZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUpLmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJvY2Vzc1N0cnVjdHVyZWRNZXNzYWdlcy5kdXBsaWNhdGU9RHVwbGlxdWVyCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RydWN0dXJlZE1lc3NhZ2UubWVzc2FnZURlZmluaXRpb24uZGVzaWduLmZpZWxkLmNhbGVuZGFyRHVyYXRpb249RHVyw6llCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJPHRkPjxqZWY6aW5wdXRUZXh0IGlkPSJsZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUiIHZhbHVlPSIje2dlbmVyYWxTZXR0aW5nc0JlYW4ubGRhcElkZW50aWZpY2F0aW9uQXR0cmlidXRlfSIgaW5wdXRDb250cm9sbGVyPSJzZXR0aW5nSW5wdXRDb250cm9sbGVyIi8+PC90ZD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2luc2VydD4K</text>
+        <text encoding="base64">dHZpbnB1dHJlc291cmNlLmN1cnJlbnRDaGFubmVscz1DYW5hdXggZGUgY291cmFudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5zZXJ0IHRhYmxlTmFtZT0iYXBwbGljYXRpb25wcm9wZXJ0eSI+Cg==</text>
+        <text encoding="base64">cHJvY2Vzc1N0cnVjdHVyZWRNZXNzYWdlcy5kdXBsaWNhdGU9RHVwbGlxdWVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbj48L2NvbHVtbj4K</text>
+        <text encoding="base64">c3RydWN0dXJlZE1lc3NhZ2UubWVzc2FnZURlZmluaXRpb24uZGVzaWduLmZpZWxkLmNhbGVuZGFyRHVyYXRpb249RHVyw6llCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
