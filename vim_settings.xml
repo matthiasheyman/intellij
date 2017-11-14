@@ -272,12 +272,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/remoteResourceTab.xhtml" timestamp="1508330357006">
         <mark key="'" line="112" column="109" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/general/GeneralSettingsBean.java" timestamp="1510645290957">
-        <mark key="'" line="80" column="8" />
-        <mark key="[" line="349" column="5" />
-        <mark key="]" line="352" column="43" />
-        <mark key="." line="352" column="43" />
-        <mark key="^" line="352" column="43" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/general/GeneralSettingsBean.java" timestamp="1510647282711">
+        <mark key="'" line="352" column="43" />
+        <mark key="[" line="699" column="15" />
+        <mark key="]" line="699" column="156" />
+        <mark key="." line="699" column="156" />
+        <mark key="^" line="699" column="156" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/PeripheralInterfaceClient.java" timestamp="1507810804152">
         <mark key="[" line="22" column="29" />
@@ -400,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="31" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="32" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
       <jump line="34" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" />
@@ -500,6 +499,7 @@
       <jump line="80" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/general/GeneralSettingsBean.java" />
       <jump line="255" column="116" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/generalSettingsTab.xhtml" />
       <jump line="82" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/generalSettingsTab.xhtml" />
+      <jump line="352" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/general/GeneralSettingsBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -509,43 +509,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC90ZD4=</text>
+        <text>ldapIdentificationAttribute</text>
       </register>
       <register name="/" type="4">
         <text>identification</text>
       </register>
       <register name="0" type="4">
-        <text>ldapIdentificationAttribute</text>
+        <text>getApplicationProperty(ApplicationPropertyName.ldapIdentificationAttribute).getValue(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0QXBwbGljYXRpb25Qcm9wZXJ0eShBcHBsaWNhdGlvblByb3BlcnR5TmFtZS5sZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUpLmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPHRkPjxqZWY6aW5wdXRUZXh0IGlkPSJsZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUiIHZhbHVlPSIje2dlbmVyYWxTZXR0aW5nc0JlYW4ubGRhcElkZW50aWZpY2F0aW9uQXR0cmlidXRlfSIgaW5wdXRDb250cm9sbGVyPSJzZXR0aW5nSW5wdXRDb250cm9sbGVyIi8+PC90ZD4K</text>
+        <text encoding="base64">CQkJCQkJCQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHZpbnB1dHJlc291cmNlLmN1cnJlbnRDaGFubmVscz1DYW5hdXggZGUgY291cmFudAo=</text>
+        <text encoding="base64">CQkJCQkJCQkJPHRkPjxqZWY6aW5wdXRUZXh0IGlkPSJsZGFwSWRlbnRpZmljYXRpb25BdHRyaWJ1dGUiIHZhbHVlPSIje2dlbmVyYWxTZXR0aW5nc0JlYW4ubGRhcElkZW50aWZpY2F0aW9uQXR0cmlidXRlfSIgaW5wdXRDb250cm9sbGVyPSJzZXR0aW5nSW5wdXRDb250cm9sbGVyIi8+PC90ZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJvY2Vzc1N0cnVjdHVyZWRNZXNzYWdlcy5kdXBsaWNhdGU9RHVwbGlxdWVyCg==</text>
+        <text encoding="base64">dHZpbnB1dHJlc291cmNlLmN1cnJlbnRDaGFubmVscz1DYW5hdXggZGUgY291cmFudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RydWN0dXJlZE1lc3NhZ2UubWVzc2FnZURlZmluaXRpb24uZGVzaWduLmZpZWxkLmNhbGVuZGFyRHVyYXRpb249RHVyw6llCg==</text>
+        <text encoding="base64">cHJvY2Vzc1N0cnVjdHVyZWRNZXNzYWdlcy5kdXBsaWNhdGU9RHVwbGlxdWVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2luc2VydD4K</text>
+        <text encoding="base64">c3RydWN0dXJlZE1lc3NhZ2UubWVzc2FnZURlZmluaXRpb24uZGVzaWduLmZpZWxkLmNhbGVuZGFyRHVyYXRpb249RHVyw6llCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5zZXJ0IHRhYmxlTmFtZT0iYXBwbGljYXRpb25wcm9wZXJ0eSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2luc2VydD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbj48L2NvbHVtbj4K</text>
+        <text encoding="base64">ICAgICAgICA8aW5zZXJ0IHRhYmxlTmFtZT0iYXBwbGljYXRpb25wcm9wZXJ0eSI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGplZjpwYW5lbCBoZWFkZXI9IiN7bWVzc2FnZXNbJ2NvbmZpZ3VyYXRpb24uZ2VuZXJhbFNldHRpbmdzLmluZm9ybWF0aW9uTWVzc2FnZXMnXX0iPgoJCQkJCQkJCTx0YWJsZT4KCQkJCQkJCQk8dHI+CgkJCQkJCQkJCTx0ZCBzdHlsZT0id2lkdGg6MjVlbTsiPjxoOm91dHB1dFRleHQgdmFsdWU9IiN7bWVzc2FnZXNbJ2FwcGxpY2F0aW9ucHJvcGVydHkuaW5mb3JtYXRpb25NZXNzYWdlRGF5c1RvTGl2ZSddfSIvPjo8L3RkPgoJCQkJCQkJCQk8dGQgY29sc3Bhbj0iMiI+PGplZjppbnB1dFRleHQgdmFsdWU9IiN7Z2VuZXJhbFNldHRpbmdzQmVhbi5pbmZvcm1hdGlvbk1lc3NhZ2VEYXlzVG9MaXZlfSIgaW5wdXRDb250cm9sbGVyPSJzZXR0aW5nSW5wdXRDb250cm9sbGVyIiBjb252ZXJ0ZXI9ImphdmF4LmZhY2VzLkludGVnZXIiLz4KCQkJCQkJCQkJPC90ZD48L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90YWJsZT48L2plZjpwYW5lbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbj48L2NvbHVtbj4K</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -585,11 +585,11 @@
         <entry>%s;user;client</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
