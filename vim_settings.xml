@@ -51,12 +51,11 @@
         <mark key="." line="26" column="201" />
         <mark key="^" line="26" column="201" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1510655184709">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="549" column="0" />
-        <mark key="]" line="549" column="72" />
-        <mark key="^" line="549" column="71" />
-        <mark key="." line="549" column="71" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1510743831400">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="550" column="0" />
+        <mark key="]" line="550" column="0" />
+        <mark key="." line="550" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/clientos/dao/TestClientOSDao.java" timestamp="1510672048109">
         <mark key="[" line="18" column="0" />
@@ -262,12 +261,12 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" timestamp="1510740208200">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" timestamp="1510743731576">
         <mark key="'" line="65" column="31" />
-        <mark key="[" line="365" column="48" />
-        <mark key="]" line="365" column="95" />
-        <mark key="." line="365" column="95" />
-        <mark key="^" line="365" column="95" />
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="344" column="0" />
+        <mark key="." line="344" column="0" />
+        <mark key="^" line="364" column="95" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
         <mark key="[" line="2" column="17" />
@@ -461,14 +460,14 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1510737467588">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1510743855389">
         <mark key="'" line="88" column="35" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
+        <mark key="[" line="74" column="28" />
+        <mark key="]" line="74" column="29" />
         <mark key="^" line="101" column="89" />
-        <mark key="." line="114" column="0" />
+        <mark key="." line="74" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510674899257">
+      <file name="/Dummy.txt" timestamp="1510743750120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/PeripheralInterfaceService.java" timestamp="1507810631454">
@@ -511,7 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1440" column="44" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1441" column="47" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1562" column="41" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1563" column="44" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -611,6 +609,7 @@
       <jump line="344" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
       <jump line="65" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
       <jump line="24" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/LdapUserContextMapper.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -620,49 +619,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>domain</text>
+        <text>message.invalid.identification.noresult</text>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>message.invalid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlckF1dGhlbnRpY2F0aW9uLnZhbGlkYXRlVXNlck5hbWUodXNlci5nZXRVc2VyQXV0aGVudGljYXRpb24oKS5nZXRWYWxpZGF0ZVVzZXJOYW1lKCksIGRvbWFpbik7Cg==</text>
+      <register name="0" type="4">
+        <text>message.invalid.identification.user</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RHdWlkKCkgewogICAgICAgIHNldElkZW50aWZpY2F0aW9uQXR0cmlidXRlKCJ1c2VybmFtZURvbWFpbiIpOwogICAgICAgIHVzZXJJZGVudGlmaWNhdGlvbi5maW5kKCJyaXRhIiwgbnVsbCk7CiAgICB9CiAgICAKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0R3VpZCgpIHsKICAgICAgICBzZXRJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZSgidXNlcm5hbWVEb21haW4iKTsKICAgICAgICB1c2VySWRlbnRpZmljYXRpb24uZmluZCgicml0YSIsIG51bGwpOwogICAgfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZWxzZSBpZiAodXNlcnMuc2l6ZSgpID4gMSkgewogICAgICAgICAgICB0aHJvdyBuZXcgTG9jYWxpemVkRXhjZXB0aW9uKCJtZXNzYWdlLmludmFsaWQuaWRlbnRpZmljYXRpb24ubXVsdGlwbGUiKTsKICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWVzc2FnZS5pbnZhbGlkLmlkZW50aWZpY2F0aW9uLm11bHRpcGxlPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWVzc2FnZS5pbnZhbGlkLmlkZW50aWZpY2F0aW9uLm5vcmVzdWx0PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsaWRQaG9uZSA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPLU1IOiBDaGVjayB3aGF0IHRoZSB1c2VybmFtZSBpcyB0aGF0IGVudGVycyBoZXJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW52YWxpZFBob25lID0gOwo=</text>
+        <text encoding="base64">CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RHdWlkKCkgewogICAgICAgIHNldElkZW50aWZpY2F0aW9uQXR0cmlidXRlKCJ1c2VybmFtZURvbWFpbiIpOwogICAgICAgIHVzZXJJZGVudGlmaWNhdGlvbi5maW5kKCJyaXRhIiwgbnVsbCk7CiAgICB9CiAgICAKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0R3VpZCgpIHsKICAgICAgICBzZXRJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZSgidXNlcm5hbWVEb21haW4iKTsKICAgICAgICB1c2VySWRlbnRpZmljYXRpb24uZmluZCgicml0YSIsIG51bGwpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgU3RyaW5nIHZhbGlkTW9iaWxlID0gOwogICAgICAgIFN0cmluZyB2YWxpZFVzZXJuYW1lID0gOwoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgU3RyaW5nIGludmFsaWRVc2VyID0gOwoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsaWRQaG9uZSA9IDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW52YWxpZE1vYmlsZSA9IDsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW52YWxpZFBob25lID0gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>message.invalid</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern>message.invalid</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -670,7 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>identificationat</entry>
         <entry>defaultloc</entry>
         <entry>identific</entry>
         <entry encoding="base64">XDxkZWNpbWFsU2VwYXJhdG9yc1w+</entry>
@@ -690,6 +688,7 @@
         <entry>userident</entry>
         <entry encoding="base64">XDx1c2VySWRlbnRpZmljYXRpb25cPg==</entry>
         <entry>email</entry>
+        <entry>message.invalid</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
