@@ -45,11 +45,11 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/event/model/function/EventProcessingService.java" timestamp="1507813535394">
         <mark key="'" line="1124" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/insert/user.sql" timestamp="1510675276691">
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="33" column="21" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/insert/user.sql" timestamp="1510733689853">
+        <mark key="[" line="26" column="193" />
+        <mark key="]" line="26" column="201" />
+        <mark key="." line="26" column="201" />
+        <mark key="^" line="26" column="201" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1510655184709">
         <mark key="'" line="0" column="0" />
@@ -113,12 +113,12 @@
         <mark key="^" line="38" column="66" />
         <mark key="." line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/model/TestUserIdentification.java" timestamp="1510673775529">
-        <mark key="'" line="61" column="5" />
-        <mark key="[" line="55" column="30" />
-        <mark key="]" line="55" column="33" />
-        <mark key="^" line="55" column="33" />
-        <mark key="." line="55" column="33" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/model/TestUserIdentification.java" timestamp="1510733749966">
+        <mark key="'" line="107" column="53" />
+        <mark key="[" line="133" column="8" />
+        <mark key="]" line="133" column="75" />
+        <mark key="." line="133" column="75" />
+        <mark key="^" line="133" column="75" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/CachedClassHolder.java" timestamp="1510049493417">
         <mark key="[" line="29" column="18" />
@@ -508,7 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1003" column="39" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1082" column="34" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1084" column="23" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1093" column="49" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -608,6 +607,7 @@
       <jump line="731" column="58" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
       <jump line="737" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
       <jump line="43" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/general/GeneralSettingsBean.java" />
+      <jump line="119" column="53" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/model/TestUserIdentification.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -617,49 +617,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>rita</text>
       </register>
       <register name="/" type="4">
-        <text>validate</text>
+        <text>guid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KDIsIDIsIDEsIE5VTEwsIE5VTEwpOwo=</text>
+      <register name="0" type="4">
+        <text>emailaddress</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RHdWlkKCkgewogICAgICAgIHNldElkZW50aWZpY2F0aW9uQXR0cmlidXRlKCJ1c2VybmFtZURvbWFpbiIpOwogICAgICAgIHVzZXJJZGVudGlmaWNhdGlvbi5maW5kKCJyaXRhIiwgbnVsbCk7CiAgICB9CiAgICAKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0R3VpZCgpIHsKICAgICAgICBzZXRJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZSgidXNlcm5hbWVEb21haW4iKTsKICAgICAgICB1c2VySWRlbnRpZmljYXRpb24uZmluZCgicml0YSIsIG51bGwpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHVzZXJJZGVudGlmaWNhdGlvbi5maW5kKHZhbGlkUGhvbmUsIHVzZXIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSh1c2VySWRlbnRpZmljYXRpb24uZmluZChpbnZhbGlkUGhvbmUsIHVzZXIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsaWRQaG9uZSA9IDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW52YWxpZFBob25lID0gOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW52YWxpZFBob25lID0gIjExMjM3ODkwIjsK</text>
+        <text encoding="base64">CiAgICAgICAgU3RyaW5nIHZhbGlkTW9iaWxlID0gOwogICAgICAgIFN0cmluZyB2YWxpZFVzZXJuYW1lID0gOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgU3RyaW5nIGludmFsaWRVc2VyID0gOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsaWRQaG9uZSA9ICIwMTIzNzg5MCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW52YWxpZE1vYmlsZSA9IDsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>validate</last-search>
+      <last-search>guid</last-search>
       <last-offset />
-      <last-pattern>validate</last-pattern>
+      <last-pattern>guid</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -667,7 +667,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setcache</entry>
         <entry encoding="base64">XDxzeW5jaHJvbml6ZWRcPg==</entry>
         <entry>isdebug</entry>
         <entry>persistmovies</entry>
@@ -687,6 +686,7 @@
         <entry>ldap</entry>
         <entry>validateAuth</entry>
         <entry>validate</entry>
+        <entry>guid</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
