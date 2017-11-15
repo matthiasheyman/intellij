@@ -113,12 +113,12 @@
         <mark key="^" line="38" column="66" />
         <mark key="." line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/model/TestUserIdentification.java" timestamp="1510733749966">
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/model/TestUserIdentification.java" timestamp="1510735533844">
         <mark key="'" line="107" column="53" />
-        <mark key="[" line="133" column="8" />
-        <mark key="]" line="133" column="75" />
-        <mark key="." line="133" column="75" />
-        <mark key="^" line="133" column="75" />
+        <mark key="[" line="127" column="33" />
+        <mark key="]" line="127" column="41" />
+        <mark key="." line="127" column="41" />
+        <mark key="^" line="127" column="41" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/CachedClassHolder.java" timestamp="1510049493417">
         <mark key="[" line="29" column="18" />
@@ -458,7 +458,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1510672427017">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1510735573440">
         <mark key="'" line="88" column="35" />
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
@@ -622,8 +622,8 @@
       <register name="/" type="4">
         <text>guid</text>
       </register>
-      <register name="0" type="4">
-        <text>emailaddress</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gTG9jYWxpemVkRXhjZXB0aW9uLmNsYXNzKQogICAgcHVibGljIHZvaWQgdGVzdERlZmF1bHRXaXRob3V0RG9tYWluKCkgewogICAgICAgIHNldElkZW50aWZpY2F0aW9uQXR0cmlidXRlKCJ1c2VybmFtZURvbWFpbiIpOwogICAgICAgIHVzZXJJZGVudGlmaWNhdGlvbi5maW5kKCJyaXRhIiwgbnVsbCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RHdWlkKCkgewogICAgICAgIHNldElkZW50aWZpY2F0aW9uQXR0cmlidXRlKCJ1c2VybmFtZURvbWFpbiIpOwogICAgICAgIHVzZXJJZGVudGlmaWNhdGlvbi5maW5kKCJyaXRhIiwgbnVsbCk7CiAgICB9CiAgICAKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0R3VpZCgpIHsKICAgICAgICBzZXRJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZSgidXNlcm5hbWVEb21haW4iKTsKICAgICAgICB1c2VySWRlbnRpZmljYXRpb24uZmluZCgicml0YSIsIG51bGwpOwogICAgfQo=</text>
