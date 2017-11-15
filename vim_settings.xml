@@ -126,6 +126,9 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/LdapUserContextMapper.java" timestamp="1510742508845">
+        <mark key="'" line="24" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" timestamp="1510572047724">
         <mark key="'" line="183" column="0" />
         <mark key="[" line="10" column="0" />
@@ -508,7 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1439" column="41" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1440" column="44" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1441" column="47" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1562" column="41" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -608,6 +610,7 @@
       <jump line="137" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
       <jump line="344" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
       <jump line="65" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/LdapUserContextMapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -620,7 +623,7 @@
         <text>domain</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VySWRlbnRpZmljYXRpb25cPg==</text>
+        <text>email</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXNlckF1dGhlbnRpY2F0aW9uLnZhbGlkYXRlVXNlck5hbWUodXNlci5nZXRVc2VyQXV0aGVudGljYXRpb24oKS5nZXRWYWxpZGF0ZVVzZXJOYW1lKCksIGRvbWFpbik7Cg==</text>
@@ -657,9 +660,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VySWRlbnRpZmljYXRpb25cPg==</last-search>
+      <last-search>email</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VySWRlbnRpZmljYXRpb25cPg==</last-pattern>
+      <last-pattern>email</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -667,7 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>information</entry>
         <entry>identificationat</entry>
         <entry>defaultloc</entry>
         <entry>identific</entry>
@@ -687,6 +689,7 @@
         <entry>userid</entry>
         <entry>userident</entry>
         <entry encoding="base64">XDx1c2VySWRlbnRpZmljYXRpb25cPg==</entry>
+        <entry>email</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
