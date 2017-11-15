@@ -259,12 +259,12 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" timestamp="1510737897391">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" timestamp="1510739598297">
         <mark key="'" line="65" column="31" />
-        <mark key="[" line="350" column="48" />
-        <mark key="]" line="350" column="97" />
-        <mark key="." line="350" column="97" />
-        <mark key="^" line="350" column="97" />
+        <mark key="[" line="365" column="48" />
+        <mark key="]" line="365" column="95" />
+        <mark key="." line="365" column="95" />
+        <mark key="^" line="365" column="95" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
         <mark key="[" line="2" column="17" />
@@ -617,13 +617,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>username</text>
+        <text>domain</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySWRlbnRpZmljYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlcklkZW50aWZpY2F0aW9uIHVzZXJJZGVudGlmaWNhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlckF1dGhlbnRpY2F0aW9uLnZhbGlkYXRlVXNlck5hbWUodXNlci5nZXRVc2VyQXV0aGVudGljYXRpb24oKS5nZXRWYWxpZGF0ZVVzZXJOYW1lKCksIGRvbWFpbik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RHdWlkKCkgewogICAgICAgIHNldElkZW50aWZpY2F0aW9uQXR0cmlidXRlKCJ1c2VybmFtZURvbWFpbiIpOwogICAgICAgIHVzZXJJZGVudGlmaWNhdGlvbi5maW5kKCJyaXRhIiwgbnVsbCk7CiAgICB9CiAgICAKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0R3VpZCgpIHsKICAgICAgICBzZXRJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZSgidXNlcm5hbWVEb21haW4iKTsKICAgICAgICB1c2VySWRlbnRpZmljYXRpb24uZmluZCgicml0YSIsIG51bGwpOwogICAgfQo=</text>
@@ -653,7 +653,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgaW52YWxpZE1vYmlsZSA9IDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -696,8 +696,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
