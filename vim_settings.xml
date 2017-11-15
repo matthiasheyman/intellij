@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" timestamp="1510666729562">
-        <mark key="'" line="414" column="66" />
+        <mark key="'" line="435" column="66" />
         <mark key="[" line="403" column="0" />
         <mark key="]" line="403" column="0" />
         <mark key="." line="403" column="0" />
@@ -45,17 +45,11 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/event/model/function/EventProcessingService.java" timestamp="1507813535394">
         <mark key="'" line="1124" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/insert/user.sql" timestamp="1510733689853">
-        <mark key="[" line="26" column="193" />
-        <mark key="]" line="26" column="201" />
-        <mark key="." line="26" column="201" />
-        <mark key="^" line="26" column="201" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1510743831400">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="550" column="0" />
-        <mark key="]" line="550" column="0" />
-        <mark key="." line="550" column="0" />
+        <mark key="[" line="547" column="0" />
+        <mark key="]" line="547" column="0" />
+        <mark key="." line="547" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/clientos/dao/TestClientOSDao.java" timestamp="1510672048109">
         <mark key="[" line="18" column="0" />
@@ -235,11 +229,7 @@
         <mark key="^" line="153" column="85" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1510737848344">
-        <mark key="'" line="137" column="31" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="50" />
-        <mark key="^" line="586" column="157" />
-        <mark key="." line="584" column="0" />
+        <mark key="^" line="582" column="157" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1510570097846">
         <mark key="'" line="66" column="27" />
@@ -262,11 +252,7 @@
         <mark key="^" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" timestamp="1510743731576">
-        <mark key="'" line="65" column="31" />
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
-        <mark key="^" line="364" column="95" />
+        <mark key="^" line="10" column="95" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
         <mark key="[" line="2" column="17" />
