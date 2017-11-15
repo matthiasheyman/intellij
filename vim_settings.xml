@@ -319,6 +319,9 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/Jenkinsfile" timestamp="1510762641529">
+        <mark key="'" line="20" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/insert/ldap.sql" timestamp="1510672351483">
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="72" />
@@ -391,7 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1608" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1610" column="37" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1654" column="41" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1655" column="44" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -491,6 +493,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
       <jump line="22" column="53" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
       <jump line="79" column="14" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
+      <jump line="20" column="31" filename="$USER_HOME$/projects/ebovision/management/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -503,7 +506,7 @@
         <text>message.invalid.identification.noresult</text>
       </register>
       <register name="/" type="4">
-        <text>ssh</text>
+        <text>java</text>
       </register>
       <register name="0" type="4">
         <text>message.invalid.identification.user</text>
@@ -540,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ssh</last-search>
+      <last-search>java</last-search>
       <last-offset />
-      <last-pattern>ssh</last-pattern>
+      <last-pattern>java</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -550,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>identific</entry>
         <entry encoding="base64">XDxkZWNpbWFsU2VwYXJhdG9yc1w+</entry>
         <entry>identification</entry>
         <entry encoding="base64">XDxFYm9WaXNpb25DYWNoZVw+</entry>
@@ -570,6 +572,7 @@
         <entry>email</entry>
         <entry>message.invalid</entry>
         <entry>ssh</entry>
+        <entry>java</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
