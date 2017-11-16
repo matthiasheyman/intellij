@@ -325,11 +325,12 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510843431969">
-        <mark key="'" line="45" column="9" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510845323537">
+        <mark key="'" line="149" column="5" />
+        <mark key="[" line="174" column="129" />
+        <mark key="]" line="174" column="141" />
+        <mark key="." line="174" column="141" />
+        <mark key="^" line="174" column="141" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -467,7 +468,6 @@
       <jump line="1117" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1355" column="25" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="148" column="4" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
-      <jump line="149" column="5" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="13" column="14" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="66" column="44" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="67" column="41" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
@@ -484,6 +484,7 @@
       <jump line="234" column="13" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="14" column="15" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="45" column="9" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="149" column="5" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -493,13 +494,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Boolean</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydW5GdWxsSm1ldGVyVGVzdHNcPg==</text>
+        <text encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</text>
       </register>
       <register name="0" type="4">
-        <text>setRunFullJmeterTests</text>
+        <text>/home/jenkins/apache-jmeter-3.3/bin/jmeter -n -t src/test/jmeter/testRandomUsageWithKeepAlive.jmx -Jusers=400 -Jhost=10.10.25.80 -JcountUserSessions=2</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -533,9 +534,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydW5GdWxsSm1ldGVyVGVzdHNcPg==</last-search>
+      <last-search encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydW5GdWxsSm1ldGVyVGVzdHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -558,11 +559,11 @@
         <entry>jmeter</entry>
         <entry>maven fail</entry>
         <entry>fails</entry>
-        <entry encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUFuYWx5c2lzUmVwb3J0Q29tbWFuZFw+</entry>
         <entry encoding="base64">XDxjb21tb25TdGVwc1w+</entry>
         <entry encoding="base64">XDxpc0ptZXRlclw+</entry>
         <entry encoding="base64">XDxydW5GdWxsSm1ldGVyVGVzdHNcPg==</entry>
+        <entry encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
