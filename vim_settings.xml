@@ -325,12 +325,12 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510848339924">
-        <mark key="'" line="149" column="5" />
-        <mark key="[" line="174" column="13" />
-        <mark key="]" line="174" column="12" />
-        <mark key="^" line="174" column="12" />
-        <mark key="." line="174" column="12" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510849721544">
+        <mark key="'" line="246" column="16" />
+        <mark key="[" line="182" column="37" />
+        <mark key="]" line="182" column="41" />
+        <mark key="^" line="182" column="41" />
+        <mark key="." line="182" column="41" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -385,10 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="5" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/model/TestUserIdentification.java" />
-      <jump line="66" column="19" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" />
-      <jump line="91" column="34" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
-      <jump line="51" column="50" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
       <jump line="159" column="45" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
       <jump line="29" column="13" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
       <jump line="130" column="7" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
@@ -467,7 +463,6 @@
       <jump line="1116" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1117" column="32" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1355" column="25" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="148" column="4" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="13" column="14" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="66" column="44" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="67" column="41" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
@@ -485,6 +480,11 @@
       <jump line="14" column="15" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="45" column="9" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="149" column="5" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="148" column="0" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="187" column="16" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="196" column="16" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="240" column="39" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="242" column="16" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -494,13 +494,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/home/jenkins/apache-jmeter-3.3/bin/jmeter.sh -n -t &quot;$pwd/src/test/jmeter/testRandomUsageWithKeepAlive.jmx&quot; -Jusers=400 -Jhost=&quot;10.10.25.80&quot; -JcountUserSessions=2</text>
+        <text>starting environments setup</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</text>
+        <text>logger</text>
       </register>
-      <register name="0" type="4">
-        <text>/home/jenkins/apache-jmeter-3.3/bin/jmeter -n -t src/test/jmeter/testRandomUsageWithKeepAlive.jmx -Jusers=400 -Jhost=&quot;10.10.25.80&quot; -JcountUserSessions=2</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJydW5uaW5nIGptZXRlciB0ZXN0cyIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzaCAnJwo=</text>
@@ -530,13 +530,13 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -544,7 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry>userident</entry>
         <entry encoding="base64">XDx1c2VySWRlbnRpZmljYXRpb25cPg==</entry>
         <entry>email</entry>
         <entry>message.invalid</entry>
@@ -564,6 +563,7 @@
         <entry encoding="base64">XDxpc0ptZXRlclw+</entry>
         <entry encoding="base64">XDxydW5GdWxsSm1ldGVyVGVzdHNcPg==</entry>
         <entry encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -573,8 +573,8 @@
         <entry>wq</entry>
         <entry>action FindUsages</entry>
         <entry>q</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
