@@ -325,12 +325,12 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510846848991">
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510847554775">
         <mark key="'" line="149" column="5" />
-        <mark key="[" line="174" column="12" />
-        <mark key="]" line="174" column="163" />
-        <mark key="." line="174" column="141" />
-        <mark key="^" line="174" column="141" />
+        <mark key="[" line="175" column="61" />
+        <mark key="]" line="175" column="69" />
+        <mark key="." line="175" column="69" />
+        <mark key="^" line="175" column="69" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -494,7 +494,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</text>
