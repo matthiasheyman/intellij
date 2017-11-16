@@ -52,6 +52,9 @@
         <mark key="^" line="104" column="3" />
         <mark key="." line="121" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/sqldump_prisoncloud.sql" timestamp="1510823598307">
+        <mark key="'" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510565842129">
         <mark key="'" line="132" column="50" />
         <mark key="[" line="418" column="98" />
@@ -398,9 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/generalSettingsTab.xhtml" />
-      <jump line="831" column="40" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
-      <jump line="875" column="39" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
       <jump line="495" column="34" filename="$USER_HOME$/projects/framework/jef/src/test/java/com/ebo/jef/ldap/service/TestLdapService.java" />
       <jump line="1568" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" />
       <jump line="674" column="62" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/general/GeneralSettingsBean.java" />
@@ -498,6 +498,9 @@
       <jump line="1340" column="42" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="378" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="972" column="11" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
+      <jump line="23" column="44" filename="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/sqldump_prisoncloud.sql" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/sqldump_prisoncloud.sql" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/sqldump_prisoncloud.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
