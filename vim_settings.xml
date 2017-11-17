@@ -325,10 +325,10 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510906429483">
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510907864802">
         <mark key="'" line="268" column="31" />
-        <mark key="[" line="177" column="76" />
-        <mark key="]" line="178" column="49" />
+        <mark key="[" line="177" column="24" />
+        <mark key="]" line="177" column="74" />
         <mark key="." line="178" column="49" />
         <mark key="^" line="178" column="49" />
       </file>
@@ -499,8 +499,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFN0YWNrVHJhY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3NoYWdlbnQoY3JlZGVudGlhbHM6IFsnZWJvLXNzaCddKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>ssh ebo@10.10.25.81 &quot;/var/lib/jmeter/start_mgmt.sh&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
