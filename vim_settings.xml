@@ -319,11 +319,11 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/Jenkinsfile" timestamp="1510914408777">
-        <mark key="[" line="48" column="64" />
-        <mark key="]" line="48" column="64" />
-        <mark key="." line="48" column="64" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/Jenkinsfile" timestamp="1510917475690">
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="57" column="69" />
+        <mark key="." line="63" column="45" />
+        <mark key="^" line="63" column="45" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/insert/ldap.sql" timestamp="1510672351483">
         <mark key="[" line="23" column="6" />
@@ -331,12 +331,12 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510913320586">
-        <mark key="'" line="161" column="41" />
-        <mark key="[" line="152" column="20" />
-        <mark key="]" line="152" column="47" />
-        <mark key="^" line="174" column="60" />
-        <mark key="." line="161" column="40" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510917780936">
+        <mark key="'" line="199" column="67" />
+        <mark key="[" line="207" column="133" />
+        <mark key="]" line="207" column="138" />
+        <mark key="." line="207" column="138" />
+        <mark key="^" line="207" column="138" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -391,8 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="23" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" />
-      <jump line="365" column="44" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" />
       <jump line="366" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" />
       <jump line="435" column="66" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" />
       <jump line="70" column="7" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" />
@@ -491,6 +489,8 @@
       <jump line="194" column="176" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="175" column="0" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="161" column="41" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="183" column="65" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="200" column="67" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -500,40 +500,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydW5GdWxsSm1ldGVyVGVzdHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>mysql/sqldump_2017-10-23.sql</text>
+        <text>maxNumberOfResourcesToRunPerUserSession</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFnID0gdGFnSWZUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGNtZCA9ICIiCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdQYXJzaW5nIHBhcmFtIC4uLicpCg==</text>
+      <register name="2" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text>/var/lib/jmeter/start_mgmt.sh</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3VsdCkgewo=</text>
+      <register name="4" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>sudo service ebovision stop</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50YWcgPSB0YWdJZlRydWUK</text>
+      <register name="6" type="4">
+        <text>''</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>ssh ebo@10.10.25.80 &quot;sudo service ebovision stop&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0QnVpbGRlci5zZXRSdW5GdWxsSm1ldGVyVGVzdHMoaXNKbWV0ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHBhcnNlU3RyaW5nKHZhcikgewogICAgZGVmIHJlc3VsdCA9IG51bGwKICAgIGlmICh2YXIgIT0gbnVsbCkgewogICAgICAgIHJlc3VsdCA9IHZhcgogICAgfQogICAgcmV0dXJuIHJlc3VsdAp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoa2V5ID09ICdkdW1wTmFtZScpIHsKICAgICAgICAgICAgZHVtcE5hbWUgPSB2YWx1ZQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
