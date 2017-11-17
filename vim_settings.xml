@@ -127,6 +127,7 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/aop/UserAspect.java" timestamp="1510931251522" />
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
         <mark key="[" line="49" column="40" />
         <mark key="]" line="49" column="40" />
@@ -540,7 +541,7 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicGFyYW0gYWRkZWQ6ICIgKyBrZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -583,8 +584,8 @@
         <entry>wq</entry>
         <entry>action FindUsages</entry>
         <entry>q</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
