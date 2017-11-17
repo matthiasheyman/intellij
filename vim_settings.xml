@@ -325,12 +325,12 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510849721544">
-        <mark key="'" line="246" column="16" />
-        <mark key="[" line="182" column="37" />
-        <mark key="]" line="182" column="41" />
-        <mark key="^" line="182" column="41" />
-        <mark key="." line="182" column="41" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1510904904680">
+        <mark key="'" line="264" column="31" />
+        <mark key="[" line="187" column="14" />
+        <mark key="]" line="187" column="14" />
+        <mark key="." line="187" column="14" />
+        <mark key="^" line="187" column="14" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -385,8 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="45" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
-      <jump line="29" column="13" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
       <jump line="130" column="7" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
       <jump line="19" column="33" filename="$USER_HOME$/projects/ebovision/management/src/test/selenium/Login.html" />
       <jump line="347" column="6" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" />
@@ -485,6 +483,8 @@
       <jump line="196" column="16" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="240" column="39" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="242" column="16" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="175" column="32" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="256" column="31" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -494,22 +494,22 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>starting environments setup</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text encoding="base64">XDxwcmludFN0YWNrVHJhY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJydW5uaW5nIGptZXRlciB0ZXN0cyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoZXgucHJpbnRTdGFja1RyYWNlKCkpCiAgICAgICAgICAgICAgICAgICAgZXJyb3JPY2N1cnJlZCA9IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAnJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAncHdkPSQocHdkKScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JPY2N1cnJlZCA9IGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -518,25 +518,25 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJSdW4gam1ldGVyIHRlc3RzOiAiICYgdGhpcy5ydW5GdWxsSm1ldGVyVGVzdHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzaCAnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search encoding="base64">XDxwcmludFN0YWNrVHJhY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern encoding="base64">XDxwcmludFN0YWNrVHJhY2VcPg==</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -544,7 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VySWRlbnRpZmljYXRpb25cPg==</entry>
         <entry>email</entry>
         <entry>message.invalid</entry>
         <entry>ssh</entry>
@@ -564,6 +563,7 @@
         <entry encoding="base64">XDxydW5GdWxsSm1ldGVyVGVzdHNcPg==</entry>
         <entry encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</entry>
         <entry>logger</entry>
+        <entry encoding="base64">XDxwcmludFN0YWNrVHJhY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
