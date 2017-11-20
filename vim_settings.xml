@@ -199,6 +199,10 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="/JavaProjectBuilder.groovy" timestamp="1511193230554">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="81" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/account/TestAccountManagement.java" timestamp="1510664904779">
         <mark key="[" line="21" column="84" />
         <mark key="]" line="22" column="92" />
@@ -342,12 +346,12 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511192049703">
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511193243814">
         <mark key="'" line="259" column="34" />
-        <mark key="[" line="236" column="23" />
-        <mark key="]" line="236" column="23" />
-        <mark key="." line="236" column="23" />
-        <mark key="^" line="244" column="3" />
+        <mark key="[" line="239" column="58" />
+        <mark key="]" line="239" column="68" />
+        <mark key="." line="239" column="68" />
+        <mark key="^" line="239" column="68" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -511,40 +515,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>echo $SystemLogger_pid</text>
       </register>
       <register name="/" type="4">
         <text>starting systeml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiU3lzdGVtbG9nZ2VyIHBpZDogJHtzeXN0ZW1Mb2dnZXJQaWR9IikK</text>
+        <text encoding="base64">ICAgICAgICBzeXN0ZW1Mb2dnZXJQaWQgPSBzaCByZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJ2VjaG8gJFN5c3RlbUxvZ2dlcl9waWQnCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzeXN0ZW1Mb2dnZXJQaWQgPSBzaAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzeXN0ZW1Mb2dnZXJQaWQgPSBzaCByZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJycK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>''</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>kill $SystemLogger_pid</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzaCAnJycjIS9iaW4vYmFzaAonJycrIGNtZCArICcnJwonJycK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">U3lzdGVtTG9nZ2VyX3BpZD0kIQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">JycnKyBjbWQgKyAnJycK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAnJwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">JycnCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHdkPSQocHdkKQo=</text>
+        <text encoding="base64">ICAgICAgICBzaCAnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
