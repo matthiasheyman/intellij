@@ -335,12 +335,12 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511165237651">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="239" column="12" />
-        <mark key="]" line="240" column="78" />
-        <mark key="." line="239" column="12" />
-        <mark key="^" line="239" column="12" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511169605347">
+        <mark key="'" line="249" column="118" />
+        <mark key="[" line="240" column="110" />
+        <mark key="]" line="240" column="145" />
+        <mark key="." line="240" column="145" />
+        <mark key="^" line="240" column="145" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -395,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="905" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
       <jump line="137" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
       <jump line="344" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
       <jump line="65" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
@@ -495,50 +494,52 @@
       <jump line="22" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/SynchronizeLdap.java" />
       <jump line="247" column="12" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="24" column="4" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="244" column="118" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>{ {  } }</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;&quot;</text>
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>addArti</text>
       </register>
       <register name="0" type="4">
-        <text>addArtifact</text>
+        <text>target/jmeter-reports/systemInfo.csv</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>else {
-            }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>''</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>java -jar $jmeterhelper systemLogProcessor results_${version}_${userCount}/systemInfo.csv users_$userCount</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZHVtcE5hbWUgPSAnbXlzcWwvc3FsZHVtcF8yMDE3LTEwLTIzLnNxbCcKICAgICAgICBkZWYgalBhcmFtcyA9ICcnCiAgICAgICAgZGVmIG1nbXRJcCA9ICcxMC4xMC4yNS44MCcKICAgICAgICBkZWYgY2xpZW50VWlJcCA9ICcxMC4xMC4yNS44MScKICAgICAgICBkZWYgZGJJcCA9ICcxMC4xMC4yNS44MicKICAgICAgICBkZWYgZGViID0gbnVsbAo=</text>
+      <register name="5" type="4">
+        <text>java -jar $jmeterFolder/lib/ext/CMDRunner.jar --tool Reporter --generate-csv target/jmeter-reports/aggregate.csv \
+	        --input-jtl target/jmeter-reports/result.xml --plugin-type AggregateReport</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text>else {
+            }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicGFyYW0gYWRkZWQ6ICIgKyBrZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
@@ -549,9 +550,9 @@
       <last-offset />
       <last-pattern>addArti</last-pattern>
       <last-replace>client</last-replace>
-      <last-substitute>user</last-substitute>
+      <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
