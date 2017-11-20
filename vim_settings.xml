@@ -335,10 +335,11 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511176013770">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="35" />
-        <mark key="." line="248" column="0" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511177366185">
+        <mark key="[" line="239" column="16" />
+        <mark key="]" line="239" column="16" />
+        <mark key="." line="239" column="16" />
+        <mark key="^" line="239" column="41" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -502,7 +503,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>addArti</text>
