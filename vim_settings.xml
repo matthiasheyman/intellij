@@ -335,10 +335,10 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511165230154">
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511165237651">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="236" column="5" />
-        <mark key="]" line="239" column="12" />
+        <mark key="[" line="239" column="12" />
+        <mark key="]" line="240" column="78" />
         <mark key="." line="239" column="12" />
         <mark key="^" line="239" column="12" />
       </file>
