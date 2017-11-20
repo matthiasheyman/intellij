@@ -53,6 +53,7 @@
         <mark key="^" line="104" column="3" />
         <mark key="." line="121" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ebotools/ebo-itop-notifier/src/background.js" timestamp="1511186847328" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510565842129">
         <mark key="'" line="132" column="50" />
         <mark key="[" line="418" column="98" />
@@ -305,7 +306,13 @@
         <mark key="." line="34" column="60" />
         <mark key="^" line="33" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510824715814">
+      <file name="$USER_HOME$/projects/ebotools/ebo-itop-notifier/src/manifest.json" timestamp="1511187021803">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="38" column="43" />
+        <mark key="^" line="38" column="43" />
+        <mark key="." line="38" column="43" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1511186954750">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/PeripheralInterfaceService.java" timestamp="1507810631454">
@@ -335,10 +342,10 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511185124487">
-        <mark key="[" line="238" column="25" />
-        <mark key="]" line="238" column="25" />
-        <mark key="." line="238" column="25" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511186249991">
+        <mark key="[" line="258" column="30" />
+        <mark key="]" line="258" column="31" />
+        <mark key="." line="258" column="31" />
         <mark key="^" line="237" column="24" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
@@ -503,7 +510,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>addArti</text>
