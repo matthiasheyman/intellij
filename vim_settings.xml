@@ -342,10 +342,10 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511186249991">
-        <mark key="[" line="258" column="30" />
-        <mark key="]" line="258" column="31" />
-        <mark key="." line="258" column="31" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511187427943">
+        <mark key="[" line="237" column="19" />
+        <mark key="]" line="237" column="19" />
+        <mark key="." line="237" column="19" />
         <mark key="^" line="237" column="24" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
@@ -510,10 +510,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>addArti</text>
+        <text>starting systeml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2ggJycnIyEvYmluL2Jhc2ggLXhlCiAgICAgICAgICAgIHB3ZD0kKHB3ZCkKICAgICAgICAgICAgJycnICsgam1ldGVyRm9sZGVyICsgJy9iaW4vam1ldGVyLnNoIC1uIC10ICIkcHdkL3NyYy90ZXN0L2ptZXRlci90ZXN0UmFuZG9tVXNhZ2VXaXRoS2VlcEFsaXZlLmpteCIgLWwgdGVzdFJhbmRvbVVzYWdlV2l0aEtlZXBBbGl2ZS5qdGwgLUpob3N0PSInICsgbWdtdElwICsgJyInICsgalBhcmFtcwo=</text>
@@ -550,9 +550,9 @@
       </register>
     </registers>
     <search>
-      <last-search>addArti</last-search>
+      <last-search>starting systeml</last-search>
       <last-offset />
-      <last-pattern>addArti</last-pattern>
+      <last-pattern>starting systeml</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -560,7 +560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ssh</entry>
         <entry>java</entry>
         <entry>testset</entry>
         <entry encoding="base64">XDxqbWV0ZXJcPg==</entry>
@@ -580,6 +579,7 @@
         <entry encoding="base64">XDxydW5GdWxsSm1ldGVyVGVzdHNcPg==</entry>
         <entry>ebo@</entry>
         <entry>addArti</entry>
+        <entry>starting systeml</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
