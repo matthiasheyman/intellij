@@ -335,12 +335,10 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511169605347">
-        <mark key="'" line="249" column="118" />
-        <mark key="[" line="240" column="110" />
-        <mark key="]" line="240" column="145" />
-        <mark key="." line="240" column="145" />
-        <mark key="^" line="240" column="145" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511176013770">
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="35" />
+        <mark key="." line="248" column="0" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -492,9 +490,9 @@
       <jump line="213" column="33" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="219" column="33" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="22" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/SynchronizeLdap.java" />
-      <jump line="247" column="12" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="24" column="4" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="244" column="118" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="247" column="79" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -504,7 +502,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>addArti</text>
@@ -513,33 +511,32 @@
         <text>target/jmeter-reports/systemInfo.csv</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaCAna2lsbCAkU3lzdGVtTG9nZ2VyX3BpZCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzaCAiamF2YSAtamFyICR7am1ldGVyaGVscGVyfSBzeXN0ZW1Mb2dnZXIgLWggJHttZ210SXB9ICIgKyAnJiBTeXN0ZW1Mb2dnZXJfcGlkPSQhJwo=</text>
       </register>
       <register name="3" type="4">
         <text>''</text>
       </register>
       <register name="4" type="4">
-        <text>java -jar $jmeterhelper systemLogProcessor results_${version}_${userCount}/systemInfo.csv users_$userCount</text>
+        <text encoding="base64">amF2YSAtamFyICRqbWV0ZXJoZWxwZXIgc3lzdGVtTG9nZ2VyIC1oICRob3N0ICYgU3lzdGVtTG9nZ2VyX3BpZD0kIQ==</text>
       </register>
-      <register name="5" type="4">
-        <text>java -jar $jmeterFolder/lib/ext/CMDRunner.jar --tool Reporter --generate-csv target/jmeter-reports/aggregate.csv \
-	        --input-jtl target/jmeter-reports/result.xml --plugin-type AggregateReport</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>else {
-            }</text>
+        <text>''</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>java -jar $jmeterhelper systemLogProcessor results_${version}_${userCount}/systemInfo.csv users_$userCount</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>java -jar $jmeterFolder/lib/ext/CMDRunner.jar --tool Reporter --generate-csv target/jmeter-reports/aggregate.csv \
+	        --input-jtl target/jmeter-reports/result.xml --plugin-type AggregateReport</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
