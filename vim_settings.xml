@@ -335,11 +335,10 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511177366185">
-        <mark key="[" line="239" column="16" />
-        <mark key="]" line="239" column="16" />
-        <mark key="." line="239" column="16" />
-        <mark key="^" line="239" column="41" />
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511181939088">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="14" />
+        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -503,41 +502,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>addArti</text>
       </register>
-      <register name="0" type="4">
-        <text>target/jmeter-reports/systemInfo.csv</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2ggJycnIyEvYmluL2Jhc2ggLXhlCiAgICAgICAgICAgIHB3ZD0kKHB3ZCkKICAgICAgICAgICAgJycnICsgam1ldGVyRm9sZGVyICsgJy9iaW4vam1ldGVyLnNoIC1uIC10ICIkcHdkL3NyYy90ZXN0L2ptZXRlci90ZXN0UmFuZG9tVXNhZ2VXaXRoS2VlcEFsaXZlLmpteCIgLWwgdGVzdFJhbmRvbVVzYWdlV2l0aEtlZXBBbGl2ZS5qdGwgLUpob3N0PSInICsgbWdtdElwICsgJyInICsgalBhcmFtcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAna2lsbCAkU3lzdGVtTG9nZ2VyX3BpZCcK</text>
+        <text encoding="base64">JycnKyBjbWQgKyAnJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAiamF2YSAtamFyICR7am1ldGVyaGVscGVyfSBzeXN0ZW1Mb2dnZXIgLWggJHttZ210SXB9ICIgKyAnJiBTeXN0ZW1Mb2dnZXJfcGlkPSQhJwo=</text>
+        <text encoding="base64">ICAgICAgICBzaCAnJwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>''</text>
+      <register name="3" type="2">
+        <text encoding="base64">JycnCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">amF2YSAtamFyICRqbWV0ZXJoZWxwZXIgc3lzdGVtTG9nZ2VyIC1oICRob3N0ICYgU3lzdGVtTG9nZ2VyX3BpZD0kIQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHdkPSQocHdkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggJ1N5c3RlbUxvZ2dlcl9waWQ9JCEnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlN5c3RlbWxvZ2dlciBzdGFydGVkIikK</text>
       </register>
-      <register name="7" type="4">
-        <text>''</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlN0YXJ0aW5nIHN5c3RlbWxvZ2dlciIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>java -jar $jmeterhelper systemLogProcessor results_${version}_${userCount}/systemInfo.csv users_$userCount</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>java -jar $jmeterFolder/lib/ext/CMDRunner.jar --tool Reporter --generate-csv target/jmeter-reports/aggregate.csv \
-	        --input-jtl target/jmeter-reports/result.xml --plugin-type AggregateReport</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2ggImphdmEgLWphciAke2ptZXRlcmhlbHBlcn0gc3lzdGVtTG9nZ2VyIC1oICR7bWdtdElwfSAmIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
