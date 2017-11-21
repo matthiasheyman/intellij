@@ -43,7 +43,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/restriction/model/Restriction.java" timestamp="1511164196796" />
       <file name="$USER_HOME$/projects/framework/jef/src/test/java/com/ebo/jef/aop/TestCacheAspect.java" timestamp="1510049884210">
         <mark key="[" line="2" column="30" />
       </file>
@@ -53,7 +52,6 @@
         <mark key="^" line="104" column="3" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebotools/ebo-itop-notifier/src/background.js" timestamp="1511186847328" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510565842129">
         <mark key="'" line="132" column="50" />
         <mark key="[" line="418" column="98" />
@@ -347,6 +345,7 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/deploy/debian/etc/mysql/conf.d/ebovision.cnf" timestamp="1511253720334" />
       <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511194382937">
         <mark key="'" line="259" column="34" />
         <mark key="[" line="245" column="0" />
@@ -562,7 +561,7 @@
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
