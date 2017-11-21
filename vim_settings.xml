@@ -551,7 +551,7 @@
         <text>''</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -593,9 +593,9 @@
         <entry>w</entry>
         <entry>wq</entry>
         <entry>action FindUsages</entry>
-        <entry>q</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
