@@ -314,7 +314,7 @@
         <mark key="^" line="38" column="43" />
         <mark key="." line="38" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511274944439">
+      <file name="/Dummy.txt" timestamp="1511276344783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/PeripheralInterfaceService.java" timestamp="1507810631454">
@@ -351,11 +351,12 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="153" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511275093771">
-        <mark key="[" line="629" column="0" />
-        <mark key="]" line="629" column="0" />
-        <mark key="^" line="629" column="131" />
-        <mark key="." line="629" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511277201812">
+        <mark key="'" line="953" column="12" />
+        <mark key="[" line="905" column="0" />
+        <mark key="]" line="905" column="0" />
+        <mark key="." line="905" column="0" />
+        <mark key="^" line="907" column="107" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/application/webservice/TestApplicationContextService.java" timestamp="1510671989444">
         <mark key="[" line="12" column="0" />
@@ -401,25 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" />
-      <jump line="33" column="14" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
-      <jump line="22" column="53" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
-      <jump line="79" column="14" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
-      <jump line="185" column="53" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="661" column="61" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="677" column="74" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="749" column="61" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1298" column="42" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1332" column="48" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1333" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1337" column="36" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1340" column="42" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="972" column="11" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="23" column="44" filename="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/sqldump_prisoncloud.sql" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/sqldump_prisoncloud.sql" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/sqldump_prisoncloud.sql" />
-      <jump line="1302" column="63" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1457" column="16" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="1458" column="27" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
       <jump line="742" column="46" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
@@ -501,6 +483,25 @@
       <jump line="27" column="0" filename="$USER_HOME$/projects/ebovision/management/Jenkinsfile" />
       <jump line="50" column="59" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" />
       <jump line="22" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" />
+      <jump line="580" column="49" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="585" column="140" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="589" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="954" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="962" column="83" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="582" column="65" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="608" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="609" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="617" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="624" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="628" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="629" column="102" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="630" column="48" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="867" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="868" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="876" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="890" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="906" column="92" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="953" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -510,49 +511,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>find</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXBhcmF0b3JcPg==</text>
+        <text encoding="base64">XDx1c2VyQXV0aGVudGljYXRpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>String getPredefinedIdentificationValue(User user)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVXNlciB1c2VyID0gdXNlcklkZW50aWZpY2F0aW9uLmZpbmQoaWRlbnRpZmljYXRpb25DcmVkZW50aWFscy5nZXRVc2VybmFtZSgpLCBpZGVudGlmaWNhdGlvbkNyZWRlbnRpYWxzLmdldERvbWFpbigpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8tTUgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGNvbWUuc2V0QXV0aGVudGljYXRpb25Vc2VybmFtZSh1c2VyQXV0aGVudGljYXRpb24uZ2V0VmFsaWRhdGVVc2VyTmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8tTUgK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWRlbnRpZmljYXRpb24gPSAoKExkYXBVc2VyKXVzZXIpLmdldEd1aWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGNvbWUuc2V0QXV0aGVudGljYXRpb25Vc2VybmFtZSh1c2VyQXV0aGVudGljYXRpb24uZ2V0VmFsaWRhdGVVc2VyTmFtZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGFzcykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWRlbnRpZmljYXRpb24gPSAoKExkYXBVc2VyKXVzZXIpLmdldEd1aWQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgdXNlcm5hbWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXBhcmF0b3JcPg==</last-search>
+      <last-search encoding="base64">XDx1c2VyQXV0aGVudGljYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXBhcmF0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyQXV0aGVudGljYXRpb25cPg==</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -560,9 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqbWV0ZXJcPg==</entry>
-        <entry>jmeter-test</entry>
-        <entry>testdatabase</entry>
         <entry>restwebservices</entry>
         <entry>verify</entry>
         <entry>jmeter</entry>
@@ -580,6 +578,9 @@
         <entry>starting systeml</entry>
         <entry>result</entry>
         <entry encoding="base64">XDxzZXBhcmF0b3JcPg==</entry>
+        <entry>validate</entry>
+        <entry>authenticate</entry>
+        <entry encoding="base64">XDx1c2VyQXV0aGVudGljYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
