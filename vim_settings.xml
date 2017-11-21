@@ -162,12 +162,12 @@
         <mark key="." line="128" column="41" />
         <mark key="^" line="128" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentification.java" timestamp="1510667802905">
-        <mark key="'" line="17" column="44" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentification.java" timestamp="1511275058391">
+        <mark key="'" line="18" column="44" />
+        <mark key="[" line="4" column="54" />
+        <mark key="]" line="4" column="54" />
+        <mark key="^" line="4" column="54" />
+        <mark key="." line="4" column="54" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/CachedClassHolder.java" timestamp="1510049493417">
         <mark key="[" line="29" column="18" />
@@ -285,12 +285,12 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="53" column="132" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1510743855389">
-        <mark key="'" line="88" column="35" />
-        <mark key="[" line="74" column="28" />
-        <mark key="]" line="74" column="29" />
-        <mark key="^" line="101" column="89" />
-        <mark key="." line="74" column="29" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1511275051079">
+        <mark key="'" line="22" column="30" />
+        <mark key="[" line="82" column="11" />
+        <mark key="]" line="82" column="60" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="12" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1510655272536">
         <mark key="'" line="86" column="91" />
@@ -314,7 +314,7 @@
         <mark key="^" line="38" column="43" />
         <mark key="." line="38" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511186954750">
+      <file name="/Dummy.txt" timestamp="1511274944439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/PeripheralInterfaceService.java" timestamp="1507810631454">
@@ -338,7 +338,6 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/deploy/debian/etc/mysql/conf.d/ebovision.cnf" timestamp="1511253720334" />
       <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511194382937">
         <mark key="'" line="259" column="34" />
         <mark key="[" line="245" column="0" />
@@ -352,8 +351,11 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="153" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1510737848344">
-        <mark key="^" line="582" column="157" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511275093771">
+        <mark key="[" line="629" column="0" />
+        <mark key="]" line="629" column="0" />
+        <mark key="^" line="629" column="131" />
+        <mark key="." line="629" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/application/webservice/TestApplicationContextService.java" timestamp="1510671989444">
         <mark key="[" line="12" column="0" />
@@ -399,8 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserAuthenticationServiceImpl.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/LdapUserContextMapper.java" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" />
       <jump line="33" column="14" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/pipeline.gdsl" />
@@ -499,6 +499,8 @@
       <jump line="247" column="79" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="253" column="34" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/ebovision/management/Jenkinsfile" />
+      <jump line="50" column="59" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" />
+      <jump line="22" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -508,57 +510,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>find</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text encoding="base64">XDxzZXBhcmF0b3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzeXN0ZW1Mb2dnZXJQaWQgPSBzaCByZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJ2VjaG8gJFN5c3RlbUxvZ2dlcl9waWQnCg==</text>
+      <register name="0" type="4">
+        <text>String getPredefinedIdentificationValue(User user)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlN5c3RlbWxvZ2dlciBwaWQ6ICR7c3lzdGVtTG9nZ2VyUGlkfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8tTUgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJTeXN0ZW1sb2dnZXIgcGlkOiAke3N5c3RlbUxvZ2dlclBpZH0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGNvbWUuc2V0QXV0aGVudGljYXRpb25Vc2VybmFtZSh1c2VyQXV0aGVudGljYXRpb24uZ2V0VmFsaWRhdGVVc2VyTmFtZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiU3lzdGVtbG9nZ2VyIHBpZDogJHtzeXN0ZW1Mb2dnZXJQaWR9IikK</text>
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJTeXN0ZW1sb2dnZXIgcGlkOiAke3N5c3RlbUxvZ2dlclBpZH0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlN5c3RlbWxvZ2dlciBwaWQ6ICR7c3lzdGVtTG9nZ2VyUGlkfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWRlbnRpZmljYXRpb24gPSAoKExkYXBVc2VyKXVzZXIpLmdldEd1aWQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzeXN0ZW1Mb2dnZXJQaWQgPSBzaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzeXN0ZW1Mb2dnZXJQaWQgPSBzaCByZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGFzcykgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
-      <register name="9" type="4">
-        <text>''</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgdXNlcm5hbWU6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search encoding="base64">XDxzZXBhcmF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern encoding="base64">XDxzZXBhcmF0b3JcPg==</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>testset</entry>
         <entry encoding="base64">XDxqbWV0ZXJcPg==</entry>
         <entry>jmeter-test</entry>
         <entry>testdatabase</entry>
@@ -578,6 +579,7 @@
         <entry>addArti</entry>
         <entry>starting systeml</entry>
         <entry>result</entry>
+        <entry encoding="base64">XDxzZXBhcmF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -587,8 +589,8 @@
         <entry>wq</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoImplementation</entry>
         <entry>q</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
