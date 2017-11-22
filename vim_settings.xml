@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" timestamp="1511343265625" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" timestamp="1510666729562">
         <mark key="'" line="435" column="66" />
         <mark key="[" line="403" column="0" />
@@ -284,11 +285,12 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="53" column="132" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1511342314210">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1511343384767">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="89" column="41" />
+        <mark key="]" line="89" column="42" />
+        <mark key="." line="89" column="42" />
+        <mark key="^" line="89" column="42" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1510655272536">
         <mark key="'" line="86" column="91" />
@@ -375,7 +377,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1511338032839">
+      <file name="/fragment.java" timestamp="1511343284326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -509,7 +511,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>userIdentification.getPredefinedIdentificationValue(userAuthentication.getUser())</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
         <text>getpred</text>
@@ -545,7 +547,7 @@
         <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -587,9 +589,9 @@
         <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
