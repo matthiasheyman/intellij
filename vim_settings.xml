@@ -25,10 +25,12 @@
         <mark key="[" line="424" column="0" />
         <mark key="]" line="424" column="117" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" timestamp="1511364729235">
-        <mark key="'" line="216" column="16" />
-        <mark key="[" line="279" column="35" />
-        <mark key="]" line="279" column="77" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" timestamp="1511367928441">
+        <mark key="'" line="214" column="12" />
+        <mark key="[" line="254" column="76" />
+        <mark key="]" line="254" column="76" />
+        <mark key="." line="254" column="76" />
+        <mark key="^" line="254" column="78" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510567447100">
         <mark key="'" line="160" column="20" />
@@ -210,6 +212,7 @@
         <mark key="." line="643" column="0" />
         <mark key="^" line="641" column="65" />
       </file>
+      <file name="/UserBean.java" timestamp="1511367018217" />
       <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/model/DVDPostMovieActor.java" timestamp="1509445855124">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="5" column="3" />
@@ -291,12 +294,11 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/restriction/SelectRestrictionTypeBean.java" timestamp="1511346305211">
         <mark key="'" line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" timestamp="1511364484829">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" timestamp="1511367090678">
         <mark key="'" line="355" column="4" />
-        <mark key="[" line="79" column="54" />
-        <mark key="]" line="79" column="72" />
-        <mark key="^" line="79" column="72" />
-        <mark key="." line="79" column="72" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/PeripheralInterfaceClient.java" timestamp="1507810804152">
         <mark key="[" line="22" column="29" />
@@ -414,7 +416,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1511362354417">
+      <file name="/fragment.java" timestamp="1511366934678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -440,12 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="46" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/restriction/model/Restriction.java" />
-      <jump line="233" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/restriction/model/Restriction.java" />
-      <jump line="268" column="21" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/restriction/model/Restriction.java" />
-      <jump line="296" column="49" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/restriction/model/Restriction.java" />
-      <jump line="44" column="54" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/restriction/SelectRestrictionTypeBean.java" />
-      <jump line="46" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/restriction/SelectRestrictionTypeBean.java" />
       <jump line="75" column="40" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/restriction/SelectRestrictionTypeBean.java" />
       <jump line="105" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/restriction/SelectRestrictionTypeBean.java" />
       <jump line="106" column="76" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/restriction/SelectRestrictionTypeBean.java" />
@@ -534,12 +530,18 @@
       <jump line="311" column="69" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="331" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="341" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="355" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="139" column="87" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
       <jump line="211" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
-      <jump line="214" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
-      <jump line="192" column="22" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
       <jump line="216" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="355" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
+      <jump line="179" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="192" column="22" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="193" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="197" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="198" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="199" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="207" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="214" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -549,22 +551,22 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>saveva</text>
+        <text>valid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZXRhaWxVdGlscy5zYXZlQ2hhbmdlcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygicmF3dHlwZXMiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzcyBqZWZTZXJ2aWNlQ2xhc3MgPSBqZWZTZXJ2aWNlQmVhbi5nZXRDbGFzcygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBzdXBlci5jcmVhdGVOZXdJbnN0YW5jZSgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -576,22 +578,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0Y29tZS5zZXRBdXRoZW50aWNhdGlvbkRvbWFpbih1c2VyQXV0aGVudGljYXRpb24uZ2V0VmFsaWRhdGVEb21haW4oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGNvbWUuc2V0QXV0aGVudGljYXRpb25Eb21haW4odXNlckF1dGhlbnRpY2F0aW9uLmdldFZhbGlkYXRlRG9tYWluKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgVXNlciB1c2VyID0gdXNlcklkZW50aWZpY2F0aW9uLmZpbmQoY2xpZW50QXV0aGVudGljYXRpb24uZ2V0VXNlcm5hbWUoKSwgY2xpZW50QXV0aGVudGljYXRpb24uZ2V0RG9tYWluKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>saveva</last-search>
+      <last-search>valid</last-search>
       <last-offset />
-      <last-pattern>saveva</last-pattern>
+      <last-pattern>valid</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -599,7 +601,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGllbnRBdXRoZW50aWNhdGlvblw+</entry>
         <entry>getpredi</entry>
         <entry>resource</entry>
         <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
@@ -619,6 +620,7 @@
         <entry>save</entry>
         <entry>validate</entry>
         <entry>saveva</entry>
+        <entry>valid</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -626,10 +628,10 @@
         <entry>action CommentByLineComment</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>q</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
+        <entry>q</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
