@@ -367,13 +367,7 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="153" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511359421370">
-        <mark key="'" line="729" column="9" />
-        <mark key="[" line="630" column="0" />
-        <mark key="]" line="630" column="88" />
-        <mark key="." line="630" column="0" />
-        <mark key="^" line="628" column="11" />
-      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511359421370" />
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/application/webservice/TestApplicationContextService.java" timestamp="1510671989444">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="60" />
