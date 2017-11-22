@@ -295,7 +295,7 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="53" column="132" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1511346815654">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1511355608542">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="89" column="41" />
         <mark key="]" line="89" column="42" />
@@ -367,12 +367,12 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="153" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511342439383">
-        <mark key="'" line="906" column="45" />
-        <mark key="[" line="629" column="77" />
-        <mark key="]" line="629" column="89" />
-        <mark key="." line="629" column="89" />
-        <mark key="^" line="629" column="89" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511357311789">
+        <mark key="'" line="729" column="9" />
+        <mark key="[" line="628" column="84" />
+        <mark key="]" line="629" column="11" />
+        <mark key="." line="629" column="11" />
+        <mark key="^" line="629" column="11" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/application/webservice/TestApplicationContextService.java" timestamp="1510671989444">
         <mark key="[" line="12" column="0" />
@@ -416,9 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1355" column="25" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="13" column="14" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
-      <jump line="66" column="44" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="67" column="41" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="297" column="74" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="299" column="24" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
@@ -516,6 +513,9 @@
       <jump line="15" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/impl/AbstractUserDAOImpl.java" />
       <jump line="130" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/impl/AbstractUserDAOImpl.java" />
       <jump line="413" column="53" filename="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/dao/impl/AbstractDAOImpl.java" />
+      <jump line="733" column="32" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="914" column="103" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="728" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -525,49 +525,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>applysof</text>
+        <text>getpred</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVXNlciB1c2VyID0gdXNlcklkZW50aWZpY2F0aW9uLmZpbmQoaWRlbnRpZmljYXRpb25DcmVkZW50aWFscy5nZXRVc2VybmFtZSgpLCBpZGVudGlmaWNhdGlvbkNyZWRlbnRpYWxzLmdldERvbWFpbigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGNvbWUuc2V0QXV0aGVudGljYXRpb25Eb21haW4odXNlckF1dGhlbnRpY2F0aW9uLmdldFZhbGlkYXRlRG9tYWluKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRQcmVkZWZpbmVkSWRlbnRpZmljYXRpb25WYWx1ZShVc2VyIHVzZXIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgVXNlciB1c2VyID0gdXNlcklkZW50aWZpY2F0aW9uLmZpbmQoY2xpZW50QXV0aGVudGljYXRpb24uZ2V0VXNlcm5hbWUoKSwgY2xpZW50QXV0aGVudGljYXRpb24uZ2V0RG9tYWluKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UHJlZGVmaW5lZElkZW50aWZpY2F0aW9uVmFsdWUoVXNlciB1c2VyKSB7CiAgICAgICAgZm9yIChJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZSBhdHRyaWJ1dGUgOiBnZXRJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZXMoKSkgewogICAgICAgICAgICBTdHJpbmcgaWRlbnRpZmljYXRpb24gPSBudWxsOwogICAgICAgICAgICBzd2l0Y2ggKGF0dHJpYnV0ZSkgewogICAgICAgICAgICAgICAgY2FzZSB1c2VybmFtZURvbWFpbjoKICAgICAgICAgICAgICAgIGNhc2UgdXNlcm5hbWU6CiAgICAgICAgICAgICAgICAgICAgaWRlbnRpZmljYXRpb24gPSB1c2VyLmdldFVzZXJBdXRoZW50aWNhdGlvbigpLmdldFZhbGlkYXRlVXNlck5hbWUoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgZW1haWxhZGRyZXNzOgogICAgICAgICAgICAgICAgICAgIGlkZW50aWZpY2F0aW9uID0gdXNlci5nZXRFbWFpbCgpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSBsZGFwR3VpZDoKICAgICAgICAgICAgICAgICAgICBpZiAodXNlciBpbnN0YW5jZW9mIExkYXBVc2VyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkZW50aWZpY2F0aW9uID0gKChMZGFwVXNlcikgdXNlcikuZ2V0R3VpZCgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgcGhvbmVudW1iZXI6CiAgICAgICAgICAgICAgICAgICAgaWRlbnRpZmljYXRpb24gPSB1c2VyLmdldFBob25lKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIG1vYmlsZXBob25lOgogICAgICAgICAgICAgICAgICAgIGlkZW50aWZpY2F0aW9uID0gdXNlci5nZXRNb2JpbGUoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhpZGVudGlmaWNhdGlvbikpIHsKICAgICAgICAgICAgICAgIHJldHVybiBpZGVudGlmaWNhdGlvbjsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRQcmVkZWZpbmVkSWRlbnRpZmljYXRpb25WYWx1ZShVc2VyIHVzZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8tTUgK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UHJlZGVmaW5lZElkZW50aWZpY2F0aW9uVmFsdWUoVXNlciB1c2VyKSB7CiAgICAgICAgZm9yIChJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZSBhdHRyaWJ1dGUgOiBnZXRJZGVudGlmaWNhdGlvbkF0dHJpYnV0ZXMoKSkgewogICAgICAgICAgICBTdHJpbmcgaWRlbnRpZmljYXRpb24gPSBudWxsOwogICAgICAgICAgICBzd2l0Y2ggKGF0dHJpYnV0ZSkgewogICAgICAgICAgICAgICAgY2FzZSB1c2VybmFtZURvbWFpbjoKICAgICAgICAgICAgICAgIGNhc2UgdXNlcm5hbWU6CiAgICAgICAgICAgICAgICAgICAgaWRlbnRpZmljYXRpb24gPSB1c2VyLmdldFVzZXJBdXRoZW50aWNhdGlvbigpLmdldFZhbGlkYXRlVXNlck5hbWUoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgZW1haWxhZGRyZXNzOgogICAgICAgICAgICAgICAgICAgIGlkZW50aWZpY2F0aW9uID0gdXNlci5nZXRFbWFpbCgpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSBsZGFwR3VpZDoKICAgICAgICAgICAgICAgICAgICBpZiAodXNlciBpbnN0YW5jZW9mIExkYXBVc2VyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkZW50aWZpY2F0aW9uID0gKChMZGFwVXNlcikgdXNlcikuZ2V0R3VpZCgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgcGhvbmVudW1iZXI6CiAgICAgICAgICAgICAgICAgICAgaWRlbnRpZmljYXRpb24gPSB1c2VyLmdldFBob25lKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIG1vYmlsZXBob25lOgogICAgICAgICAgICAgICAgICAgIGlkZW50aWZpY2F0aW9uID0gdXNlci5nZXRNb2JpbGUoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhpZGVudGlmaWNhdGlvbikpIHsKICAgICAgICAgICAgICAgIHJldHVybiBpZGVudGlmaWNhdGlvbjsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8tTUgK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGNvbWUuc2V0QXV0aGVudGljYXRpb25Vc2VybmFtZSh1c2VyQXV0aGVudGljYXRpb24uZ2V0VmFsaWRhdGVVc2VyTmFtZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>applysof</last-search>
+      <last-search>getpred</last-search>
       <last-offset />
-      <last-pattern>applysof</last-pattern>
+      <last-pattern>getpred</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -575,8 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5KbWV0ZXJUZXN0c1w+</entry>
-        <entry>logger</entry>
         <entry encoding="base64">XDxwcmludFN0YWNrVHJhY2VcPg==</entry>
         <entry encoding="base64">XDxydW5GdWxsSm1ldGVyVGVzdHNcPg==</entry>
         <entry>ebo@</entry>
@@ -589,12 +587,14 @@
         <entry encoding="base64">XDx1c2VyQXV0aGVudGljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxjbGllbnRBdXRoZW50aWNhdGlvblw+</entry>
         <entry>getpredi</entry>
-        <entry>getpred</entry>
         <entry>resource</entry>
         <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
         <entry>removed</entry>
         <entry>findwithfil</entry>
         <entry>applysof</entry>
+        <entry>any</entry>
+        <entry>identification</entry>
+        <entry>getpred</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -603,9 +603,9 @@
         <entry>wq</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
