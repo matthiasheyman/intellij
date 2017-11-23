@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/projects/framework/jef/src/test/java/com/ebo/jef/aop/TestCacheAspect.java" timestamp="1510049884210">
         <mark key="[" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/device/identificationmedium/identificationMediumTab.xhtml" timestamp="1511362930300">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/device/identificationmedium/identificationMediumTab.xhtml" timestamp="1511435791808">
         <mark key="'" line="74" column="59" />
         <mark key="[" line="74" column="59" />
-        <mark key="]" line="74" column="69" />
-        <mark key="^" line="74" column="69" />
-        <mark key="." line="74" column="69" />
+        <mark key="]" line="74" column="65" />
+        <mark key="^" line="74" column="65" />
+        <mark key="." line="74" column="65" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/configuration/general/TestPeripheralInterfaces.java" timestamp="1507899790516">
         <mark key="[" line="121" column="0" />
@@ -228,6 +228,12 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" timestamp="1511436049966">
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="84" column="39" />
+        <mark key="." line="84" column="39" />
+        <mark key="^" line="84" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/framework/jefui/src/test/java/com/ebo/jefui/utils/TestQueryProperty.java" timestamp="1507813882487">
         <mark key="[" line="30" column="71" />
         <mark key="]" line="30" column="73" />
@@ -345,11 +351,10 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="153" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMedium.java" timestamp="1511364032505">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="34" />
-        <mark key="^" line="56" column="63" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMedium.java" timestamp="1511435367975">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="97" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/VideoResourceDAO.java" timestamp="1509706900909">
         <mark key="[" line="12" column="14" />
@@ -493,40 +498,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>jefComponentActions.verifyInfoMessage(UIUtils.getMessage(&quot;info.updateSuccessFul&quot;));</text>
       </register>
       <register name="/" type="4">
         <text>savev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRhaWxVdGlscy5zYXZlQ2hhbmdlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcGVuVGFiKE1FTlVfSURFTlRJVFksIFNVQk1FTlVfSURFTlRJRklDQVRJT05fTUVESVVNKTsKICAgICAgICB3YWl0aW5nQWN0aW9ucy53YWl0VGlsbFBhZ2VJc0Z1bGx5TG9hZGVkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVwZGF0ZWRNZWRpdW0uZ2V0VXNlcigpID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGlmICh1c2VyID09IG51bGwgfHwgIXVzZXIuZ2V0SWQoKS5lcXVhbHModXBkYXRlZE1lZGl1bS5nZXRVc2VyKCkuZ2V0SWQoKSkpIHsKICAgICAgICAgICAgICAgICAgICBzZXRFbnRpdHkodXBkYXRlZE1lZGl1bS5nZXRVc2VyKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVwZGF0ZWRNZWRpdW0uZ2V0VXNlcigpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGlmICh1c2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBzZXRFbnRpdHkoc2V0RW50aXR5KHVwZGF0ZWRNZWRpdW0uZ2V0VXNlcigpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEVudGl0eSh1c2VyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9ICgoSWRlbnRpZmljYXRpb25NZWRpdW0pIGV2ZW50LmdldFN1YmplY3QoKSkuZ2V0VXNlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjaGVjayBvbiB1c2VyIHBhZ2UgaWYgc3RpY2sgaGFzIGNoYW5nZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuZ2V0U3ViamVjdCgpIGluc3RhbmNlb2YgSWRlbnRpZmljYXRpb25NZWRpdW0pIHsKICAgICAgICAgICAgVXNlciB1c2VyID0gKChJZGVudGlmaWNhdGlvbk1lZGl1bSkgZXZlbnQuZ2V0U3ViamVjdCgpKS5nZXRVc2VyKCk7CiAgICAgICAgICAgIGlmICh1c2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBvcGVuVGFiKE1FTlVfSURFTlRJVFksIFNVQk1FTlVfVVNFUik7CiAgICAgICAgd2FpdGluZ0FjdGlvbnMud2FpdFRpbGxQYWdlSXNGdWxseUxvYWRlZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
