@@ -250,11 +250,11 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/restriction/SelectRestrictionTypeBean.java" timestamp="1511346305211">
         <mark key="'" line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" timestamp="1511433595487">
-        <mark key="[" line="366" column="91" />
-        <mark key="]" line="367" column="19" />
-        <mark key="^" line="367" column="19" />
-        <mark key="." line="367" column="19" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" timestamp="1511434809314">
+        <mark key="[" line="365" column="68" />
+        <mark key="]" line="367" column="22" />
+        <mark key="." line="367" column="22" />
+        <mark key="^" line="367" column="22" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/PeripheralInterfaceClient.java" timestamp="1507810804152">
         <mark key="[" line="22" column="29" />
@@ -502,34 +502,34 @@
         <text encoding="base64">ICAgICAgICBkZXRhaWxVdGlscy5zYXZlQ2hhbmdlcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVwZGF0ZWRNZWRpdW0uZ2V0VXNlcigpID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGlmICh1c2VyID09IG51bGwgfHwgIXVzZXIuZ2V0SWQoKS5lcXVhbHModXBkYXRlZE1lZGl1bS5nZXRVc2VyKCkuZ2V0SWQoKSkpIHsKICAgICAgICAgICAgICAgICAgICBzZXRFbnRpdHkodXBkYXRlZE1lZGl1bS5nZXRVc2VyKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVwZGF0ZWRNZWRpdW0uZ2V0VXNlcigpID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGlmICh1c2VyID09IG51bGwgfHwgIXVzZXIuZ2V0SWQoKS5lcXVhbHModXBkYXRlZE1lZGl1bS5nZXRVc2VyKCkuZ2V0SWQoKSkpIHsKICAgICAgICAgICAgICAgICAgICBzZXRFbnRpdHkodXBkYXRlZE1lZGl1bS5nZXRVc2VyKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVwZGF0ZWRNZWRpdW0uZ2V0VXNlcigpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGlmICh1c2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBzZXRFbnRpdHkoc2V0RW50aXR5KHVwZGF0ZWRNZWRpdW0uZ2V0VXNlcigpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEVudGl0eSh1c2VyKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9ICgoSWRlbnRpZmljYXRpb25NZWRpdW0pIGV2ZW50LmdldFN1YmplY3QoKSkuZ2V0VXNlcigpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVwZGF0ZWRNZWRpdW0uZ2V0VXNlcigpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGlmICh1c2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBzZXRFbnRpdHkoc2V0RW50aXR5KHVwZGF0ZWRNZWRpdW0uZ2V0VXNlcigpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEVudGl0eSh1c2VyKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9ICgoSWRlbnRpZmljYXRpb25NZWRpdW0pIGV2ZW50LmdldFN1YmplY3QoKSkuZ2V0VXNlcigpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuZ2V0U3ViamVjdCgpIGluc3RhbmNlb2YgSWRlbnRpZmljYXRpb25NZWRpdW0pIHsKICAgICAgICAgICAgVXNlciB1c2VyID0gKChJZGVudGlmaWNhdGlvbk1lZGl1bSkgZXZlbnQuZ2V0U3ViamVjdCgpKS5nZXRVc2VyKCk7CiAgICAgICAgICAgIGlmICh1c2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRFbnRpdHkoZXZlbnQuZ2V0U3ViamVjdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuZ2V0U3ViamVjdCgpIGluc3RhbmNlb2YgSWRlbnRpZmljYXRpb25NZWRpdW0pIHsKICAgICAgICAgICAgVXNlciB1c2VyID0gKChJZGVudGlmaWNhdGlvbk1lZGl1bSkgZXZlbnQuZ2V0U3ViamVjdCgpKS5nZXRVc2VyKCk7CiAgICAgICAgICAgIGlmICh1c2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -572,8 +572,8 @@
         <entry>w</entry>
         <entry>action FindUsages</entry>
         <entry>q</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
