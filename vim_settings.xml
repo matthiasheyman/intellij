@@ -161,6 +161,13 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/user/userTab.xhtml" timestamp="1511445204417">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="315" column="51" />
+        <mark key="]" line="315" column="69" />
+        <mark key="^" line="315" column="69" />
+        <mark key="." line="315" column="69" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1510067515932">
         <mark key="'" line="247" column="17" />
         <mark key="[" line="16" column="66" />
@@ -203,6 +210,11 @@
         <mark key="^" line="540" column="91" />
         <mark key="." line="540" column="91" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" timestamp="1511444744579">
+        <mark key="'" line="134" column="21" />
+        <mark key="[" line="128" column="47" />
+        <mark key="]" line="128" column="81" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/database/liquibase.postinit.ebovision-4.13.xml" timestamp="1510644650861">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="55" />
@@ -228,11 +240,12 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" timestamp="1511443701361">
-        <mark key="'" line="57" column="8" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" timestamp="1511445214929">
+        <mark key="'" line="77" column="8" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="82" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="59" column="84" />
       </file>
       <file name="$USER_HOME$/projects/framework/jefui/src/test/java/com/ebo/jefui/utils/TestQueryProperty.java" timestamp="1507813882487">
         <mark key="[" line="30" column="71" />
@@ -389,11 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="108" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="109" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="110" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/device/identificationmedium/identificationMediumOverviewTab.xhtml" />
       <jump line="15" column="37" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/device/identificationmedium/identificationMediumTab.xhtml" />
       <jump line="23" column="50" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/device/identificationmedium/identificationMediumTab.xhtml" />
       <jump line="147" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/device/identificationmedium/identificationMediumTab.xhtml" />
@@ -489,6 +497,11 @@
       <jump line="70" column="52" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
       <jump line="164" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
       <jump line="54" column="8" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
+      <jump line="128" column="47" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" />
+      <jump line="134" column="21" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/user/userTab.xhtml" />
+      <jump line="77" column="14" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
+      <jump line="67" column="8" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -498,49 +511,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>setValueOfInputAutocomplete</text>
+        <text>assignedStickOrSmartCard</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bVw+</text>
+        <text>identificationmedium</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnNldFZhbHVlT2ZJbnB1dEF1dG9jb21wbGV0ZSgibWVkaXVtVXNlciIsIHVzZXJuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnNldFZhbHVlT2ZJbnB1dENoZWNrYm94KCJoYXNTdGlja09yU21hcnRDYXJkIiwgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnJlbW92ZVZhbHVlT2ZJbnB1dEF1dG9jb21wbGV0ZSgiYXNzaWduZWRTdGlja09yU21hcnRDYXJkIiwgc3RpY2spOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnJlbQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnNldHZhbHVlb2ZpbnB1dGF1dG8oIm1lZGl1bVVzZXIiLCB1c2VybmFtZSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamVmQ29tcG9uZW50QWN0aW9ucy5zZXRWYWx1ZU9mSW5wdXRBdXRvY29tcGxldGUoIm1lZGl1bVVzZXIiLCB1c2VybmFtZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamVmQ29tcG9uZW50QWN0aW9ucy5yZW1vdmVWYWx1ZU9mSW5wdXRBdXRvY29tcGxldGUoIm1lZGl1bVVzZXIiLCBjdXJyZW50VmFsdWUpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2hUb1RhYigiVXNlciIpOwogICAgICAgIGplZkNvbXBvbmVudEFjdGlvbnMucmVtb3ZlVmFsdWVPZklucHV0QXV0b2NvbXBsZXRlKCJhc3NpZ25lZFN0aWNrT3JTbWFydENhcmQiLCBzdGljayk7CiAgICAgICAgZGV0YWlsVXRpbHMuc2F2ZUNoYW5nZXMoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bShudWxsKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnNldFZhbHVlT2ZJbnB1dEF1dG9jb21wbGV0ZSgibWVkaXVtVXNlciIsIHVzZXJuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjaGVjayBhZ2FpbiBzdGljayBpbiB1c2VyIHRhYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamVmQ29tcG9uZW50QWN0aW9ucy5zZXRWYWx1ZU9mSW5wdXRBdXRvY29tcGxldGUoIm1lZGl1bURlc2NyaXB0aW9uIiwgY3VycmVudFZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bSgiIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bVw+</last-search>
+      <last-search>identificationmedium</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bVw+</last-pattern>
+      <last-pattern>identificationmedium</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -548,9 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>applysof</entry>
-        <entry>any</entry>
-        <entry>identification</entry>
         <entry>getpred</entry>
         <entry>event</entry>
         <entry>name</entry>
@@ -568,6 +578,9 @@
         <entry>logger</entry>
         <entry encoding="base64">XDxpbnB1dENvbnRyb2xsZXJcPg==</entry>
         <entry encoding="base64">XDxhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bVw+</entry>
+        <entry>iden</entry>
+        <entry>stick</entry>
+        <entry>identificationmedium</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
