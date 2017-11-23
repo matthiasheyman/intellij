@@ -16,8 +16,8 @@
         <mark key="." line="308" column="17" />
         <mark key="^" line="300" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" timestamp="1511432607236">
-        <mark key="'" line="349" column="35" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" timestamp="1511441904556">
+        <mark key="'" line="164" column="12" />
         <mark key="[" line="254" column="76" />
         <mark key="]" line="254" column="76" />
         <mark key="." line="254" column="76" />
@@ -228,10 +228,11 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" timestamp="1511441356034">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" timestamp="1511443701361">
+        <mark key="'" line="57" column="8" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projects/framework/jefui/src/test/java/com/ebo/jefui/utils/TestQueryProperty.java" timestamp="1507813882487">
         <mark key="[" line="30" column="71" />
@@ -388,12 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="100" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="101" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="103" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="104" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="105" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="107" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="108" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="109" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
@@ -488,6 +483,12 @@
       <jump line="29" column="13" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
       <jump line="68" column="58" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
       <jump line="125" column="11" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
+      <jump line="382" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="386" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="21" column="33" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="70" column="52" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="164" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
+      <jump line="54" column="8" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -497,49 +498,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>setValueOfInputAutocomplete</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text encoding="base64">XDxhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bSgiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnNldFZhbHVlT2ZJbnB1dEF1dG9jb21wbGV0ZSgibWVkaXVtVXNlciIsIHVzZXJuYW1lKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnJlbQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgQEJlZm9yZQovLyAgICBwdWJsaWMgdm9pZCBzZXRVcCgpIHsKLy8gICAgICAgIGFzc2lnblVzZXJUb0lkZW50aWZpY2F0aW9uTWVkaXVtKCJlYm9hZG1pbiIpOwovLyAgICB9Ci8vCi8vICAgIEBBZnRlcgovLyAgICBwdWJsaWMgdm9pZCBicmVha0Rvd24oKSB7Ci8vICAgICAgICBhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bSgiIik7Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnNldHZhbHVlb2ZpbnB1dGF1dG8oIm1lZGl1bVVzZXIiLCB1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamVmQ29tcG9uZW50QWN0aW9ucy5zZXRWYWx1ZU9mSW5wdXRBdXRvY29tcGxldGUoIm1lZGl1bVVzZXIiLCB1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamVmQ29tcG9uZW50QWN0aW9ucy5yZW1vdmVWYWx1ZU9mSW5wdXRBdXRvY29tcGxldGUoIm1lZGl1bVVzZXIiLCBjdXJyZW50VmFsdWUpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnNldFZhbHVlT2ZJbnB1dEF1dG9jb21wbGV0ZSgibWVkaXVtVXNlciIsIHVzZXJuYW1lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamVmQ29tcG9uZW50QWN0aW9ucy5zZXRWYWx1ZU9mSW5wdXRBdXRvY29tcGxldGUoIm1lZGl1bURlc2NyaXB0aW9uIiwgY3VycmVudFZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search encoding="base64">XDxhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bVw+</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bVw+</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -547,8 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>removed</entry>
-        <entry>findwithfil</entry>
         <entry>applysof</entry>
         <entry>any</entry>
         <entry>identification</entry>
@@ -567,6 +566,8 @@
         <entry>throw</entry>
         <entry>savev</entry>
         <entry>logger</entry>
+        <entry encoding="base64">XDxpbnB1dENvbnRyb2xsZXJcPg==</entry>
+        <entry encoding="base64">XDxhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -576,8 +577,8 @@
         <entry>w</entry>
         <entry>action FindUsages</entry>
         <entry>q</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
