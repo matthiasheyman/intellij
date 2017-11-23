@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" timestamp="1511450219616">
+        <mark key="'" line="107" column="59" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" timestamp="1510666729562">
         <mark key="'" line="435" column="66" />
         <mark key="[" line="403" column="0" />
@@ -15,6 +18,9 @@
         <mark key="]" line="308" column="17" />
         <mark key="." line="308" column="17" />
         <mark key="^" line="300" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserServiceImpl.java" timestamp="1511451461683">
+        <mark key="'" line="33" column="57" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" timestamp="1511441904556">
         <mark key="'" line="164" column="12" />
@@ -60,6 +66,12 @@
         <mark key="]" line="121" column="0" />
         <mark key="^" line="104" column="3" />
         <mark key="." line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/AbstractUserServiceImpl.java" timestamp="1511451483811">
+        <mark key="'" line="31" column="22" />
+        <mark key="[" line="294" column="17" />
+        <mark key="]" line="294" column="18" />
+        <mark key="." line="294" column="18" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510565842129">
         <mark key="'" line="132" column="50" />
@@ -114,17 +126,22 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/impl/AbstractUserDAOImpl.java" timestamp="1511346934608">
         <mark key="'" line="130" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/aop/UserAspect.java" timestamp="1511449104350">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="62" column="43" />
-        <mark key="^" line="62" column="43" />
-        <mark key="." line="62" column="43" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/aop/UserAspect.java" timestamp="1511451731546">
+        <mark key="[" line="79" column="33" />
+        <mark key="]" line="79" column="46" />
+        <mark key="." line="79" column="46" />
+        <mark key="^" line="79" column="46" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
         <mark key="[" line="49" column="40" />
         <mark key="]" line="49" column="40" />
         <mark key="^" line="49" column="18" />
         <mark key="." line="49" column="40" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/webservice/impl/AbstractServiceImpl.class" timestamp="1511450430094">
+        <mark key="'" line="101" column="19" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="60" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" timestamp="1510584454464">
         <mark key="'" line="36" column="35" />
@@ -222,7 +239,11 @@
         <mark key="[" line="128" column="47" />
         <mark key="]" line="128" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoiceProxyPhoneServiceImpl.java" timestamp="1511448817816" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoiceProxyPhoneServiceImpl.java" timestamp="1511451026193">
+        <mark key="[" line="343" column="0" />
+        <mark key="]" line="343" column="0" />
+        <mark key="." line="343" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/database/liquibase.postinit.ebovision-4.13.xml" timestamp="1510644650861">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="55" />
@@ -409,28 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="275" column="32" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="323" column="55" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="330" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="340" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="347" column="55" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="75" column="17" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="114" column="11" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="115" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="119" column="32" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="121" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="128" column="14" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="130" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="131" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="132" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="133" column="48" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="134" column="15" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="138" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="139" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="145" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="153" column="99" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="166" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="167" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="175" column="100" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="176" column="95" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
@@ -509,6 +508,28 @@
       <jump line="18" column="11" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
       <jump line="37" column="5" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
       <jump line="66" column="24" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
+      <jump line="442" column="36" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="101" column="13" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="102" column="34" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="105" column="16" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="136" column="19" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="143" column="50" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="78" column="17" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="112" column="43" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="113" column="20" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="114" column="60" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="697" column="54" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="699" column="28" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="702" column="28" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="37" column="42" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="107" column="59" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
+      <jump line="297" column="46" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/webservice/impl/AbstractServiceImpl.class" />
+      <jump line="1" column="17" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/webservice/impl/AbstractServiceImpl.class" />
+      <jump line="83" column="16" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/webservice/impl/AbstractServiceImpl.class" />
+      <jump line="101" column="19" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/webservice/impl/AbstractServiceImpl.class" />
+      <jump line="250" column="34" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserServiceImpl.java" />
+      <jump line="33" column="57" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserServiceImpl.java" />
+      <jump line="31" column="22" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/AbstractUserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -518,49 +539,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>stick</text>
+        <text encoding="base64">ICYmIGFyZ3ModXNlcik=</text>
       </register>
       <register name="/" type="4">
-        <text>phoen</text>
+        <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVydmlld1V0aWxzLmVkaXREZXRhaWwoVUlVdGlscy5nZXRNZXNzYWdlKCJhc3NldC5uYW1lIiwgTG9jYWxlLkVOR0xJU0gpLCBzdGljayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyU2VydmljZS5maW5kQnlJZCh1c2VySWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVydmlld1V0aWxzLmVkaXREZXRhaWwoImFzc2V0Lm5hbWUiLCAiQkVWMDAwMV90ZXN0Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLmFzc2VydFZhbHVlT2ZJbnB1dEF1dG9jb21wbGV0ZSgiYXNzaWduZWRTdGlja09yU21hcnRDYXJkIiwgIkJFVjAwMDFfdGVzdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZVBob25lTnVtYmVycyh1c2VyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqZWZDb21wb25lbnRBY3Rpb25zLnJlbW92ZVZhbHVlT2ZJbnB1dEF1dG9jb21wbGV0ZSgiYXNzaWduZWRTdGlja09yU21hcnRDYXJkIiwgc3RpY2spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBZnRlclJldHVybmluZyh2YWx1ZSA9ICJ0aGlzKGNvbS5lYm8uamVmLndlYnNlcnZpY2UuQWJzdHJhY3RTZXJ2aWNlKSAmJiBleGVjdXRpb24oKiBjcmVhdGUoLi4pKSAmJiBhcmdzKHVzZXIpIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2hUb1RhYigiVXNlciIpOwogICAgICAgIGplZkNvbXBvbmVudEFjdGlvbnMucmVtb3ZlVmFsdWVPZklucHV0QXV0b2NvbXBsZXRlKCJhc3NpZ25lZFN0aWNrT3JTbWFydENhcmQiLCBzdGljayk7CiAgICAgICAgZGV0YWlsVXRpbHMuc2F2ZUNoYW5nZXMoKTsK</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bShudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoIi0tLSBTVEFSVCBwZXJmb3JtVXBkYXRlKCk6IGxkYXBVc2VyICIgKyB1c2VycyArICIgLS0tIik7CgoKICAgICAgICBMT0dHRVIuZGVidWcoIi0tLSBFTkQgcGVyZm9ybVVwZGF0ZSgpIC0tLSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5UGhvbmVTZXJ2aWNlLmdlbmVyYXRlVm9pY2VQcm94eVBob25lKHVzZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5UGhvbmVTZXJ2aWNlLmdlbmVyYXRlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
-      <last-search>phoen</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>phoen</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -568,9 +589,6 @@
     </search>
     <history>
       <history-search>
-        <entry>messages</entry>
-        <entry>description</entry>
-        <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry encoding="base64">XDxzdGlja09yU21hcnRDYXJkc1w+</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>save</entry>
@@ -588,6 +606,9 @@
         <entry>test</entry>
         <entry>pbx</entry>
         <entry>phoen</entry>
+        <entry>merge</entry>
+        <entry>update</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -595,10 +616,10 @@
         <entry>action CommentByLineComment</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>action FindUsages</entry>
         <entry>q</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
