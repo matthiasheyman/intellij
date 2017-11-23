@@ -228,11 +228,10 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" timestamp="1511436049966">
-        <mark key="[" line="83" column="8" />
-        <mark key="]" line="84" column="39" />
-        <mark key="." line="84" column="39" />
-        <mark key="^" line="84" column="39" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" timestamp="1511441356034">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/framework/jefui/src/test/java/com/ebo/jefui/utils/TestQueryProperty.java" timestamp="1507813882487">
         <mark key="[" line="30" column="71" />
@@ -374,8 +373,8 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" timestamp="1510663848709">
-        <mark key="'" line="130" column="7" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" timestamp="1511440761678">
+        <mark key="'" line="125" column="11" />
         <mark key="[" line="191" column="4" />
         <mark key="]" line="191" column="12" />
         <mark key="." line="191" column="12" />
@@ -389,9 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="914" column="103" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
-      <jump line="728" column="9" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
-      <jump line="66" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="99" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="100" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="101" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
@@ -489,6 +485,9 @@
       <jump line="349" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
       <jump line="365" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="367" column="40" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
+      <jump line="68" column="58" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
+      <jump line="125" column="11" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -498,22 +497,22 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>jefComponentActions.verifyInfoMessage(UIUtils.getMessage(&quot;info.updateSuccessFul&quot;));</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>savev</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuVGFiKE1FTlVfSURFTlRJVFksIFNVQk1FTlVfSURFTlRJRklDQVRJT05fTUVESVVNKTsKICAgICAgICB3YWl0aW5nQWN0aW9ucy53YWl0VGlsbFBhZ2VJc0Z1bGx5TG9hZGVkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bSgiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgQEJlZm9yZQovLyAgICBwdWJsaWMgdm9pZCBzZXRVcCgpIHsKLy8gICAgICAgIGFzc2lnblVzZXJUb0lkZW50aWZpY2F0aW9uTWVkaXVtKCJlYm9hZG1pbiIpOwovLyAgICB9Ci8vCi8vICAgIEBBZnRlcgovLyAgICBwdWJsaWMgdm9pZCBicmVha0Rvd24oKSB7Ci8vICAgICAgICBhc3NpZ25Vc2VyVG9JZGVudGlmaWNhdGlvbk1lZGl1bSgiIik7Ci8vICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -522,25 +521,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjaGVjayBvbiB1c2VyIHBhZ2UgaWYgc3RpY2sgaGFzIGNoYW5nZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuVGFiKE1FTlVfSURFTlRJVFksIFNVQk1FTlVfVVNFUik7CiAgICAgICAgd2FpdGluZ0FjdGlvbnMud2FpdFRpbGxQYWdlSXNGdWxseUxvYWRlZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>savev</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>savev</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -548,7 +547,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
         <entry>removed</entry>
         <entry>findwithfil</entry>
         <entry>applysof</entry>
@@ -568,6 +566,7 @@
         <entry>valid</entry>
         <entry>throw</entry>
         <entry>savev</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
