@@ -114,6 +114,12 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/impl/AbstractUserDAOImpl.java" timestamp="1511346934608">
         <mark key="'" line="130" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/aop/UserAspect.java" timestamp="1511449104350">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="43" />
+        <mark key="^" line="62" column="43" />
+        <mark key="." line="62" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
         <mark key="[" line="49" column="40" />
         <mark key="]" line="49" column="40" />
@@ -216,6 +222,7 @@
         <mark key="[" line="128" column="47" />
         <mark key="]" line="128" column="81" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoiceProxyPhoneServiceImpl.java" timestamp="1511448817816" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/database/liquibase.postinit.ebovision-4.13.xml" timestamp="1510644650861">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="55" />
@@ -269,7 +276,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/restriction/SelectRestrictionTypeBean.java" timestamp="1511346305211">
         <mark key="'" line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" timestamp="1511447145434">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" timestamp="1511448871864">
         <mark key="[" line="385" column="13" />
         <mark key="]" line="386" column="11" />
         <mark key="." line="386" column="11" />
@@ -547,7 +554,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -590,8 +597,8 @@
         <entry>w</entry>
         <entry>action FindUsages</entry>
         <entry>q</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
