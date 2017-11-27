@@ -102,12 +102,12 @@
         <mark key="." line="278" column="54" />
         <mark key="^" line="278" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511781464625">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511788876851">
         <mark key="'" line="95" column="4" />
-        <mark key="[" line="132" column="46" />
-        <mark key="]" line="132" column="95" />
-        <mark key="^" line="132" column="98" />
-        <mark key="." line="132" column="46" />
+        <mark key="[" line="125" column="35" />
+        <mark key="]" line="125" column="39" />
+        <mark key="^" line="125" column="39" />
+        <mark key="." line="125" column="39" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdapUser.java" timestamp="1511768887665">
         <mark key="'" line="47" column="13" />
@@ -549,7 +549,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>The phone number could not be removed from the PBX server.</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>voiceprox</text>
