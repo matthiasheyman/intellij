@@ -95,13 +95,20 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" timestamp="1511432569115">
         <mark key="'" line="54" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1510743831400">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="547" column="0" />
-        <mark key="]" line="547" column="0" />
-        <mark key="." line="547" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1511777837318">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="108" />
+        <mark key="." line="278" column="54" />
+        <mark key="^" line="278" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511776504965" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511778450730">
+        <mark key="'" line="129" column="12" />
+        <mark key="[" line="132" column="46" />
+        <mark key="]" line="132" column="95" />
+        <mark key="^" line="132" column="98" />
+        <mark key="." line="132" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdapUser.java" timestamp="1511768887665">
         <mark key="'" line="47" column="13" />
         <mark key="[" line="210" column="0" />
@@ -233,12 +240,12 @@
         <mark key="^" line="38" column="36" />
         <mark key="." line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" timestamp="1510655246771">
-        <mark key="'" line="85" column="125" />
-        <mark key="[" line="540" column="93" />
-        <mark key="]" line="540" column="91" />
-        <mark key="^" line="540" column="91" />
-        <mark key="." line="540" column="91" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" timestamp="1511777985907">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="48" />
+        <mark key="^" line="271" column="112" />
+        <mark key="." line="271" column="112" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" timestamp="1511444744579">
         <mark key="'" line="134" column="21" />
@@ -330,12 +337,12 @@
         <mark key="." line="89" column="42" />
         <mark key="^" line="89" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1510655272536">
-        <mark key="'" line="86" column="91" />
-        <mark key="[" line="537" column="0" />
-        <mark key="]" line="537" column="88" />
-        <mark key="^" line="537" column="0" />
-        <mark key="." line="537" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1511777893141">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="269" column="81" />
+        <mark key="]" line="269" column="82" />
+        <mark key="^" line="269" column="82" />
+        <mark key="." line="269" column="82" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1510748271398">
         <mark key="[" line="0" column="0" />
@@ -433,10 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="261" column="115" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="262" column="91" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="263" column="71" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="264" column="81" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="270" column="91" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="290" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
@@ -533,6 +536,10 @@
       <jump line="117" column="14" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoiceProxyPhoneServiceImpl.java" />
       <jump line="368" column="73" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="48" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoiceProxyPhoneServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
+      <jump line="129" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -542,49 +549,53 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>assertTrue</text>
+        <text>The phone number could not be removed from the PBX server.</text>
       </register>
       <register name="/" type="4">
-        <text>delete(</text>
+        <text>voiceproxy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZUxkYXAuc3luY2hyb25pemUoKTsK</text>
+      <register name="0" type="4">
+        <text>error.voiceproxyphone.deleteFailedNoPbxConnection</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>else {
+                threadResult = true;
+            }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>else {
+                callThreadResult = true;
+            }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZUxkYXBVc2Vycy5zeW5jaHJvbml6ZVVzZXIoZ3VpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFZvaWNlUHJveHlQaG9uZT4gdXNlclBob25lcyA9IHZvaWNlUHJveHlQaG9uZVNlcnZpY2UuZmluZEJ5UHJvcGVydHlJZChWb2ljZVByb3h5UGhvbmUuRklFTERfVVNFUiwgdXNlci5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZUxkYXBVc2Vycy5zeW5jaHJvbml6ZVVzZXIoZ3VpZCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>delete(</last-search>
+      <last-search>voiceproxy</last-search>
       <last-offset />
-      <last-pattern>delete(</last-pattern>
+      <last-pattern>voiceproxy</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -592,7 +603,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validate</entry>
         <entry>saveva</entry>
         <entry>valid</entry>
         <entry>throw</entry>
@@ -612,6 +622,7 @@
         <entry>deleteph</entry>
         <entry>phone</entry>
         <entry>delete(</entry>
+        <entry>voiceproxy</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -620,9 +631,10 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>q</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action :cursive.actions.paredit/wrap-quotes</entry>
       </history-cmd>
       <history-expr />
       <history-input />
