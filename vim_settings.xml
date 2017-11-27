@@ -102,8 +102,8 @@
         <mark key="." line="278" column="54" />
         <mark key="^" line="278" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511778489134">
-        <mark key="'" line="108" column="43" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511781464625">
+        <mark key="'" line="95" column="4" />
         <mark key="[" line="132" column="46" />
         <mark key="]" line="132" column="95" />
         <mark key="^" line="132" column="98" />
@@ -440,7 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="291" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="292" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="293" column="72" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
@@ -540,6 +539,7 @@
       <jump line="129" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
       <jump line="107" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
       <jump line="108" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
+      <jump line="95" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -589,7 +589,7 @@
         <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZUxkYXBVc2Vycy5zeW5jaHJvbml6ZVVzZXIoZ3VpZCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -631,11 +631,11 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>q</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
         <entry>noh</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
