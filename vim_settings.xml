@@ -102,8 +102,8 @@
         <mark key="." line="278" column="54" />
         <mark key="^" line="278" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511778450730">
-        <mark key="'" line="129" column="12" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511778489134">
+        <mark key="'" line="108" column="43" />
         <mark key="[" line="132" column="46" />
         <mark key="]" line="132" column="95" />
         <mark key="^" line="132" column="98" />
@@ -440,8 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="81" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="270" column="91" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="290" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="291" column="29" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="292" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
@@ -540,6 +538,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
       <jump line="129" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
+      <jump line="107" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
+      <jump line="108" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -552,7 +552,7 @@
         <text>The phone number could not be removed from the PBX server.</text>
       </register>
       <register name="/" type="4">
-        <text>voiceproxy</text>
+        <text>voiceprox</text>
       </register>
       <register name="0" type="4">
         <text>error.voiceproxyphone.deleteFailedNoPbxConnection</text>
@@ -589,21 +589,20 @@
         <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZUxkYXBVc2Vycy5zeW5jaHJvbml6ZVVzZXIoZ3VpZCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>voiceproxy</last-search>
+      <last-search>voiceprox</last-search>
       <last-offset />
-      <last-pattern>voiceproxy</last-pattern>
+      <last-pattern>voiceprox</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>saveva</entry>
         <entry>valid</entry>
         <entry>throw</entry>
         <entry>savev</entry>
@@ -623,6 +622,7 @@
         <entry>phone</entry>
         <entry>delete(</entry>
         <entry>voiceproxy</entry>
+        <entry>voiceprox</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -635,6 +635,7 @@
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
