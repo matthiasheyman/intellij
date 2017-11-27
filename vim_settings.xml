@@ -102,12 +102,12 @@
         <mark key="." line="278" column="54" />
         <mark key="^" line="278" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511788876851">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511791984778">
         <mark key="'" line="95" column="4" />
-        <mark key="[" line="125" column="35" />
-        <mark key="]" line="125" column="39" />
-        <mark key="^" line="125" column="39" />
-        <mark key="." line="125" column="39" />
+        <mark key="[" line="128" column="16" />
+        <mark key="]" line="128" column="34" />
+        <mark key="^" line="128" column="34" />
+        <mark key="." line="128" column="34" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdapUser.java" timestamp="1511768887665">
         <mark key="'" line="47" column="13" />
