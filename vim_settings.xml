@@ -101,6 +101,12 @@
         <mark key="]" line="547" column="0" />
         <mark key="." line="547" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdapUser.java" timestamp="1511768887665">
+        <mark key="'" line="47" column="13" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestVideoResourceActorService.java" timestamp="1509978856043">
         <mark key="'" line="54" column="29" />
         <mark key="[" line="182" column="0" />
@@ -207,7 +213,6 @@
         <mark key="." line="643" column="0" />
         <mark key="^" line="641" column="65" />
       </file>
-      <file name="/UserBean.java" timestamp="1511447141259" />
       <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/model/DVDPostMovieActor.java" timestamp="1509445855124">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="5" column="3" />
@@ -386,6 +391,13 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="239" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" timestamp="1511770540317">
+        <mark key="'" line="75" column="56" />
+        <mark key="[" line="384" column="0" />
+        <mark key="]" line="384" column="0" />
+        <mark key="." line="384" column="0" />
+        <mark key="^" line="396" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
@@ -430,14 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="30" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="175" column="100" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="176" column="95" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="191" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="192" column="58" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="232" column="14" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="246" column="35" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
-      <jump line="248" column="115" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="249" column="71" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="250" column="81" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="254" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
@@ -530,6 +534,14 @@
       <jump line="250" column="34" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserServiceImpl.java" />
       <jump line="33" column="57" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserServiceImpl.java" />
       <jump line="31" column="22" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/AbstractUserServiceImpl.java" />
+      <jump line="47" column="13" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdapUser.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
+      <jump line="272" column="42" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
+      <jump line="174" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
+      <jump line="386" column="26" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
+      <jump line="52" column="13" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
+      <jump line="381" column="7" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
+      <jump line="75" column="56" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -539,40 +551,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIGFyZ3ModXNlcik=</text>
+        <text>user.getVoiceProxyPhones().isEmpty()</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyU2VydmljZS5maW5kQnlJZCh1c2VySWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFZvaWNlUHJveHlQaG9uZT4gdXNlclBob25lcyA9IHZvaWNlUHJveHlQaG9uZVNlcnZpY2UuZmluZEJ5UHJvcGVydHlJZChWb2ljZVByb3h5UGhvbmUuRklFTERfVVNFUiwgdXNlci5nZXRJZCgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZVBob25lTnVtYmVycyh1c2VyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFZvaWNlUHJveHlQaG9uZSB2cHAgOiB1c2VyUGhvbmVzKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBZnRlclJldHVybmluZyh2YWx1ZSA9ICJ0aGlzKGNvbS5lYm8uamVmLndlYnNlcnZpY2UuQWJzdHJhY3RTZXJ2aWNlKSAmJiBleGVjdXRpb24oKiBjcmVhdGUoLi4pKSAmJiBhcmdzKHVzZXIpIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9pY2VQcm94eVBob25lU2VydmljZS5kZWxldGVWb2ljZVByb3h5UGhvbmUodXNlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyUGhvbmVzLmFkZEFsbCh1c2VyLmdldFZvaWNlUHJveHlQaG9uZXMoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoIi0tLSBTVEFSVCBwZXJmb3JtVXBkYXRlKCk6IGxkYXBVc2VyICIgKyB1c2VycyArICIgLS0tIik7CgoKICAgICAgICBMT0dHRVIuZGVidWcoIi0tLSBFTkQgcGVyZm9ybVVwZGF0ZSgpIC0tLSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5UGhvbmVTZXJ2aWNlLmdlbmVyYXRlVm9pY2VQcm94eVBob25lKHVzZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5UGhvbmVTZXJ2aWNlLmdlbmVyYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindUsages</text>
@@ -585,7 +597,7 @@
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
