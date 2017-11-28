@@ -18,8 +18,6 @@
       <mask>*cs</mask>
       <mask>*css</mask>
       <mask>*.xml</mask>
-      <mask>*.xhml</mask>
-      <mask>*.xhtml</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
@@ -32,6 +30,8 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.xhml</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
