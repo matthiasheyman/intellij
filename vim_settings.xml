@@ -74,8 +74,11 @@
         <mark key="^" line="104" column="3" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/voice/voiceProxyPhoneTab.xhtml" timestamp="1511856668781">
-        <mark key="'" line="17" column="41" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/voice/voiceProxyPhoneTab.xhtml" timestamp="1511858196688">
+        <mark key="'" line="43" column="61" />
+        <mark key="[" line="45" column="173" />
+        <mark key="]" line="45" column="173" />
+        <mark key="." line="45" column="173" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/AbstractUserServiceImpl.java" timestamp="1511451483811">
         <mark key="'" line="31" column="22" />
@@ -463,10 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/general/SavableDetailBean.java" />
-      <jump line="54" column="8" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
-      <jump line="128" column="47" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" />
-      <jump line="134" column="21" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/user/TestUser.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/user/userTab.xhtml" />
       <jump line="77" column="14" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
       <jump line="67" column="8" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
@@ -562,7 +561,11 @@
       <jump line="498" column="65" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/user/UserBean.java" />
       <jump line="132" column="133" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/voice/VoiceProxyPhoneBean.java" />
       <jump line="112" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/voice/VoiceProxyPhoneBean.java" />
+      <jump line="45" column="151" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/voice/voiceProxyPhoneTab.xhtml" />
+      <jump line="82" column="69" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/voice/voiceProxyPhoneTab.xhtml" />
       <jump line="17" column="41" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/voice/voiceProxyPhoneTab.xhtml" />
+      <jump line="31" column="65" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/voice/voiceProxyPhoneTab.xhtml" />
+      <jump line="43" column="61" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/voice/voiceProxyPhoneTab.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -575,42 +578,40 @@
         <text>resourceInputController</text>
       </register>
       <register name="-" type="4">
-        <text>channelResourceInputController</text>
+        <text encoding="base64">IHJlbmRlcj0icGhvbmVOdW1iZXIi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2cHBJbnB1dENvbnRyb2xsZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>resourceInputController</text>
+        <text>generatePhoneNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBZG1pblZvaWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxqZWY6cmVtb3RlQ29tbWFuZCBuYW1lPSJnZW5lcmF0ZVBob25lTnVtYmVyIiBhY3Rpb249IiN7dm9pY2VQcm94eVBob25lQmVhbi5nZW5lcmF0ZVBob25lTnVtYmVyKCl9IiByZW5kZXI9InBob25lTnVtYmVyIiAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdS5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBBZG1pblZvaWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW1Vc2VyIHN1ID0gbmV3IFN5c3RlbVVzZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdS5zZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW1Vc2VyIHN1ID0gbmV3IFN5c3RlbVVzZXIoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-                threadResult = true;
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -627,7 +628,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
         <entry>pbx</entry>
         <entry>phoen</entry>
         <entry>merge</entry>
@@ -646,6 +646,7 @@
         <entry>phone</entry>
         <entry encoding="base64">XDxvcGVuVm9pY2VQcm94eVBob25lXD4=</entry>
         <entry>openvoicepro</entry>
+        <entry encoding="base64">XDxyZWZyZXNoUGhvbmVOdW1iZXJcPg==</entry>
         <entry encoding="base64">XDx2cHBJbnB1dENvbnRyb2xsZXJcPg==</entry>
       </history-search>
       <history-cmd>
