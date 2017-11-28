@@ -123,6 +123,9 @@
         <mark key="." line="278" column="54" />
         <mark key="^" line="278" column="54" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511865240025">
+        <mark key="'" line="91" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdapUser.java" timestamp="1511768887665">
         <mark key="'" line="47" column="13" />
         <mark key="[" line="210" column="0" />
@@ -363,8 +366,8 @@
         <mark key="." line="89" column="42" />
         <mark key="^" line="89" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" timestamp="1511864441283">
-        <mark key="'" line="186" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" timestamp="1511865257339">
+        <mark key="'" line="66" column="45" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1511777893141">
         <mark key="'" line="0" column="0" />
@@ -491,8 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="51" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
-      <jump line="5" column="17" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
       <jump line="14" column="84" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
       <jump line="18" column="11" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
       <jump line="37" column="5" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
@@ -591,6 +592,8 @@
       <jump line="171" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/AbstractUserServiceImpl.java" />
       <jump line="62" column="13" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="186" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="91" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
+      <jump line="66" column="45" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -639,7 +642,7 @@
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8VD4gZmluZEZvclNlbGVjdGlvbkZvckNvbmZpZ3VyYXRpb25zKFN0cmluZyBjaGFyYWN0ZXJTZWxlY3RlZCwgTGlzdDxMb25nPiBjb25maWd1cmF0aW9uSWRzKSB0aHJvd3MgTG9jYWxpemVkRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdXNlckRBTy5maW5kRm9yU2VsZWN0aW9uRm9yQ29uZmlndXJhdGlvbnMoY2hhcmFjdGVyU2VsZWN0ZWQsIGNvbmZpZ3VyYXRpb25JZHMpOwogICAgfQoKICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -682,10 +685,10 @@
         <entry>w</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
