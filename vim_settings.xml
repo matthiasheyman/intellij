@@ -74,11 +74,12 @@
         <mark key="^" line="104" column="3" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/voice/voiceProxyPhoneTab.xhtml" timestamp="1511858196688">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/voice/voiceProxyPhoneTab.xhtml" timestamp="1511859091198">
         <mark key="'" line="43" column="61" />
-        <mark key="[" line="45" column="173" />
-        <mark key="]" line="45" column="173" />
-        <mark key="." line="45" column="173" />
+        <mark key="[" line="47" column="118" />
+        <mark key="]" line="45" column="151" />
+        <mark key="." line="45" column="151" />
+        <mark key="^" line="45" column="151" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/AbstractUserServiceImpl.java" timestamp="1511451483811">
         <mark key="'" line="31" column="22" />
@@ -342,8 +343,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/voice/VoiceProxyPhoneBean.java" timestamp="1511856641077">
-        <mark key="'" line="112" column="27" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/voice/VoiceProxyPhoneBean.java" timestamp="1511859302385">
+        <mark key="'" line="114" column="27" />
+        <mark key="[" line="67" column="69" />
+        <mark key="]" line="67" column="80" />
+        <mark key="^" line="67" column="80" />
+        <mark key="." line="67" column="80" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentificationImpl.java" timestamp="1511355608542">
         <mark key="'" line="82" column="0" />
@@ -399,6 +404,7 @@
         <mark key="]" line="342" column="0" />
         <mark key="." line="342" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/com/ebo/jefui/model/input/InputController.class" timestamp="1511859178672" />
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/SynchronizeLdap.java" timestamp="1510927790601">
         <mark key="'" line="22" column="13" />
       </file>
@@ -578,7 +584,7 @@
         <text>resourceInputController</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlbmRlcj0icGhvbmVOdW1iZXIi</text>
+        <text encoding="base64">IHByb2Nlc3M9InBob25lTnVtYmVyIg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2cHBJbnB1dENvbnRyb2xsZXJcPg==</text>
@@ -614,7 +620,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -659,8 +665,8 @@
         <entry>action FindUsages</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>noh</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
