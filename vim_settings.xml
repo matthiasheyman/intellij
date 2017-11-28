@@ -101,6 +101,9 @@
         <mark key="." line="419" column="28" />
         <mark key="^" line="419" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceThread.java" timestamp="1511868454707">
+        <mark key="'" line="421" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoOnDemandServerServiceImpl.java" timestamp="1509463028148">
         <mark key="[" line="55" column="45" />
         <mark key="]" line="55" column="44" />
@@ -123,12 +126,11 @@
         <mark key="." line="278" column="54" />
         <mark key="^" line="278" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511866755871">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511868890730">
         <mark key="'" line="91" column="38" />
-        <mark key="[" line="125" column="35" />
-        <mark key="]" line="125" column="38" />
-        <mark key="." line="125" column="38" />
-        <mark key="^" line="125" column="38" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdapUser.java" timestamp="1511768887665">
         <mark key="'" line="47" column="13" />
@@ -253,11 +255,11 @@
         <mark key="^" line="184" column="17" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/aspect/TestVoiceProxyAspect.java" timestamp="1511795979090">
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/aspect/TestVoiceProxyAspect.java" timestamp="1511868709482">
         <mark key="'" line="33" column="60" />
         <mark key="[" line="29" column="9" />
-        <mark key="]" line="29" column="44" />
-        <mark key="." line="29" column="44" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="9" />
         <mark key="^" line="29" column="44" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/login/TestIdentification.java" timestamp="1510664614685">
@@ -453,6 +455,9 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceContext.java" timestamp="1511868516664">
+        <mark key="'" line="51" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
@@ -498,8 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="11" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
-      <jump line="37" column="5" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
       <jump line="66" column="24" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
       <jump line="442" column="36" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
       <jump line="101" column="13" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
@@ -598,6 +601,8 @@
       <jump line="91" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
       <jump line="66" column="45" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="245" column="83" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="421" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceThread.java" />
+      <jump line="51" column="44" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceContext.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -610,7 +615,7 @@
         <text>resourceInputController</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>(expected = LocalizedException.class)</text>
       </register>
       <register name="/" type="4">
         <text>updatemu</text>
@@ -619,34 +624,34 @@
         <text>generatePhoneNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwogICAgQERlcHJlY2F0ZWQKICAgIEBERUxFVEUKICAgIEBQYXRoKHZhbHVlID0gIi9kZWxldGUiKQogICAgQFRyYW5zYWN0aW9uYWwocHJvcGFnYXRpb24gPSBQcm9wYWdhdGlvbi5SRVFVSVJFRCwgcm9sbGJhY2tGb3IgPSBFeGNlcHRpb24uY2xhc3MpCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZUFsbChMaXN0PExvbmc+IGlkcykgdGhyb3dzIExvY2FsaXplZEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGlkcyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoTG9uZyBpZCA6IGlkcykgewogICAgICAgICAgICAgICAgZGVsZXRlKGlkKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwogICAgQERlcHJlY2F0ZWQKICAgIEBERUxFVEUKICAgIEBQYXRoKHZhbHVlID0gIi9kZWxldGUiKQogICAgQFRyYW5zYWN0aW9uYWwocHJvcGFnYXRpb24gPSBQcm9wYWdhdGlvbi5SRVFVSVJFRCwgcm9sbGJhY2tGb3IgPSBFeGNlcHRpb24uY2xhc3MpCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZUFsbChMaXN0PExvbmc+IGlkcykgdGhyb3dzIExvY2FsaXplZEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGlkcyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoTG9uZyBpZCA6IGlkcykgewogICAgICAgICAgICAgICAgZGVsZXRlKGlkKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgQ29uZmlndXJhdGlvbkRBTyBjb25maWd1cmF0aW9uREFPOwoKICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgSWRlbnRpZmljYXRpb25NZWRpdW1EQU8gaWRlbnRpZmljYXRpb25NZWRpdW1EQU87CgogICAgQEF1dG93aXJlZChyZXF1aXJlZCA9IGZhbHNlKQogICAgcHJpdmF0ZSBJZGVudGlmaWNhdGlvbk1lZGl1bVNlcnZpY2UgaWRlbnRpZmljYXRpb25NZWRpdW1TZXJ2aWNlOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgQ29uZmlndXJhdGlvbkRBTyBjb25maWd1cmF0aW9uREFPOwoKICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgSWRlbnRpZmljYXRpb25NZWRpdW1EQU8gaWRlbnRpZmljYXRpb25NZWRpdW1EQU87CgogICAgQEF1dG93aXJlZChyZXF1aXJlZCA9IGZhbHNlKQogICAgcHJpdmF0ZSBJZGVudGlmaWNhdGlvbk1lZGl1bVNlcnZpY2UgaWRlbnRpZmljYXRpb25NZWRpdW1TZXJ2aWNlOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8VD4gZmluZEZvclNlbGVjdGlvbkZvckNvbmZpZ3VyYXRpb25zKFN0cmluZyBjaGFyYWN0ZXJTZWxlY3RlZCwgTGlzdDxMb25nPiBjb25maWd1cmF0aW9uSWRzKSB0aHJvd3MgTG9jYWxpemVkRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdXNlckRBTy5maW5kRm9yU2VsZWN0aW9uRm9yQ29uZmlndXJhdGlvbnMoY2hhcmFjdGVyU2VsZWN0ZWQsIGNvbmZpZ3VyYXRpb25JZHMpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8VD4gZmluZEZvclNlbGVjdGlvbkZvckNvbmZpZ3VyYXRpb25zKFN0cmluZyBjaGFyYWN0ZXJTZWxlY3RlZCwgTGlzdDxMb25nPiBjb25maWd1cmF0aW9uSWRzKSB0aHJvd3MgTG9jYWxpemVkRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdXNlckRBTy5maW5kRm9yU2VsZWN0aW9uRm9yQ29uZmlndXJhdGlvbnMoY2hhcmFjdGVyU2VsZWN0ZWQsIGNvbmZpZ3VyYXRpb25JZHMpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8VD4gZmluZEZvclNlbGVjdGlvbkZvckNvbmZpZ3VyYXRpb25zKFN0cmluZyBjaGFyYWN0ZXJTZWxlY3RlZCwgTGlzdDxMb25nPiBjb25maWd1cmF0aW9uSWRzKSB0aHJvd3MgTG9jYWxpemVkRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdXNlckRBTy5maW5kRm9yU2VsZWN0aW9uRm9yQ29uZmlndXJhdGlvbnMoY2hhcmFjdGVyU2VsZWN0ZWQsIGNvbmZpZ3VyYXRpb25JZHMpOwogICAgfQoKICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIGgK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -688,11 +693,11 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
-        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
         <entry>q</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>noh</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
