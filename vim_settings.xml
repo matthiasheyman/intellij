@@ -238,11 +238,11 @@
         <mark key="]" line="453" column="0" />
         <mark key="." line="453" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511877244604">
-        <mark key="[" line="333" column="46" />
-        <mark key="]" line="334" column="45" />
-        <mark key="." line="334" column="45" />
-        <mark key="^" line="334" column="45" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511878291453">
+        <mark key="[" line="326" column="0" />
+        <mark key="]" line="326" column="0" />
+        <mark key="." line="326" column="0" />
+        <mark key="^" line="326" column="29" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/VideoResourceDAO.java" timestamp="1509706900909">
         <mark key="[" line="12" column="14" />
@@ -266,12 +266,6 @@
         <mark key="]" line="308" column="17" />
         <mark key="." line="308" column="17" />
         <mark key="^" line="300" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/service/remoteoperations/RemoteOperationsOverviewBean.java" timestamp="1511876040190">
-        <mark key="[" line="181" column="45" />
-        <mark key="]" line="182" column="15" />
-        <mark key="^" line="182" column="15" />
-        <mark key="." line="182" column="15" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510567447100">
         <mark key="'" line="160" column="20" />
@@ -487,7 +481,7 @@
         <mark key="^" line="2" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/com/ebo/jefui/model/input/InputController.class" timestamp="1511861124007" />
-      <file name="/fragment.java" timestamp="1511860519891">
+      <file name="/fragment.java" timestamp="1511878076491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -629,33 +623,33 @@
         <text>generatePhoneNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi53YXJuKCJSZWNlaXZlZCBDTElFTlRfSFcgU1RBUlQgZXZlbnQgYnV0IGEgc3RhcnQgZXZlbnQgYWxyZWFkeSBleGlzdHMgZm9yIHRoaXMgY2xpZW50ISIgKyBjZUxpc3QuZ2V0KDApKTsKICAgICAgICAgICAgICAgIHJldHVybiBjbGllbnRIVy5nZXRJZCgpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>else {
                 
             }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhY3RpdmF0ZUNsaWVudEhXLmdldAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhY3RpdmF0ZUNsaWVudEhXLgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnRPU1ZlcnNpb25zLmdldChjbGllbnRId0lkKS5hZGQobGJsKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyLmFuZChDbGllbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
