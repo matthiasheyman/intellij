@@ -3,21 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" timestamp="1511450219616">
-        <mark key="'" line="107" column="59" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserAuthentication.java" timestamp="1510666729562">
         <mark key="'" line="435" column="66" />
         <mark key="[" line="403" column="0" />
         <mark key="]" line="403" column="0" />
         <mark key="." line="403" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1509967113750">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="308" column="16" />
-        <mark key="]" line="308" column="17" />
-        <mark key="." line="308" column="17" />
-        <mark key="^" line="300" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserServiceImpl.java" timestamp="1511451461683">
         <mark key="'" line="33" column="57" />
@@ -28,19 +18,6 @@
         <mark key="]" line="254" column="76" />
         <mark key="." line="254" column="76" />
         <mark key="^" line="254" column="78" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/service/remoteoperations/RemoteOperationsOverviewBean.java" timestamp="1511876040190">
-        <mark key="[" line="181" column="45" />
-        <mark key="]" line="182" column="15" />
-        <mark key="^" line="182" column="15" />
-        <mark key="." line="182" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510567447100">
-        <mark key="'" line="160" column="20" />
-        <mark key="[" line="433" column="25" />
-        <mark key="]" line="433" column="67" />
-        <mark key="^" line="424" column="70" />
-        <mark key="." line="433" column="25" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/pageTemplate.xhtml" timestamp="1508406262681">
         <mark key="[" line="13" column="59" />
@@ -56,6 +33,252 @@
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/restriction/model/Restriction.java" timestamp="1511346237911">
         <mark key="'" line="296" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/service/calendar/calendarOverviewTab.xhtml" timestamp="1511861439982">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="28" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510565842129">
+        <mark key="'" line="132" column="50" />
+        <mark key="[" line="418" column="98" />
+        <mark key="]" line="419" column="28" />
+        <mark key="." line="419" column="28" />
+        <mark key="^" line="419" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceThread.java" timestamp="1511868454707">
+        <mark key="'" line="421" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" timestamp="1511432569115">
+        <mark key="'" line="54" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1511777837318">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="108" />
+        <mark key="." line="278" column="54" />
+        <mark key="^" line="278" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/ChannelResourceBean.java" timestamp="1511796788768">
+        <mark key="'" line="117" column="8" />
+      </file>
+      <file name="/New Method Body.txt.ft" timestamp="1510645414300">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" timestamp="1509704117911">
+        <mark key="[" line="104" column="9" />
+        <mark key="]" line="105" column="28" />
+        <mark key="." line="105" column="28" />
+        <mark key="^" line="105" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="49" column="40" />
+        <mark key="^" line="49" column="18" />
+        <mark key="." line="49" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" timestamp="1510584454464">
+        <mark key="'" line="36" column="35" />
+        <mark key="[" line="102" column="8" />
+        <mark key="]" line="102" column="34" />
+        <mark key="^" line="102" column="34" />
+        <mark key="." line="102" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ImmutableCache.java" timestamp="1510328090367">
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="38" column="66" />
+        <mark key="^" line="38" column="66" />
+        <mark key="." line="38" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/model/TestUserIdentification.java" timestamp="1510735533844">
+        <mark key="'" line="108" column="53" />
+        <mark key="[" line="128" column="33" />
+        <mark key="]" line="128" column="41" />
+        <mark key="." line="128" column="41" />
+        <mark key="^" line="128" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/CachedClassHolder.java" timestamp="1510049493417">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+        <mark key="^" line="31" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/LdapUserContextMapper.java" timestamp="1510742508845">
+        <mark key="'" line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" timestamp="1510572047724">
+        <mark key="'" line="183" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="184" column="17" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/aspect/TestVoiceProxyAspect.java" timestamp="1511868709482">
+        <mark key="'" line="33" column="60" />
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+        <mark key="^" line="29" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/login/TestIdentification.java" timestamp="1510664614685">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoiceProxyPhoneServiceImpl.java" timestamp="1511775271982">
+        <mark key="'" line="48" column="13" />
+        <mark key="[" line="343" column="0" />
+        <mark key="]" line="343" column="0" />
+        <mark key="." line="343" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/database/liquibase.postinit.ebovision-4.13.xml" timestamp="1510644650861">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="55" />
+        <mark key="^" line="16" column="55" />
+        <mark key="." line="16" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/generalSettingsTab.xhtml" timestamp="1510658003686">
+        <mark key="'" line="260" column="35" />
+        <mark key="[" line="253" column="59" />
+        <mark key="]" line="253" column="85" />
+        <mark key="." line="254" column="140" />
+        <mark key="^" line="254" column="140" />
+      </file>
+      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/resources/configLocal.json" timestamp="1509620470535">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" timestamp="1511447026857">
+        <mark key="[" line="94" column="83" />
+        <mark key="]" line="94" column="96" />
+        <mark key="." line="94" column="96" />
+        <mark key="^" line="94" column="96" />
+      </file>
+      <file name="$USER_HOME$/projects/framework/jefui/src/test/java/com/ebo/jefui/utils/TestQueryProperty.java" timestamp="1507813882487">
+        <mark key="[" line="30" column="71" />
+        <mark key="]" line="30" column="73" />
+        <mark key="^" line="30" column="73" />
+        <mark key="." line="30" column="73" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1511777893141">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="269" column="81" />
+        <mark key="]" line="269" column="82" />
+        <mark key="^" line="269" column="82" />
+        <mark key="." line="269" column="82" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1510748271398">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/portal.xhtml" timestamp="1511861451263" />
+      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/test/java/com/ebo/dvdpostimport/TestDvdPostMovieImporter.java" timestamp="1510563595602">
+        <mark key="[" line="34" column="60" />
+        <mark key="]" line="34" column="60" />
+        <mark key="." line="34" column="60" />
+        <mark key="^" line="33" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1511861461574">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="227" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/prisoncloud/abstract-movie-import/.gitignore" timestamp="1509447388765">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/dao/impl/AbstractDAOImpl.java" timestamp="1511347521432">
+        <mark key="'" line="413" column="53" />
+        <mark key="[" line="342" column="0" />
+        <mark key="]" line="342" column="0" />
+        <mark key="." line="342" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/SynchronizeLdap.java" timestamp="1510927790601">
+        <mark key="'" line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/insert/ldap.sql" timestamp="1510672351483">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="72" />
+        <mark key="^" line="23" column="72" />
+        <mark key="." line="23" column="72" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/VoiceProxyPhoneService.java" timestamp="1511795846905">
+        <mark key="[" line="118" column="9" />
+        <mark key="]" line="118" column="8" />
+        <mark key="^" line="118" column="8" />
+        <mark key="." line="118" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511194382937">
+        <mark key="'" line="259" column="34" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="239" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/AbstractUserService.java" timestamp="1511863958049">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceContext.java" timestamp="1511868516664">
+        <mark key="'" line="51" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="153" column="85" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestUserService.java" timestamp="1511794400648">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="453" column="0" />
+        <mark key="]" line="453" column="0" />
+        <mark key="." line="453" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511877244604">
+        <mark key="[" line="333" column="46" />
+        <mark key="]" line="334" column="45" />
+        <mark key="." line="334" column="45" />
+        <mark key="^" line="334" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/VideoResourceDAO.java" timestamp="1509706900909">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="55" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="22" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/UpdateClientServiceImpl.java" timestamp="1511877196093" />
+      <file name="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" timestamp="1511450219616">
+        <mark key="'" line="107" column="59" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/css/skeleton/skeleton.css" timestamp="1509967113750">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="308" column="16" />
+        <mark key="]" line="308" column="17" />
+        <mark key="." line="308" column="17" />
+        <mark key="^" line="300" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/service/remoteoperations/RemoteOperationsOverviewBean.java" timestamp="1511876040190">
+        <mark key="[" line="181" column="45" />
+        <mark key="]" line="182" column="15" />
+        <mark key="^" line="182" column="15" />
+        <mark key="." line="182" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/application/webservice/impl/MovieServiceImpl.java" timestamp="1510567447100">
+        <mark key="'" line="160" column="20" />
+        <mark key="[" line="433" column="25" />
+        <mark key="]" line="433" column="67" />
+        <mark key="^" line="424" column="70" />
+        <mark key="." line="433" column="25" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/test/java/com/ebo/jef/aop/TestCacheAspect.java" timestamp="1510049884210">
         <mark key="[" line="2" column="30" />
@@ -89,20 +312,6 @@
         <mark key="[" line="115" column="35" />
         <mark key="]" line="115" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/service/calendar/calendarOverviewTab.xhtml" timestamp="1511861439982">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="28" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/EboVisionCache.java" timestamp="1510565842129">
-        <mark key="'" line="132" column="50" />
-        <mark key="[" line="418" column="98" />
-        <mark key="]" line="419" column="28" />
-        <mark key="." line="419" column="28" />
-        <mark key="^" line="419" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceThread.java" timestamp="1511868454707">
-        <mark key="'" line="421" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoOnDemandServerServiceImpl.java" timestamp="1509463028148">
         <mark key="[" line="55" column="45" />
         <mark key="]" line="55" column="44" />
@@ -114,16 +323,6 @@
         <mark key="]" line="6" column="53" />
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="53" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/device/identificationmedium/IdentificationMediumBean.java" timestamp="1511432569115">
-        <mark key="'" line="54" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" timestamp="1511777837318">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="278" column="108" />
-        <mark key="." line="278" column="54" />
-        <mark key="^" line="278" column="54" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdapUser.java" timestamp="1511768887665">
         <mark key="'" line="47" column="13" />
@@ -138,23 +337,11 @@
         <mark key="." line="182" column="0" />
         <mark key="^" line="181" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/ChannelResourceBean.java" timestamp="1511796788768">
-        <mark key="'" line="117" column="8" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/User.java" timestamp="1510748842573">
         <mark key="[" line="849" column="20" />
         <mark key="]" line="849" column="19" />
         <mark key="^" line="849" column="19" />
         <mark key="." line="849" column="19" />
-      </file>
-      <file name="/New Method Body.txt.ft" timestamp="1510645414300">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/VideoResult.java" timestamp="1509704117911">
-        <mark key="[" line="104" column="9" />
-        <mark key="]" line="105" column="28" />
-        <mark key="." line="105" column="28" />
-        <mark key="^" line="105" column="28" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/impl/AbstractUserDAOImpl.java" timestamp="1511346934608">
         <mark key="'" line="130" column="20" />
@@ -165,19 +352,6 @@
         <mark key="." line="79" column="46" />
         <mark key="^" line="79" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestUserRegistry.java" timestamp="1507896942894">
-        <mark key="[" line="49" column="40" />
-        <mark key="]" line="49" column="40" />
-        <mark key="^" line="49" column="18" />
-        <mark key="." line="49" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ApplicationProperty.java" timestamp="1510584454464">
-        <mark key="'" line="36" column="35" />
-        <mark key="[" line="102" column="8" />
-        <mark key="]" line="102" column="34" />
-        <mark key="^" line="102" column="34" />
-        <mark key="." line="102" column="34" />
-      </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/AbstractCache.java" timestamp="1510052909072">
         <mark key="[" line="175" column="47" />
         <mark key="]" line="175" column="55" />
@@ -187,30 +361,11 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1510645402352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ImmutableCache.java" timestamp="1510328090367">
-        <mark key="[" line="38" column="52" />
-        <mark key="]" line="38" column="66" />
-        <mark key="^" line="38" column="66" />
-        <mark key="." line="38" column="66" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/model/TestUserIdentification.java" timestamp="1510735533844">
-        <mark key="'" line="108" column="53" />
-        <mark key="[" line="128" column="33" />
-        <mark key="]" line="128" column="41" />
-        <mark key="." line="128" column="41" />
-        <mark key="^" line="128" column="41" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/UserIdentification.java" timestamp="1511773704460">
         <mark key="'" line="17" column="44" />
         <mark key="[" line="2" column="35" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/CachedClassHolder.java" timestamp="1510049493417">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/user/userTab.xhtml" timestamp="1511862714988">
         <mark key="'" line="113" column="51" />
@@ -226,9 +381,6 @@
         <mark key="." line="16" column="82" />
         <mark key="^" line="16" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/LdapUserContextMapper.java" timestamp="1510742508845">
-        <mark key="'" line="24" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/framework/jefui/src/main/java/com/ebo/jefui/tags/input/InputAutocompleteRenderer.java" timestamp="1507812867183">
         <mark key="[" line="643" column="0" />
         <mark key="]" line="643" column="0" />
@@ -241,30 +393,10 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/cache/ResourceCache.java" timestamp="1510572047724">
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="184" column="17" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/aspect/TestVoiceProxyAspect.java" timestamp="1511868709482">
-        <mark key="'" line="33" column="60" />
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="9" />
-        <mark key="^" line="29" column="44" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/event/model/ClusteredEvent.java" timestamp="1511875153493">
         <mark key="[" line="55" column="22" />
         <mark key="]" line="55" column="23" />
         <mark key="." line="55" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/login/TestIdentification.java" timestamp="1510664614685">
-        <mark key="[" line="38" column="36" />
-        <mark key="]" line="38" column="36" />
-        <mark key="^" line="38" column="36" />
-        <mark key="." line="38" column="36" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" timestamp="1511777985907">
         <mark key="'" line="0" column="0" />
@@ -273,51 +405,14 @@
         <mark key="^" line="271" column="112" />
         <mark key="." line="271" column="112" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoiceProxyPhoneServiceImpl.java" timestamp="1511775271982">
-        <mark key="'" line="48" column="13" />
-        <mark key="[" line="343" column="0" />
-        <mark key="]" line="343" column="0" />
-        <mark key="." line="343" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/database/liquibase.postinit.ebovision-4.13.xml" timestamp="1510644650861">
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="55" />
-        <mark key="^" line="16" column="55" />
-        <mark key="." line="16" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/configuration/general/generalSettingsTab.xhtml" timestamp="1510658003686">
-        <mark key="'" line="260" column="35" />
-        <mark key="[" line="253" column="59" />
-        <mark key="]" line="253" column="85" />
-        <mark key="." line="254" column="140" />
-        <mark key="^" line="254" column="140" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/RemoteResourceBean.java" timestamp="1507815481923">
         <mark key="[" line="202" column="48" />
         <mark key="]" line="202" column="55" />
         <mark key="." line="202" column="55" />
         <mark key="^" line="202" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/resources/configLocal.json" timestamp="1509620470535">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" timestamp="1511447026857">
-        <mark key="[" line="94" column="83" />
-        <mark key="]" line="94" column="96" />
-        <mark key="." line="94" column="96" />
-        <mark key="^" line="94" column="96" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/resources/eboadmin/resourceGeneralFields.xhtml" timestamp="1511856310176">
         <mark key="'" line="17" column="37" />
-      </file>
-      <file name="$USER_HOME$/projects/framework/jefui/src/test/java/com/ebo/jefui/utils/TestQueryProperty.java" timestamp="1507813882487">
-        <mark key="[" line="30" column="71" />
-        <mark key="]" line="30" column="73" />
-        <mark key="^" line="30" column="73" />
-        <mark key="." line="30" column="73" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/ldap/service/LdapService.java" timestamp="1510585308578">
         <mark key="[" line="76" column="27" />
@@ -373,32 +468,11 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" timestamp="1511866734818">
         <mark key="'" line="245" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" timestamp="1511777893141">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="269" column="81" />
-        <mark key="]" line="269" column="82" />
-        <mark key="^" line="269" column="82" />
-        <mark key="." line="269" column="82" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1510748271398">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/portal.xhtml" timestamp="1511861451263" />
-      <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/test/java/com/ebo/dvdpostimport/TestDvdPostMovieImporter.java" timestamp="1510563595602">
-        <mark key="[" line="34" column="60" />
-        <mark key="]" line="34" column="60" />
-        <mark key="." line="34" column="60" />
-        <mark key="^" line="33" column="63" />
-      </file>
       <file name="$USER_HOME$/projects/ebotools/ebo-itop-notifier/src/manifest.json" timestamp="1511187021803">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="38" column="43" />
         <mark key="^" line="38" column="43" />
         <mark key="." line="38" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/videoPortal.xhtml" timestamp="1511861461574">
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="227" column="20" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/calendar.xhtml" timestamp="1511862404872">
         <mark key="'" line="137" column="24" />
@@ -412,74 +486,7 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/prisoncloud/abstract-movie-import/.gitignore" timestamp="1509447388765">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/dao/impl/AbstractDAOImpl.java" timestamp="1511347521432">
-        <mark key="'" line="413" column="53" />
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
-        <mark key="." line="342" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/com/ebo/jefui/model/input/InputController.class" timestamp="1511861124007" />
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ldap/function/SynchronizeLdap.java" timestamp="1510927790601">
-        <mark key="'" line="22" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/resources/sql/insert/ldap.sql" timestamp="1510672351483">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="72" />
-        <mark key="^" line="23" column="72" />
-        <mark key="." line="23" column="72" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/VoiceProxyPhoneService.java" timestamp="1511795846905">
-        <mark key="[" line="118" column="9" />
-        <mark key="]" line="118" column="8" />
-        <mark key="^" line="118" column="8" />
-        <mark key="." line="118" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511194382937">
-        <mark key="'" line="259" column="34" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="." line="245" column="0" />
-        <mark key="^" line="239" column="68" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/AbstractUserService.java" timestamp="1511863958049">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceContext.java" timestamp="1511868516664">
-        <mark key="'" line="51" column="44" />
-      </file>
-      <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-        <mark key="^" line="153" column="85" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestUserService.java" timestamp="1511794400648">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="453" column="0" />
-        <mark key="]" line="453" column="0" />
-        <mark key="." line="453" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/dao/VideoResourceDAO.java" timestamp="1509706900909">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="55" />
-        <mark key="." line="12" column="45" />
-        <mark key="^" line="12" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="22" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
       <file name="/fragment.java" timestamp="1511860519891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -613,7 +620,7 @@
         <text>resourceInputController</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIGJvb3REZXZpY2UgIT0gbnVsbCAmJiBjbGllbnRWZXJzaW9uICE9IG51bGw=</text>
+        <text>new LiveEvent(EventType.CLIENT_HW, EventAction.START, null, clientHW, null, null, clientHW)</text>
       </register>
       <register name="/" type="4">
         <text>updatemu</text>
@@ -622,34 +629,36 @@
         <text>generatePhoneNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnRPU1ZlcnNpb25zLmdldChjbGllbnRId0lkKS5hZGQobGJsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi53YXJuKCJSZWNlaXZlZCBDTElFTlRfSFcgU1RBUlQgZXZlbnQgYnV0IGEgc3RhcnQgZXZlbnQgYWxyZWFkeSBleGlzdHMgZm9yIHRoaXMgY2xpZW50ISIgKyBjZUxpc3QuZ2V0KDApKTsKICAgICAgICAgICAgICAgIHJldHVybiBjbGllbnRIVy5nZXRJZCgpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>else {
+                
+            }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyLmFuZChDbGllbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmF0ZUNsaWVudEhXLmdldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdEJ1aWxkZXIuYWRkQXJ0aWZhY3QoInRhcmdldC9qbWV0ZXItcmVwb3J0cy9yZXN1bHQueG1sIikK</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmF0ZUNsaWVudEhXLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnRPU1ZlcnNpb25zLmdldChjbGllbnRId0lkKS5hZGQobGJsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwogICAgQERlcHJlY2F0ZWQKICAgIEBERUxFVEUKICAgIEBQYXRoKHZhbHVlID0gIi9kZWxldGUiKQogICAgQFRyYW5zYWN0aW9uYWwocHJvcGFnYXRpb24gPSBQcm9wYWdhdGlvbi5SRVFVSVJFRCwgcm9sbGJhY2tGb3IgPSBFeGNlcHRpb24uY2xhc3MpCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZUFsbChMaXN0PExvbmc+IGlkcykgdGhyb3dzIExvY2FsaXplZEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGlkcyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoTG9uZyBpZCA6IGlkcykgewogICAgICAgICAgICAgICAgZGVsZXRlKGlkKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyLmFuZChDbGllbnQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -692,10 +701,10 @@
         <entry>w</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
         <entry>q</entry>
-        <entry>noh</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
