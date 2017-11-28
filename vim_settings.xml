@@ -58,8 +58,15 @@
         <mark key="." line="278" column="54" />
         <mark key="^" line="278" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511879679822">
-        <mark key="'" line="68" column="12" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511882691807">
+        <mark key="'" line="118" column="111" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/cache/AbstractTestCache.java" timestamp="1511881177559">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="58" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/model/function/TestPbxServiceContext.java" timestamp="1511883405300">
+        <mark key="'" line="99" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/ChannelResourceBean.java" timestamp="1511796788768">
         <mark key="'" line="117" column="8" />
@@ -122,6 +129,9 @@
         <mark key="." line="29" column="9" />
         <mark key="^" line="29" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/voice/VoiceProxyBean.java" timestamp="1511884301654">
+        <mark key="'" line="93" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/login/TestIdentification.java" timestamp="1510664614685">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="38" column="36" />
@@ -171,6 +181,10 @@
         <mark key="]" line="269" column="82" />
         <mark key="^" line="269" column="82" />
         <mark key="." line="269" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" timestamp="1511884409456">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="43" column="40" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1510748271398">
         <mark key="[" line="0" column="0" />
@@ -226,8 +240,10 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceContext.java" timestamp="1511868516664">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceContext.java" timestamp="1511882124985">
         <mark key="'" line="51" column="44" />
+        <mark key="[" line="86" column="11" />
+        <mark key="]" line="86" column="26" />
       </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/cache/util/CacheAspect.java" timestamp="1510559829180">
         <mark key="[" line="154" column="0" />
@@ -371,6 +387,9 @@
         <mark key="^" line="104" column="12" />
         <mark key="." line="104" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/util/pricing/TestResourcePriceUtils.java" timestamp="1511881167870">
+        <mark key="'" line="205" column="64" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/VideoResourceServiceImpl.java" timestamp="1510067515932">
         <mark key="'" line="247" column="17" />
         <mark key="[" line="16" column="66" />
@@ -383,6 +402,10 @@
         <mark key="]" line="643" column="0" />
         <mark key="." line="643" column="0" />
         <mark key="^" line="641" column="65" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/event/model/function/TestAllowableStatus.java" timestamp="1511881299464">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="117" />
       </file>
       <file name="$USER_HOME$/projects/prisoncloud/dvdpost-import/src/main/java/com/ebo/dvdpostimport/model/DVDPostMovieActor.java" timestamp="1509445855124">
         <mark key="[" line="4" column="24" />
@@ -462,8 +485,11 @@
         <mark key="." line="89" column="42" />
         <mark key="^" line="89" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" timestamp="1511866734818">
-        <mark key="'" line="245" column="83" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" timestamp="1511884724270">
+        <mark key="[" line="794" column="11" />
+        <mark key="]" line="794" column="11" />
+        <mark key="." line="794" column="11" />
+        <mark key="^" line="794" column="11" />
       </file>
       <file name="$USER_HOME$/projects/ebotools/ebo-itop-notifier/src/manifest.json" timestamp="1511187021803">
         <mark key="[" line="38" column="36" />
@@ -474,7 +500,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/calendar.xhtml" timestamp="1511862404872">
         <mark key="'" line="137" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511863871899">
+      <file name="/Dummy.txt" timestamp="1511883893247">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/PeripheralInterfaceService.java" timestamp="1507810631454">
@@ -483,8 +509,12 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/aop/TestUserAspect.java" timestamp="1511794604847">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="100" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/ebo/jef-ui/1.16.0/jef-ui-1.16.0.jar!/com/ebo/jefui/model/input/InputController.class" timestamp="1511861124007" />
-      <file name="/fragment.java" timestamp="1511878076491">
+      <file name="/fragment.java" timestamp="1511881745191">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -505,43 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="16" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="136" column="19" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="143" column="50" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="78" column="17" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="112" column="43" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="113" column="20" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="114" column="60" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="697" column="54" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="699" column="28" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="702" column="28" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="37" column="42" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="107" column="59" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="297" column="46" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/webservice/impl/AbstractServiceImpl.class" />
-      <jump line="1" column="17" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/webservice/impl/AbstractServiceImpl.class" />
-      <jump line="83" column="16" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/webservice/impl/AbstractServiceImpl.class" />
-      <jump line="101" column="19" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/webservice/impl/AbstractServiceImpl.class" />
-      <jump line="250" column="34" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserServiceImpl.java" />
-      <jump line="33" column="57" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/UserServiceImpl.java" />
-      <jump line="31" column="22" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/AbstractUserServiceImpl.java" />
-      <jump line="47" column="13" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdapUser.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
-      <jump line="272" column="42" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
-      <jump line="174" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
-      <jump line="386" column="26" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
-      <jump line="52" column="13" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
-      <jump line="381" column="7" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
-      <jump line="75" column="56" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdap.java" />
-      <jump line="117" column="14" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoiceProxyPhoneServiceImpl.java" />
-      <jump line="48" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoiceProxyPhoneServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_en.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
-      <jump line="129" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
-      <jump line="107" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
-      <jump line="108" column="43" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
-      <jump line="95" column="4" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
-      <jump line="455" column="3" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestUserService.java" />
       <jump line="456" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestUserService.java" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/webservice/TestUserService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/aspect/TestVoiceProxyAspect.java" />
@@ -605,6 +598,43 @@
       <jump line="126" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
       <jump line="16" column="45" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
       <jump line="68" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
+      <jump line="80" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
+      <jump line="118" column="111" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
+      <jump line="240" column="147" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="205" column="64" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/util/pricing/TestResourcePriceUtils.java" />
+      <jump line="179" column="31" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="258" column="72" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="681" column="72" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="184" column="75" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/model/function/TestPbxServiceContext.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/model/function/TestPbxServiceContext.java" />
+      <jump line="709" column="7" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="192" column="13" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="246" column="21" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="714" column="7" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="35" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/voice/VoiceProxyBean.java" />
+      <jump line="77" column="56" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/voice/VoiceProxyBean.java" />
+      <jump line="85" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/voice/VoiceProxyBean.java" />
+      <jump line="92" column="31" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/voice/VoiceProxyBean.java" />
+      <jump line="93" column="27" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/configuration/voice/VoiceProxyBean.java" />
+      <jump line="130" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="735" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="736" column="65" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="737" column="40" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="738" column="44" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="739" column="46" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="740" column="71" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="741" column="125" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="742" column="52" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="743" column="79" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="744" column="57" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="745" column="61" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="746" column="51" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="747" column="60" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="748" column="46" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="749" column="49" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="750" column="49" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="751" column="41" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="752" column="38" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -617,51 +647,49 @@
         <text>resourceInputController</text>
       </register>
       <register name="-" type="4">
-        <text>new LiveEvent(EventType.CLIENT_HW, EventAction.START, null, clientHW, null, null, clientHW)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQYnhTZXJ2aWNlQ29udGV4dFw+</text>
+        <text>;</text>
       </register>
-      <register name="0" type="4">
-        <text>generatePhoneNumber</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIAlwdWJsaWMgU3RyaW5nIHVybCA9ICJodHRwOi8vMTAuMS44LjMxOjgwL1BCWDAvdXNlci5zb2FwIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHVzZXJOYW1lID0gIlRBUEkiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgcGFzc3dvcmQgPSAiRnRtNmxld2oiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgYXBwTmFtZSA9ICJQcmlzb25DbG91ZCI7CiAgICAgICAgcHVibGljIFN0cmluZyBzeXN0ZW1QaG9uZU5hbWUgPSAiQ2FsbCBJZXBlciI7Ly8iQ2FsbCBCZXZlcmVuIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHN5c3RlbVBob25lU2NyaXB0VXJsID0gImh0dHA6Ly8xMjcuMC4wLjEvRFJJVkUvQ0YwL1ZvaWNlbWFpbFNjcmlwdHMvQXV0aGVudGljYXRlL2F1dGhlbnRpY2F0ZWNhbGwueG1sIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHN5c3RlbVBob25lTnVtYmVyID0gIiMjKys4OCMiOyAvLyB0cnkgdG8gdXNlIGEgbm9uLWV4aXN0aW5nIG51bWJlcgogICAgICAgIHB1YmxpYyBTdHJpbmcgYmVlcFBob25lTmFtZSA9ICJGYWtlUGhvbmUgSWVwZXIiOy8vIkZha2VQaG9uZSBCZXZlcmVuIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RQaG9uZSA9ICJUZXN0UGJ4U2VydmljZSBwaG9uZSI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0UGhvbmVEZXZpY2VOYW1lID0gIklQMTEwLTE1LWRhLWE0IjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RVc2VyID0gInRlc3QgVXNlciBQaG9uZSI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0VXNlckRldmljZU5hbWUgPSAiSVAxMTAtMTUtZGEtYTUiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgdGVzdFBob25lTnVtYmVyID0gIjEwMyI7CiAgICAgICAgcHVibGljIFN0cmluZyB3cm9uZ1Bob25lID0gImh1cHBlbGRlcHVwIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RMb2NhdGlvbiA9ICJQQlgtSWVwZXIiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgdGVzdE5vZGUgPSAicm9vdCI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0VHlwZSA9ICJlcCI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0R3JvdXAgPSAiVEFQSSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtcWxza2Rmam1scXNrZGpmbWxrago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi53YXJuKCJSZWNlaXZlZCBDTElFTlRfSFcgU1RBUlQgZXZlbnQgYnV0IGEgc3RhcnQgZXZlbnQgYWxyZWFkeSBleGlzdHMgZm9yIHRoaXMgY2xpZW50ISIgKyBjZUxpc3QuZ2V0KDApKTsKICAgICAgICAgICAgICAgIHJldHVybiBjbGllbnRIVy5nZXRJZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>else {
-                
-            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5LnNldFVzZXJOYW1lKCJyb290Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmF0ZUNsaWVudEhXLmdldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmF0ZUNsaWVudEhXLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnRPU1ZlcnNpb25zLmdldChjbGllbnRId0lkKS5hZGQobGJsKTsK</text>
+        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5LnNldFVybCgiaHR0cDovLzEwLjEuOC4zMTo4MC9QQlgwL3VzZXIuc29hcCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5LnNldFN5c3RlbVBob25lTmFtZSAoICJDYWxsIEllcGVyIik7Ly8iQ2FsbCBCZXZlcmVuIik7CiAgICAgICAgdm9pY2VQcm94eS5zZXRTeXN0ZW1QaG9uZVNjcmlwdFVybCAoICJodHRwOi8vMTI3LjAuMC4xL0RSSVZFL0NGMC9Wb2ljZW1haWxTY3JpcHRzL0F1dGhlbnRpY2F0ZS9hdXRoZW50aWNhdGVjYWxsLnhtbCIpOwogICAgICAgIHZvaWNlUHJveHkuc2V0U3lzdGVtUGhvbmVOdW1iZXIgKCAiIyMrKzg4IyIpOyAvLyB0cnkgdG8gdXNlIGEgbm9uLWV4aXN0aW5nIG51bWJlcgogICAgICAgIHZvaWNlUHJveHkuc2V0QmVlcFBob25lTmFtZSAoICJGYWtlUGhvbmUgSWVwZXIiKTsvLyJGYWtlUGhvbmUgQmV2ZXJlbiIpOwogICAgICAgIHZvaWNlUHJveHkuc2V0VGVzdFBob25lICggIlRlc3RQYnhTZXJ2aWNlIHBob25lIik7CiAgICAgICAgdm9pY2VQcm94eS5zZXRUZXN0UGhvbmVEZXZpY2VOYW1lICggIklQMTEwLTE1LWRhLWE0Iik7CiAgICAgICAgdm9pY2VQcm94eS5zZXRUZXN0VXNlciAoICJ0ZXN0IFVzZXIgUGhvbmUiKTsKICAgICAgICB2b2ljZVByb3h5LnNldFRlc3RVc2VyRGV2aWNlTmFtZSAoICJJUDExMC0xNS1kYS1hNSIpOwogICAgICAgIHZvaWNlUHJveHkuc2V0VGVzdFBob25lTnVtYmVyICggIjEwMyIpOwogICAgICAgIHZvaWNlUHJveHkuc2V0V3JvbmdQaG9uZSAoICJodXBwZWxkZXB1cCIpOwogICAgICAgIHZvaWNlUHJveHkuc2V0VGVzdExvY2F0aW9uICggIlBCWC1JZXBlciIpOwogICAgICAgIHZvaWNlUHJveHkuc2V0VGVzdE5vZGUgKCAicm9vdCIpOwogICAgICAgIHZvaWNlUHJveHkuc2V0VGVzdFR5cGUgKCAiZXAiKTsKICAgICAgICB2b2ljZVByb3h5LnNldFRlc3RHcm91cCAoICJUQVBJIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQYnhTZXJ2aWNlQ29udGV4dFw+</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQYnhTZXJ2aWNlQ29udGV4dFw+</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -669,13 +697,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deleteph</entry>
-        <entry>delete(</entry>
-        <entry>voiceproxy</entry>
-        <entry>voiceprox</entry>
-        <entry encoding="base64">XDxhZG1pblZvaWNlUHJveHlcPg==</entry>
-        <entry>inputcontroller</entry>
-        <entry>validationru</entry>
         <entry encoding="base64">XDx2YWxpZGF0aW9uUnVsZXNcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsUmVzb3VyY2VJbnB1dENvbnRyb2xsZXJcPg==</entry>
         <entry encoding="base64">XDxyZXNvdXJjZUlucHV0Q29udHJvbGxlclw+</entry>
@@ -689,6 +710,13 @@
         <entry encoding="base64">XDxnZW5lcmF0ZVBhc3N3b3JkXD4=</entry>
         <entry>updatemu</entry>
         <entry encoding="base64">XDxQYnhTZXJ2aWNlQ29udGV4dFw+</entry>
+        <entry>initializedata</entry>
+        <entry>beanutils</entry>
+        <entry>initialized</entry>
+        <entry encoding="base64">XDxodHRwXD4=</entry>
+        <entry>=</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -698,8 +726,8 @@
         <entry>w</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
         <entry>q</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
         <entry>noh</entry>
       </history-cmd>
