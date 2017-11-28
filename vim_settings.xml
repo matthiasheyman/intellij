@@ -58,6 +58,9 @@
         <mark key="." line="278" column="54" />
         <mark key="^" line="278" column="54" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511879679822">
+        <mark key="'" line="68" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/ChannelResourceBean.java" timestamp="1511796788768">
         <mark key="'" line="117" column="8" />
       </file>
@@ -502,10 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="24" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/identity/identificationmedium/TestIdentificationMediumAndUserTabInteraction.java" />
-      <jump line="442" column="36" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="101" column="13" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
-      <jump line="102" column="34" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
       <jump line="105" column="16" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
       <jump line="136" column="19" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
       <jump line="143" column="50" filename="$MAVEN_REPOSITORY$/com/ebo/jef/4.21.0-SNAPSHOT/jef-4.21.0-20171114.163406-4.jar!/com/ebo/jef/dao/impl/AbstractDAOImpl.class" />
@@ -602,6 +601,10 @@
       <jump line="245" column="83" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="421" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceThread.java" />
       <jump line="51" column="44" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/function/PbxServiceContext.java" />
+      <jump line="120" column="42" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
+      <jump line="126" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
+      <jump line="16" column="45" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
+      <jump line="68" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -617,7 +620,7 @@
         <text>new LiveEvent(EventType.CLIENT_HW, EventAction.START, null, clientHW, null, null, clientHW)</text>
       </register>
       <register name="/" type="4">
-        <text>updatemu</text>
+        <text encoding="base64">XDxQYnhTZXJ2aWNlQ29udGV4dFw+</text>
       </register>
       <register name="0" type="4">
         <text>generatePhoneNumber</text>
@@ -656,17 +659,16 @@
       </register>
     </registers>
     <search>
-      <last-search>updatemu</last-search>
+      <last-search encoding="base64">XDxQYnhTZXJ2aWNlQ29udGV4dFw+</last-search>
       <last-offset />
-      <last-pattern>updatemu</last-pattern>
+      <last-pattern encoding="base64">XDxQYnhTZXJ2aWNlQ29udGV4dFw+</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
         <entry>deleteph</entry>
         <entry>delete(</entry>
         <entry>voiceproxy</entry>
@@ -686,6 +688,7 @@
         <entry>generate</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVBhc3N3b3JkXD4=</entry>
         <entry>updatemu</entry>
+        <entry encoding="base64">XDxQYnhTZXJ2aWNlQ29udGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
