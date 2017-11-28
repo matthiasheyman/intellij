@@ -36,13 +36,6 @@
         <mark key="^" line="424" column="70" />
         <mark key="." line="433" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/resource/channelResourceTab.xhtml" timestamp="1511856438065">
-        <mark key="'" line="43" column="41" />
-        <mark key="[" line="87" column="49" />
-        <mark key="]" line="87" column="72" />
-        <mark key="." line="87" column="49" />
-        <mark key="^" line="43" column="41" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/pageTemplate.xhtml" timestamp="1508406262681">
         <mark key="[" line="13" column="59" />
         <mark key="]" line="13" column="58" />
@@ -125,12 +118,6 @@
         <mark key="]" line="278" column="108" />
         <mark key="." line="278" column="54" />
         <mark key="^" line="278" column="54" />
-      </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" timestamp="1511868890730">
-        <mark key="'" line="91" column="38" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/authentication/function/TestSynchronizeLdapUser.java" timestamp="1511768887665">
         <mark key="'" line="47" column="13" />
@@ -420,6 +407,11 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/Jenkinsfile" timestamp="1511873722845">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/framework/jef/src/main/java/com/ebo/jef/dao/impl/AbstractDAOImpl.java" timestamp="1511347521432">
         <mark key="'" line="413" column="53" />
         <mark key="[" line="342" column="0" />
@@ -624,31 +616,31 @@
         <text>generatePhoneNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdEJ1aWxkZXIuYWRkQXJ0aWZhY3QoInRhcmdldC9qbWV0ZXItcmVwb3J0cy9yZXN1bHQueG1sIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwogICAgQERlcHJlY2F0ZWQKICAgIEBERUxFVEUKICAgIEBQYXRoKHZhbHVlID0gIi9kZWxldGUiKQogICAgQFRyYW5zYWN0aW9uYWwocHJvcGFnYXRpb24gPSBQcm9wYWdhdGlvbi5SRVFVSVJFRCwgcm9sbGJhY2tGb3IgPSBFeGNlcHRpb24uY2xhc3MpCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZUFsbChMaXN0PExvbmc+IGlkcykgdGhyb3dzIExvY2FsaXplZEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGlkcyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoTG9uZyBpZCA6IGlkcykgewogICAgICAgICAgICAgICAgZGVsZXRlKGlkKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwogICAgQERlcHJlY2F0ZWQKICAgIEBERUxFVEUKICAgIEBQYXRoKHZhbHVlID0gIi9kZWxldGUiKQogICAgQFRyYW5zYWN0aW9uYWwocHJvcGFnYXRpb24gPSBQcm9wYWdhdGlvbi5SRVFVSVJFRCwgcm9sbGJhY2tGb3IgPSBFeGNlcHRpb24uY2xhc3MpCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZUFsbChMaXN0PExvbmc+IGlkcykgdGhyb3dzIExvY2FsaXplZEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGlkcyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoTG9uZyBpZCA6IGlkcykgewogICAgICAgICAgICAgICAgZGVsZXRlKGlkKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgQ29uZmlndXJhdGlvbkRBTyBjb25maWd1cmF0aW9uREFPOwoKICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgSWRlbnRpZmljYXRpb25NZWRpdW1EQU8gaWRlbnRpZmljYXRpb25NZWRpdW1EQU87CgogICAgQEF1dG93aXJlZChyZXF1aXJlZCA9IGZhbHNlKQogICAgcHJpdmF0ZSBJZGVudGlmaWNhdGlvbk1lZGl1bVNlcnZpY2UgaWRlbnRpZmljYXRpb25NZWRpdW1TZXJ2aWNlOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgQ29uZmlndXJhdGlvbkRBTyBjb25maWd1cmF0aW9uREFPOwoKICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgSWRlbnRpZmljYXRpb25NZWRpdW1EQU8gaWRlbnRpZmljYXRpb25NZWRpdW1EQU87CgogICAgQEF1dG93aXJlZChyZXF1aXJlZCA9IGZhbHNlKQogICAgcHJpdmF0ZSBJZGVudGlmaWNhdGlvbk1lZGl1bVNlcnZpY2UgaWRlbnRpZmljYXRpb25NZWRpdW1TZXJ2aWNlOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8VD4gZmluZEZvclNlbGVjdGlvbkZvckNvbmZpZ3VyYXRpb25zKFN0cmluZyBjaGFyYWN0ZXJTZWxlY3RlZCwgTGlzdDxMb25nPiBjb25maWd1cmF0aW9uSWRzKSB0aHJvd3MgTG9jYWxpemVkRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdXNlckRBTy5maW5kRm9yU2VsZWN0aW9uRm9yQ29uZmlndXJhdGlvbnMoY2hhcmFjdGVyU2VsZWN0ZWQsIGNvbmZpZ3VyYXRpb25JZHMpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8VD4gZmluZEZvclNlbGVjdGlvbkZvckNvbmZpZ3VyYXRpb25zKFN0cmluZyBjaGFyYWN0ZXJTZWxlY3RlZCwgTGlzdDxMb25nPiBjb25maWd1cmF0aW9uSWRzKSB0aHJvd3MgTG9jYWxpemVkRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdXNlckRBTy5maW5kRm9yU2VsZWN0aW9uRm9yQ29uZmlndXJhdGlvbnMoY2hhcmFjdGVyU2VsZWN0ZWQsIGNvbmZpZ3VyYXRpb25JZHMpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
