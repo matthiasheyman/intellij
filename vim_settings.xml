@@ -214,7 +214,6 @@
         <mark key="^" line="118" column="8" />
         <mark key="." line="118" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/webservice/impl/VoiceProxyServiceImpl.java" timestamp="1511947776962" />
       <file name="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" timestamp="1511194382937">
         <mark key="'" line="259" column="34" />
         <mark key="[" line="245" column="0" />
@@ -473,7 +472,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/calendar.xhtml" timestamp="1511862404872">
         <mark key="'" line="137" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511954013566">
+      <file name="/Dummy.txt" timestamp="1511959586593">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/PeripheralInterfaceService.java" timestamp="1507810631454">
@@ -497,8 +496,7 @@
         <mark key="^" line="150" column="10" />
         <mark key="." line="150" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511947547256" />
-      <file name="/fragment.java" timestamp="1511949154763">
+      <file name="/fragment.java" timestamp="1511959479257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -677,7 +675,7 @@
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
