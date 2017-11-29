@@ -462,7 +462,7 @@
       <file name="$USER_HOME$/projects/ebovision/management/src/main/webapp/client/calendar.xhtml" timestamp="1511862404872">
         <mark key="'" line="137" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511967735731">
+      <file name="/Dummy.txt" timestamp="1511969620200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/PeripheralInterfaceService.java" timestamp="1507810631454">
@@ -669,7 +669,7 @@ voiceProxy</text>
         <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5UGhvbmVTZXJ2aWNlUkVTVENsaWVudC5kZWxldGVWb2ljZVByb3h5UGhvbmUoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -712,10 +712,10 @@ voiceProxy</text>
         <entry>w</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
         <entry>q</entry>
-        <entry>action FindUsages</entry>
         <entry>noh</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
