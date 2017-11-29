@@ -483,11 +483,12 @@
         <mark key="." line="89" column="42" />
         <mark key="^" line="89" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" timestamp="1511943275885">
-        <mark key="'" line="243" column="53" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" timestamp="1511945307851">
+        <mark key="'" line="646" column="18" />
+        <mark key="[" line="704" column="37" />
+        <mark key="]" line="704" column="38" />
+        <mark key="." line="704" column="38" />
+        <mark key="^" line="704" column="38" />
       </file>
       <file name="$USER_HOME$/projects/ebotools/ebo-itop-notifier/src/manifest.json" timestamp="1511187021803">
         <mark key="[" line="38" column="36" />
@@ -511,7 +512,7 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="41" column="100" />
       </file>
-      <file name="/fragment.java" timestamp="1511881745191">
+      <file name="/fragment.java" timestamp="1511944926278">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -532,8 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/VoiceProxy.java" />
-      <jump line="28" column="60" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/aspect/TestVoiceProxyAspect.java" />
       <jump line="369" column="52" filename="$USER_HOME$/projects/ebovision/management/src/main/webapp/admin/user/userTab.xhtml" />
       <jump line="23" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/ChannelResourceBean.java" />
       <jump line="117" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/admin/resource/ChannelResourceBean.java" />
@@ -632,6 +631,8 @@
       <jump line="71" column="19" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="213" column="0" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="243" column="53" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="989" column="53" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
+      <jump line="646" column="18" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -653,34 +654,34 @@
         <text encoding="base64">ICAgIAlwdWJsaWMgU3RyaW5nIHVybCA9ICJodHRwOi8vMTAuMS44LjMxOjgwL1BCWDAvdXNlci5zb2FwIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHVzZXJOYW1lID0gIlRBUEkiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgcGFzc3dvcmQgPSAiRnRtNmxld2oiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgYXBwTmFtZSA9ICJQcmlzb25DbG91ZCI7CiAgICAgICAgcHVibGljIFN0cmluZyBzeXN0ZW1QaG9uZU5hbWUgPSAiQ2FsbCBJZXBlciI7Ly8iQ2FsbCBCZXZlcmVuIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHN5c3RlbVBob25lU2NyaXB0VXJsID0gImh0dHA6Ly8xMjcuMC4wLjEvRFJJVkUvQ0YwL1ZvaWNlbWFpbFNjcmlwdHMvQXV0aGVudGljYXRlL2F1dGhlbnRpY2F0ZWNhbGwueG1sIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHN5c3RlbVBob25lTnVtYmVyID0gIiMjKys4OCMiOyAvLyB0cnkgdG8gdXNlIGEgbm9uLWV4aXN0aW5nIG51bWJlcgogICAgICAgIHB1YmxpYyBTdHJpbmcgYmVlcFBob25lTmFtZSA9ICJGYWtlUGhvbmUgSWVwZXIiOy8vIkZha2VQaG9uZSBCZXZlcmVuIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RQaG9uZSA9ICJUZXN0UGJ4U2VydmljZSBwaG9uZSI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0UGhvbmVEZXZpY2VOYW1lID0gIklQMTEwLTE1LWRhLWE0IjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RVc2VyID0gInRlc3QgVXNlciBQaG9uZSI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0VXNlckRldmljZU5hbWUgPSAiSVAxMTAtMTUtZGEtYTUiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgdGVzdFBob25lTnVtYmVyID0gIjEwMyI7CiAgICAgICAgcHVibGljIFN0cmluZyB3cm9uZ1Bob25lID0gImh1cHBlbGRlcHVwIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RMb2NhdGlvbiA9ICJQQlgtSWVwZXIiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgdGVzdE5vZGUgPSAicm9vdCI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0VHlwZSA9ICJlcCI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0R3JvdXAgPSAiVEFQSSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYm8ucGJ4LlBieFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgY2xhc3MgVGVzdERhdGEgewogICAgICAgIC8vIGZpbGwgaW4gZGVmYXVsdHMKICAgICAgICBwdWJsaWMgU3RyaW5nIHVybCA9ICJodHRwOi8vMTAuMS44LjMxOjgwL1BCWDAvdXNlci5zb2FwIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHVzZXJOYW1lID0gIlRBUEkiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgcGFzc3dvcmQgPSAiRnRtNmxld2oiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgYXBwTmFtZSA9ICJQcmlzb25DbG91ZCI7CiAgICAgICAgcHVibGljIFN0cmluZyBzeXN0ZW1QaG9uZU5hbWUgPSAiQ2FsbCBJZXBlciI7Ly8iQ2FsbCBCZXZlcmVuIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHN5c3RlbVBob25lU2NyaXB0VXJsID0gImh0dHA6Ly8xMjcuMC4wLjEvRFJJVkUvQ0YwL1ZvaWNlbWFpbFNjcmlwdHMvQXV0aGVudGljYXRlL2F1dGhlbnRpY2F0ZWNhbGwueG1sIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHN5c3RlbVBob25lTnVtYmVyID0gIiMjKys4OCMiOyAvLyB0cnkgdG8gdXNlIGEgbm9uLWV4aXN0aW5nIG51bWJlcgogICAgICAgIHB1YmxpYyBTdHJpbmcgYmVlcFBob25lTmFtZSA9ICJGYWtlUGhvbmUgSWVwZXIiOy8vIkZha2VQaG9uZSBCZXZlcmVuIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RQaG9uZSA9ICJUZXN0UGJ4U2VydmljZSBwaG9uZSI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0UGhvbmVEZXZpY2VOYW1lID0gIklQMTEwLTE1LWRhLWE0IjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RVc2VyID0gInRlc3QgVXNlciBQaG9uZSI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0VXNlckRldmljZU5hbWUgPSAiSVAxMTAtMTUtZGEtYTUiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgdGVzdFBob25lTnVtYmVyID0gIjEwMyI7CiAgICAgICAgcHVibGljIFN0cmluZyB3cm9uZ1Bob25lID0gImh1cHBlbGRlcHVwIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RMb2NhdGlvbiA9ICJQQlgtSWVwZXIiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgdGVzdE5vZGUgPSAicm9vdCI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0VHlwZSA9ICJlcCI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0R3JvdXAgPSAiVEFQSSI7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lYm8ucGJ4LlBieFNlcnZpY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBieFNlcnZpY2UgcGJ4U2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtcWxza2Rmam1scXNrZGpmbWxrago=</text>
+        <text encoding="base64">ICAgIFBieFNlcnZpY2UgcGJ4U2VydmljZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtcWxza2Rmam1scXNrZGpmbWxrago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtcWxza2Rmam1scXNrZGpmbWxrago=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtcWxza2Rmam1scXNrZGpmbWxrago=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -725,8 +726,8 @@
         <entry>q</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>noh</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
