@@ -306,11 +306,11 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="72" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" timestamp="1511952780773">
+      <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" timestamp="1511953000732">
         <mark key="'" line="955" column="45" />
-        <mark key="[" line="955" column="41" />
-        <mark key="]" line="955" column="47" />
-        <mark key="." line="955" column="47" />
+        <mark key="[" line="955" column="0" />
+        <mark key="]" line="955" column="0" />
+        <mark key="." line="955" column="0" />
         <mark key="^" line="955" column="47" />
       </file>
       <file name="$USER_HOME$/projects/ebotools/ebo-itop-notifier/src/manifest.json" timestamp="1511187021803">
@@ -339,6 +339,12 @@
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/pricing/webservice/ResourcePriceService.java" timestamp="1511953284515">
+        <mark key="[" line="150" column="11" />
+        <mark key="]" line="150" column="10" />
+        <mark key="^" line="150" column="10" />
+        <mark key="." line="150" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511947547256" />
       <file name="/fragment.java" timestamp="1511949154763">
@@ -476,31 +482,31 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSB2b2ljZXByb3h5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5UGhvbmVTZXJ2aWNlUkVTVENsaWVudC5kZWxldGVWb2ljZVByb3h5UGhvbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5UGhvbmVTZXJ2aWNlUkVTVENsaWVudC5jcmVhdGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS53ZWIK</text>
+        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5UGhvbmVTZXJ2aWNlUkVTVENsaWVudC5kZWxldGVWb2ljZVByb3h5UGhvbmUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmUodm9pY2VQcm94eSwgdm9pY2VQcm94eVNlcnZpY2VSRVNUQ2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS53ZWIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsTW9uaXRvclNjcmlwdC5zZXQK</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmUodm9pY2VQcm94eSwgdm9pY2VQcm94eVNlcnZpY2VSRVNUQ2xpZW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5LnNldGFkCg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsTW9uaXRvclNjcmlwdC5zZXQK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2b2ljZVByb3h5LnNldGFkCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgY2xhc3MgVGVzdERhdGEgewogICAgICAgIC8vIGZpbGwgaW4gZGVmYXVsdHMKICAgICAgICBwdWJsaWMgU3RyaW5nIHVybCA9ICJodHRwOi8vMTAuMS44LjMxOjgwL1BCWDAvdXNlci5zb2FwIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHVzZXJOYW1lID0gIlRBUEkiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgcGFzc3dvcmQgPSAiRnRtNmxld2oiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgYXBwTmFtZSA9ICJQcmlzb25DbG91ZCI7CiAgICAgICAgcHVibGljIFN0cmluZyBzeXN0ZW1QaG9uZU5hbWUgPSAiQ2FsbCBJZXBlciI7Ly8iQ2FsbCBCZXZlcmVuIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHN5c3RlbVBob25lU2NyaXB0VXJsID0gImh0dHA6Ly8xMjcuMC4wLjEvRFJJVkUvQ0YwL1ZvaWNlbWFpbFNjcmlwdHMvQXV0aGVudGljYXRlL2F1dGhlbnRpY2F0ZWNhbGwueG1sIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHN5c3RlbVBob25lTnVtYmVyID0gIiMjKys4OCMiOyAvLyB0cnkgdG8gdXNlIGEgbm9uLWV4aXN0aW5nIG51bWJlcgogICAgICAgIHB1YmxpYyBTdHJpbmcgYmVlcFBob25lTmFtZSA9ICJGYWtlUGhvbmUgSWVwZXIiOy8vIkZha2VQaG9uZSBCZXZlcmVuIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RQaG9uZSA9ICJUZXN0UGJ4U2VydmljZSBwaG9uZSI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0UGhvbmVEZXZpY2VOYW1lID0gIklQMTEwLTE1LWRhLWE0IjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RVc2VyID0gInRlc3QgVXNlciBQaG9uZSI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0VXNlckRldmljZU5hbWUgPSAiSVAxMTAtMTUtZGEtYTUiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgdGVzdFBob25lTnVtYmVyID0gIjEwMyI7CiAgICAgICAgcHVibGljIFN0cmluZyB3cm9uZ1Bob25lID0gImh1cHBlbGRlcHVwIjsKICAgICAgICBwdWJsaWMgU3RyaW5nIHRlc3RMb2NhdGlvbiA9ICJQQlgtSWVwZXIiOwogICAgICAgIHB1YmxpYyBTdHJpbmcgdGVzdE5vZGUgPSAicm9vdCI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0VHlwZSA9ICJlcCI7CiAgICAgICAgcHVibGljIFN0cmluZyB0ZXN0R3JvdXAgPSAiVEFQSSI7CiAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYm8ucGJ4LlBieFNlcnZpY2U7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lYm8ucGJ4LlBieFNlcnZpY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
@@ -547,8 +553,8 @@
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
         <entry>q</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>noh</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
