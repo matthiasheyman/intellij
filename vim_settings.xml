@@ -62,6 +62,9 @@
         <mark key="^" line="44" column="169" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" timestamp="1512051174725">
+        <mark key="'" line="102" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/AbstractUserServiceImpl.java" timestamp="1511864155414">
         <mark key="[" line="285" column="0" />
         <mark key="]" line="285" column="0" />
@@ -507,8 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="729" column="8" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="177" column="22" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="715" column="25" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="728" column="10" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="845" column="49" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
@@ -607,6 +608,8 @@
       <jump line="279" column="90" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
       <jump line="292" column="107" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
       <jump line="27" column="22" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="38" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" />
+      <jump line="102" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -622,7 +625,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyTmFtZVw+</text>
+        <text encoding="base64">bm8g</text>
       </register>
       <register name="0" type="4">
         <text>Ftm6lewj</text>
@@ -659,9 +662,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyTmFtZVw+</last-search>
+      <last-search encoding="base64">bm8g</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyTmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">bm8g</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -669,7 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2b2ljZVByb3h5UGhvbmVzXD4=</entry>
         <entry>deletefailed</entry>
         <entry encoding="base64">XDxBZnRlclw+</entry>
         <entry>adminena</entry>
@@ -689,6 +691,7 @@
         <entry encoding="base64">XDxjYWxsSW5mb0xpc3RcPg==</entry>
         <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
         <entry encoding="base64">XDx1c2VyTmFtZVw+</entry>
+        <entry encoding="base64">bm8g</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
