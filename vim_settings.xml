@@ -62,8 +62,8 @@
         <mark key="^" line="44" column="169" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" timestamp="1512053942880">
-        <mark key="'" line="128" column="39" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" timestamp="1512055304393">
+        <mark key="'" line="129" column="48" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/webservice/impl/AbstractUserServiceImpl.java" timestamp="1511864155414">
         <mark key="[" line="285" column="0" />
@@ -463,8 +463,8 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="153" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1512052728147">
-        <mark key="'" line="345" column="18" />
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1512055702536">
+        <mark key="'" line="952" column="101" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1511962521985">
         <mark key="'" line="753" column="40" />
@@ -492,7 +492,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1512053927011">
+      <file name="/fragment.java" timestamp="1512055189596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -513,18 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="976" column="12" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
-      <jump line="960" column="54" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="645" column="16" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/VoiceProxy.java" />
-      <jump line="144" column="34" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/VoiceProxy.java" />
-      <jump line="148" column="59" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/VoiceProxy.java" />
-      <jump line="387" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/VoiceProxy.java" />
-      <jump line="388" column="20" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/VoiceProxy.java" />
-      <jump line="394" column="58" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/model/VoiceProxy.java" />
-      <jump line="955" column="45" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="106" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/voip/aop/VoiceProxyAspect.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_fr.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
       <jump line="906" column="34" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="938" column="5" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
@@ -613,6 +601,18 @@
       <jump line="345" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
       <jump line="117" column="63" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" />
       <jump line="128" column="39" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" />
+      <jump line="115" column="12" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" />
+      <jump line="129" column="48" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" />
+      <jump line="1026" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="934" column="67" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="937" column="39" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="938" column="39" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="939" column="28" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="963" column="109" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="964" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="976" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="982" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="952" column="101" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -661,7 +661,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -675,7 +675,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZnRlclw+</entry>
         <entry>adminena</entry>
         <entry encoding="base64">XDx2b2ljZVByb3h5XD4=</entry>
         <entry encoding="base64">XDx2b2ljZVByb3h5Q2FsbFw+</entry>
@@ -694,6 +693,7 @@
         <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
         <entry encoding="base64">XDx1c2VyTmFtZVw+</entry>
         <entry encoding="base64">bm8g</entry>
+        <entry encoding="base64">XDxpbmZvcm1hdGlvbkNlbnRlcklkXD4=</entry>
         <entry>changepass</entry>
       </history-search>
       <history-cmd>
@@ -704,10 +704,10 @@
         <entry>w</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
         <entry>q</entry>
-        <entry>action FindUsages</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>noh</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
