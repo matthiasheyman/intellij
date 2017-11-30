@@ -136,6 +136,9 @@
         <mark key="^" line="849" column="19" />
         <mark key="." line="849" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/pbx-client/src/main/java/com/ebo/pbx/generated/PbxBindingStub.java" timestamp="1512048971169">
+        <mark key="'" line="1587" column="60" />
+      </file>
       <file name="/New Method Body.txt.ft" timestamp="1510645414300">
         <mark key="[" line="0" column="0" />
       </file>
@@ -365,10 +368,10 @@
         <mark key="^" line="270" column="117" />
         <mark key="." line="270" column="117" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" timestamp="1512047208878">
-        <mark key="'" line="223" column="70" />
-        <mark key="[" line="221" column="85" />
-        <mark key="]" line="221" column="90" />
+      <file name="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" timestamp="1512049188601">
+        <mark key="'" line="27" column="22" />
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="41" />
         <mark key="^" line="535" column="7" />
         <mark key="." line="535" column="7" />
       </file>
@@ -483,7 +486,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1511960403624">
+      <file name="/fragment.java" timestamp="1512049506327">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -504,18 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="121" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
-      <jump line="547" column="121" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
-      <jump line="31" column="22" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="1002" column="51" filename="$USER_HOME$/projects/ebovision/management/pom.xml" />
-      <jump line="725" column="8" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="727" column="69" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="770" column="36" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="814" column="47" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="823" column="43" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="927" column="44" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="928" column="44" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="729" column="8" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="177" column="22" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="715" column="25" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
@@ -604,6 +595,18 @@
       <jump line="128" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/DisplayUnit.java" />
       <jump line="232" column="29" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
       <jump line="223" column="70" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="445" column="58" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="95" column="5" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="1587" column="60" filename="$USER_HOME$/projects/ebovision/pbx-client/src/main/java/com/ebo/pbx/generated/PbxBindingStub.java" />
+      <jump line="568" column="28" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="28" column="22" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="55" column="34" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="66" column="78" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="92" column="99" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="120" column="78" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="279" column="90" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="292" column="107" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="27" column="22" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -619,10 +622,10 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsSW5mb0xpc3RcPg==</text>
+        <text encoding="base64">XDx1c2VyTmFtZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>169627</text>
+        <text>Ftm6lewj</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RhZ2UoIkFyY2hpdmUgYXJ0aWZhY3RzIikgewogICAgICAgICAgICAgICAgaWYgKGJ1aWxkU3VjY2VzcyAmJiB0aGlzLnByb2plY3RBcnRpZmFjdHMgIT0gbnVsbCAmJiAhdGhpcy5wcm9qZWN0QXJ0aWZhY3RzLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgIGRlZiBrZXlTZXQgPSBuZXcgQXJyYXlMaXN0PD4odGhpcy5wcm9qZWN0QXJ0aWZhY3RzLmtleVNldCgpKQogICAgICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwga2V5U2V0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRlZiBhcnRpZmFjdCA9IGtleVNldFtpXQogICAgICAgICAgICAgICAgICAgICAgICBkZWYgYWxsb3dlZEVtcHR5ID0gdGhpcy5wcm9qZWN0QXJ0aWZhY3RzLmdldChhcnRpZmFjdCkKCiAgICAgICAgICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJBcmNoaXZpbmc6ICIgKyBhcnRpZmFjdCArICIsIGFsbG93ZWQgZW1wdHk6ICIgKyBhbGxvd2VkRW1wdHkpCiAgICAgICAgICAgICAgICAgICAgICAgIGFyY2hpdmVBcnRpZmFjdHMgYXJ0aWZhY3RzOiBhcnRpZmFjdCwgZXhjbHVkZXM6IG51bGwsIG9ubHlJZlN1Y2Nlc3NmdWw6IHRydWUsIGFsbG93RW1wdHlBcmNoaXZlOiBhbGxvd2VkRW1wdHkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
@@ -652,13 +655,13 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsSW5mb0xpc3RcPg==</last-search>
+      <last-search encoding="base64">XDx1c2VyTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsSW5mb0xpc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyTmFtZVw+</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -666,8 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzeXN0ZW1QaG9uZVNjcmlwdFVybFw+</entry>
-        <entry encoding="base64">XDx2b2ljZVByb3h5U2VydmljZVJFU1RDbGllbnRcPg==</entry>
         <entry encoding="base64">XDx2b2ljZVByb3h5UGhvbmVzXD4=</entry>
         <entry>deletefailed</entry>
         <entry encoding="base64">XDxBZnRlclw+</entry>
@@ -686,6 +687,8 @@
         <entry encoding="base64">XDxnZW5lcmF0ZVBlcmZvcm1hbmNlUmVwb3J0XD4=</entry>
         <entry>contentarea</entry>
         <entry encoding="base64">XDxjYWxsSW5mb0xpc3RcPg==</entry>
+        <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
+        <entry encoding="base64">XDx1c2VyTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
@@ -695,10 +698,10 @@
         <entry>w</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
         <entry>q</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
         <entry>noh</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
