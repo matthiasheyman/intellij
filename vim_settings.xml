@@ -463,6 +463,9 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="153" column="85" />
       </file>
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1512052728147">
+        <mark key="'" line="345" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1511962521985">
         <mark key="'" line="753" column="40" />
         <mark key="[" line="1002" column="40" />
@@ -510,7 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="715" column="25" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="728" column="10" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="845" column="49" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="976" column="12" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
@@ -610,6 +612,7 @@
       <jump line="27" column="22" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
       <jump line="38" column="13" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" />
       <jump line="102" column="38" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/ui/client/UiClientBean.java" />
+      <jump line="345" column="18" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -625,7 +628,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">bm8g</text>
+        <text>changepass</text>
       </register>
       <register name="0" type="4">
         <text>Ftm6lewj</text>
@@ -662,9 +665,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">bm8g</last-search>
+      <last-search>changepass</last-search>
       <last-offset />
-      <last-pattern encoding="base64">bm8g</last-pattern>
+      <last-pattern>changepass</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -672,7 +675,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deletefailed</entry>
         <entry encoding="base64">XDxBZnRlclw+</entry>
         <entry>adminena</entry>
         <entry encoding="base64">XDx2b2ljZVByb3h5XD4=</entry>
@@ -692,6 +694,7 @@
         <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
         <entry encoding="base64">XDx1c2VyTmFtZVw+</entry>
         <entry encoding="base64">bm8g</entry>
+        <entry>changepass</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
