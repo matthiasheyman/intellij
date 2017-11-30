@@ -371,12 +371,18 @@
         <mark key="^" line="270" column="117" />
         <mark key="." line="270" column="117" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" timestamp="1512049188601">
-        <mark key="'" line="27" column="22" />
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="28" column="41" />
+      <file name="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" timestamp="1512057314663">
+        <mark key="'" line="48" column="40" />
+        <mark key="[" line="562" column="16" />
+        <mark key="]" line="562" column="199" />
         <mark key="^" line="535" column="7" />
         <mark key="." line="535" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/ebovision/pbx-client/Jenkinsfile" timestamp="1512056214638">
+        <mark key="[" line="13" column="113" />
+        <mark key="]" line="13" column="111" />
+        <mark key="." line="13" column="111" />
+        <mark key="^" line="13" column="111" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1510748271398">
         <mark key="[" line="0" column="0" />
@@ -492,11 +498,11 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1512055189596">
+      <file name="/fragment.java" timestamp="1512056950747">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/selenium/EbovisionSeleniumTest.java" timestamp="1511440761678">
         <mark key="'" line="125" column="11" />
@@ -513,9 +519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ebovision/management/src/main/resources/defaultMessages_nl.properties" />
-      <jump line="906" column="34" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
-      <jump line="938" column="5" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="76" column="17" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="308" column="6" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="946" column="74" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
@@ -613,6 +616,9 @@
       <jump line="976" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
       <jump line="982" column="26" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
       <jump line="952" column="101" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" />
+      <jump line="517" column="49" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="569" column="0" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="48" column="40" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -631,7 +637,7 @@
         <text>changepass</text>
       </register>
       <register name="0" type="4">
-        <text>Ftm6lewj</text>
+        <text>http://wiki.innovaphone.com/index.php?title=Reference8:SOAP_API#integer_UserMessage.28integer_user.2C_string_e164.2C_string_h323.2C_string_msg.2C_string_src_e164.2C_string_src_h323_.29</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RhZ2UoIkFyY2hpdmUgYXJ0aWZhY3RzIikgewogICAgICAgICAgICAgICAgaWYgKGJ1aWxkU3VjY2VzcyAmJiB0aGlzLnByb2plY3RBcnRpZmFjdHMgIT0gbnVsbCAmJiAhdGhpcy5wcm9qZWN0QXJ0aWZhY3RzLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgIGRlZiBrZXlTZXQgPSBuZXcgQXJyYXlMaXN0PD4odGhpcy5wcm9qZWN0QXJ0aWZhY3RzLmtleVNldCgpKQogICAgICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwga2V5U2V0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRlZiBhcnRpZmFjdCA9IGtleVNldFtpXQogICAgICAgICAgICAgICAgICAgICAgICBkZWYgYWxsb3dlZEVtcHR5ID0gdGhpcy5wcm9qZWN0QXJ0aWZhY3RzLmdldChhcnRpZmFjdCkKCiAgICAgICAgICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJBcmNoaXZpbmc6ICIgKyBhcnRpZmFjdCArICIsIGFsbG93ZWQgZW1wdHk6ICIgKyBhbGxvd2VkRW1wdHkpCiAgICAgICAgICAgICAgICAgICAgICAgIGFyY2hpdmVBcnRpZmFjdHMgYXJ0aWZhY3RzOiBhcnRpZmFjdCwgZXhjbHVkZXM6IG51bGwsIG9ubHlJZlN1Y2Nlc3NmdWw6IHRydWUsIGFsbG93RW1wdHlBcmNoaXZlOiBhbGxvd2VkRW1wdHkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
@@ -661,7 +667,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -701,13 +707,13 @@
         <entry>%s;user;client</entry>
         <entry>action CommentByLineComment</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>action :cursive.actions.paredit/wrap-quotes</entry>
         <entry>q</entry>
         <entry>noh</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
+        <entry>w</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
