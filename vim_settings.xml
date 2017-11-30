@@ -476,8 +476,12 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/DisplayUnit.java" timestamp="1511966526877">
+      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/DisplayUnit.java" timestamp="1512037309343">
         <mark key="'" line="128" column="8" />
+        <mark key="[" line="128" column="29" />
+        <mark key="]" line="128" column="9" />
+        <mark key="^" line="128" column="9" />
+        <mark key="." line="128" column="9" />
       </file>
       <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/IPeripheralInterfaceClient.java" timestamp="1507810191007">
         <mark key="[" line="2" column="17" />
@@ -588,7 +592,6 @@
       <jump line="66" column="36" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/DisplayUnit.java" />
       <jump line="87" column="39" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/DisplayUnit.java" />
       <jump line="97" column="39" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/DisplayUnit.java" />
-      <jump line="128" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/DisplayUnit.java" />
       <jump line="43" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ContentArea.java" />
       <jump line="59" column="53" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ContentArea.java" />
       <jump line="108" column="24" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/ContentArea.java" />
@@ -606,6 +609,7 @@
       <jump line="368" column="16" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="291" column="8" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
       <jump line="104" column="8" filename="$USER_HOME$/projects/ebotools/jenkins-workflows/src/com/ebo/jobs/JavaProjectBuilder.groovy" />
+      <jump line="128" column="8" filename="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/model/DisplayUnit.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -621,7 +625,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0ZVBlcmZvcm1hbmNlUmVwb3J0XD4=</text>
+        <text>contentarea</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZW1vdmUodm9pY2VQcm94eSwgdm9pY2VQcm94eVNlcnZpY2VSRVNUQ2xpZW50KTsK</text>
@@ -658,9 +662,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0ZVBlcmZvcm1hbmNlUmVwb3J0XD4=</last-search>
+      <last-search>contentarea</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0ZVBlcmZvcm1hbmNlUmVwb3J0XD4=</last-pattern>
+      <last-pattern>contentarea</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>voiceproxy</entry>
         <entry encoding="base64">XDx0ZWxlcGhvbnlSZWRlc2lnbkRhdGFcPg==</entry>
         <entry encoding="base64">XDxzeXN0ZW1QaG9uZVNjcmlwdFVybFw+</entry>
         <entry encoding="base64">XDx2b2ljZVByb3h5U2VydmljZVJFU1RDbGllbnRcPg==</entry>
@@ -688,6 +691,7 @@
         <entry encoding="base64">XDxnZW5lcmF0ZUFuYWx5c2lzUmVwb3J0XD4=</entry>
         <entry encoding="base64">XDxhcmNoaXZlQXJ0aWZhY3RzXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVBlcmZvcm1hbmNlUmVwb3J0XD4=</entry>
+        <entry>contentarea</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
