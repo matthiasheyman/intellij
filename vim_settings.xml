@@ -371,10 +371,10 @@
         <mark key="^" line="270" column="117" />
         <mark key="." line="270" column="117" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" timestamp="1512057314663">
-        <mark key="'" line="48" column="40" />
-        <mark key="[" line="562" column="16" />
-        <mark key="]" line="562" column="199" />
+      <file name="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" timestamp="1512057948580">
+        <mark key="'" line="499" column="65" />
+        <mark key="[" line="54" column="41" />
+        <mark key="]" line="54" column="76" />
         <mark key="^" line="535" column="7" />
         <mark key="." line="535" column="7" />
       </file>
@@ -519,7 +519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="17" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="308" column="6" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="946" column="74" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
       <jump line="968" column="113" filename="$USER_HOME$/projects/ebovision/management/src/test/java/com/ebo/ebovision/voip/webservice/TestVoipService.java" />
@@ -619,6 +618,7 @@
       <jump line="517" column="49" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
       <jump line="569" column="0" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
       <jump line="48" column="40" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
+      <jump line="499" column="65" filename="$USER_HOME$/projects/ebovision/pbx-client/src/test/java/com/ebo/pbx/TestPbxService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -634,10 +634,10 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>changepass</text>
+        <text>domain</text>
       </register>
       <register name="0" type="4">
-        <text>http://wiki.innovaphone.com/index.php?title=Reference8:SOAP_API#integer_UserMessage.28integer_user.2C_string_e164.2C_string_h323.2C_string_msg.2C_string_src_e164.2C_string_src_h323_.29</text>
+        <text>http://10.10.97.50:80/PBX0/user.soap</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RhZ2UoIkFyY2hpdmUgYXJ0aWZhY3RzIikgewogICAgICAgICAgICAgICAgaWYgKGJ1aWxkU3VjY2VzcyAmJiB0aGlzLnByb2plY3RBcnRpZmFjdHMgIT0gbnVsbCAmJiAhdGhpcy5wcm9qZWN0QXJ0aWZhY3RzLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgIGRlZiBrZXlTZXQgPSBuZXcgQXJyYXlMaXN0PD4odGhpcy5wcm9qZWN0QXJ0aWZhY3RzLmtleVNldCgpKQogICAgICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwga2V5U2V0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRlZiBhcnRpZmFjdCA9IGtleVNldFtpXQogICAgICAgICAgICAgICAgICAgICAgICBkZWYgYWxsb3dlZEVtcHR5ID0gdGhpcy5wcm9qZWN0QXJ0aWZhY3RzLmdldChhcnRpZmFjdCkKCiAgICAgICAgICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJBcmNoaXZpbmc6ICIgKyBhcnRpZmFjdCArICIsIGFsbG93ZWQgZW1wdHk6ICIgKyBhbGxvd2VkRW1wdHkpCiAgICAgICAgICAgICAgICAgICAgICAgIGFyY2hpdmVBcnRpZmFjdHMgYXJ0aWZhY3RzOiBhcnRpZmFjdCwgZXhjbHVkZXM6IG51bGwsIG9ubHlJZlN1Y2Nlc3NmdWw6IHRydWUsIGFsbG93RW1wdHlBcmNoaXZlOiBhbGxvd2VkRW1wdHkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
@@ -671,9 +671,9 @@
       </register>
     </registers>
     <search>
-      <last-search>changepass</last-search>
+      <last-search>domain</last-search>
       <last-offset />
-      <last-pattern>changepass</last-pattern>
+      <last-pattern>domain</last-pattern>
       <last-replace>client</last-replace>
       <last-substitute>addArti</last-substitute>
       <last-dir>1</last-dir>
@@ -681,7 +681,6 @@
     </search>
     <history>
       <history-search>
-        <entry>adminena</entry>
         <entry encoding="base64">XDx2b2ljZVByb3h5XD4=</entry>
         <entry encoding="base64">XDx2b2ljZVByb3h5Q2FsbFw+</entry>
         <entry>cleanu</entry>
@@ -701,6 +700,7 @@
         <entry encoding="base64">bm8g</entry>
         <entry encoding="base64">XDxpbmZvcm1hdGlvbkNlbnRlcklkXD4=</entry>
         <entry>changepass</entry>
+        <entry>domain</entry>
       </history-search>
       <history-cmd>
         <entry>%s;user</entry>
