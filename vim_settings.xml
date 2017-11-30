@@ -457,12 +457,6 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="153" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/ebovision/management/src/main/java/com/ebo/ebovision/client/webservice/impl/SecureClientServiceImpl.java" timestamp="1511878291453">
-        <mark key="[" line="326" column="0" />
-        <mark key="]" line="326" column="0" />
-        <mark key="." line="326" column="0" />
-        <mark key="^" line="326" column="29" />
-      </file>
       <file name="$USER_HOME$/projects/ebovision/management/pom.xml" timestamp="1511962521985">
         <mark key="'" line="753" column="40" />
         <mark key="[" line="1002" column="40" />
